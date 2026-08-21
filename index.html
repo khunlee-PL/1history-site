@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>1History — Our Shared Past, on One Globe</title>
+<meta name="description" content="A globe you can turn through time. Every history, side by side — told plainly, from the record, completely offline.">
+<!-- 1history.app landing (21 Aug 2026). §12 shop window: invite the store download, nothing else.
+     No app is served here; no third-party fetch of any kind (§5/§12) — no fonts, no analytics,
+     no scripts, no badges fetched from anyone. First-party bytes only. -->
+<style>
+  :root{ --bg:#070b16; --ink:#eaf0fb; --muted:#93a3c4; --line:rgba(140,160,190,.22);
+         --panel:#111a2e; --coast:#6fe3d0; --gold:#e8b45a; }
+  *{box-sizing:border-box}
+  body{margin:0;background:radial-gradient(1200px 700px at 50% -10%,#0e1730,#070b16);color:var(--ink);
+       font:16px/1.6 system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif;min-height:100vh}
+  a{color:var(--coast)}
+  .wrap{max-width:640px;margin:0 auto;padding:48px 20px 60px;text-align:center}
+  h1{font-size:34px;letter-spacing:.02em;margin:0 0 6px}
+  .tag{color:var(--gold);font-size:15px;letter-spacing:.14em;text-transform:uppercase;margin:0 0 34px}
+  .dotline{font-size:22px;letter-spacing:10px;margin:0 0 34px}
+  p.lead{color:var(--ink);font-size:18px;margin:0 0 14px}
+  p.sub{color:var(--muted);margin:0 0 26px}
+  .facts{display:grid;grid-template-columns:1fr 1fr;gap:12px;text-align:left;margin:0 0 34px}
+  @media(max-width:520px){.facts{grid-template-columns:1fr}}
+  .fact{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px 16px}
+  .fact b{display:block;color:var(--coast);font-size:14px;letter-spacing:.04em;margin-bottom:4px}
+  .fact span{color:var(--muted);font-size:14px}
+  .store{display:inline-block;background:linear-gradient(180deg,#2a6f63,#1d5147);
+         border:1px solid rgba(111,227,208,.6);color:var(--ink);border-radius:12px;
+         padding:14px 26px;font-size:16px;font-weight:600;text-decoration:none}
+  .store:hover{background:linear-gradient(180deg,#31816f,#256054)}
+  .soon{color:var(--muted);font-size:13px;margin-top:10px}
+  footer{color:var(--muted);font-size:13px;margin-top:44px;line-height:2}
+  footer a{color:var(--muted);text-decoration:underline}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>1History</h1>
+  <p class="tag">Our Shared Past, on One Globe</p>
+  <p class="dotline"><span style="color:#55E393">●</span><span style="color:#6FB2E8">●</span><span style="color:#C08CFF">●</span><span style="color:#3FE0F5">●</span><span style="color:#FF6B4A">●</span><span style="color:#FFB347">●</span></p>
+  <p class="lead">A globe you can turn through time.</p>
+  <p class="sub">Tap any dot and read what happened there — a few honest sentences from the
+     historical record, with no sermon attached. Great Zimbabwe and the Magna Carta sit at the
+     same size. Enheduanna, the first author whose name we know, gets the same daylight as the
+     Renaissance.</p>
+  <div class="facts">
+    <div class="fact"><b>Works with the wire pulled</b><span>No account, no tracking, no server — the entire history is in the app, on your device.</span></div>
+    <div class="fact"><b>Every history, side by side</b><span>The stories a louder curriculum left out, told beside the ones it kept.</span></div>
+    <div class="fact"><b>From the record</b><span>Original prose written for this app, dated and provenance-bound — not a repackaged feed.</span></div>
+    <div class="fact"><b>Play it, too</b><span>A guess-the-year-and-place game for up to ten players, free in every tier.</span></div>
+  </div>
+  <!-- THE ONE LINK THAT MATTERS. Placeholder until the listing is live: replace href with the
+       App Store URL the moment Apple issues it. Until then it is honest about itself. -->
+  <a class="store" href="#" onclick="return false">Download on the App&nbsp;Store</a>
+  <div class="soon">Coming to the App Store — the listing link will appear here.</div>
+  <footer>
+    <a href="/privacy">Privacy</a> · <a href="mailto:khunlee@gmail.com">Contact</a><br>
+    © 2026 Torazo
+  </footer>
+</div>
+</body>
+</html>
