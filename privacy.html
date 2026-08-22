@@ -4,8 +4,20 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Privacy — 1History</title>
-<!-- 1history.app/privacy (21 Aug 2026). Every sentence checkable against the shipped app and
-     the PrivacyInfo.xcprivacy manifest in its bundle. No third-party fetch on this page. -->
+<!-- 1history.app/privacy (21 Aug 2026; corrected 22 Aug 2026). Every sentence checkable against
+     the shipped app and the PrivacyInfo.xcprivacy manifest in its bundle. No third-party fetch on
+     this page.
+     THE 22 AUG CORRECTION. The first version said "the only network activity is Apple's App Store
+     system delivering the app's own content package". That was not true, and this page's own
+     standard is the sentence above it: the shipped core carries 4 wikipedia.org and 25
+     commons.wikimedia.org links ("Open Wikipedia" on a card, "About this image" on a picture
+     credit). They are reader-tapped and nothing is fetched automatically — but an unqualified
+     "only" is checkable by anyone with a network monitor, and a privacy policy caught understating
+     is worse than one that never boasted. The two roads are now named, and the picture paragraph
+     (true only since the 22 Aug offline-pictures build) is added, because it is the strongest
+     honest claim on the page and it was missing. -->
+<!-- Deploy: this file is served at /privacy. Re-check it against the binary at every release —
+     a policy is a claim about an artifact, and the artifact moves. -->
 <style>
   :root{ --bg:#070b16; --ink:#eaf0fb; --muted:#93a3c4; --line:rgba(140,160,190,.22); --coast:#6fe3d0; }
   *{box-sizing:border-box}
@@ -19,30 +31,52 @@
   .muted{color:var(--muted)}
   footer{color:var(--muted);font-size:13px;margin-top:40px;border-top:1px solid var(--line);padding-top:16px}
   footer a{color:var(--muted)}
+  /* THE BANNER (22 Aug 2026). First-party bytes, same origin — the page still fetches nothing
+     from anyone else. Transparent PNG, so it sits on the dark ground without a plate. */
+  .banner{display:block;margin:0 auto 26px;width:min(400px,86%);height:auto}
 </style>
 </head>
 <body>
 <div class="wrap">
+  <a href="/"><img class="banner" src="/banner.png" width="840" height="279"
+       alt="1History — Our Shared Past, on One Globe"></a>
   <h1>Privacy Policy — 1History</h1>
-  <p class="date">21 August 2026</p>
+  <p class="date">22 August 2026</p>
 
   <p><b>1History collects no personal data. None.</b></p>
 
   <p>The app has no accounts, no analytics, no advertising, no tracking, and no server of ours.
-     It works entirely offline; the only network activity is Apple's App Store system delivering
-     the app's own content package when you request it. Everything you do in the app — reading,
-     settings, personal markers — stays on your device.</p>
+     Everything you do in it — reading, settings, personal markers — stays on your device.</p>
 
-  <p>Purchases are handled by Apple. We never see your payment details.</p>
+  <p><b>The app never contacts a network on its own.</b> There are exactly two ways anything
+     leaves your device, and you start both of them:</p>
+
+  <p>&nbsp;&nbsp;<b>1. Apple.</b> When you choose to download the full collection, Apple's App
+     Store system delivers the content package. Purchases are handled by Apple too; we never see
+     your payment details. Apple's own privacy terms cover both.</p>
+
+  <p>&nbsp;&nbsp;<b>2. A link you tap.</b> Cards can open their Wikipedia article, and pictures
+     can open their Wikimedia Commons credit page. Tapping one opens Wikipedia in your browser,
+     the ordinary way — so Wikipedia sees that request, as it would for any link. Nothing is
+     opened for you, nothing is fetched in the background, and the link is never routed through
+     anything of ours or through a translation proxy: that would tell a third party which card
+     you were reading, which is the whole thing this app is built not to do.</p>
+
+  <p>In particular, <b>the pictures are not fetched while you read.</b> They are downloaded once,
+     inside the content package, and shown from your device. An app that loaded each picture when
+     you opened its card would be announcing every card you looked at, one request at a time. This
+     one cannot: the code that would reach for a picture on the network is switched off in the
+     shipped build, and a check in our release process refuses any build that grows a new network
+     call of any kind.</p>
 
   <p>Because we collect nothing, there is nothing for us to share, sell, or delete.</p>
 
   <p class="muted">The app's bundle carries a privacy manifest (PrivacyInfo.xcprivacy) declaring
      exactly this: no tracking, no tracking domains, no collected data.</p>
 
-  <p>Questions: <a href="mailto:khunlee@gmail.com">khunlee@gmail.com</a></p>
+  <p>Questions: <a href="mailto:1history.app@gmail.com">1history.app@gmail.com</a></p>
 
-  <footer><a href="/">← 1History</a> · © 2026 Torazo</footer>
+  <footer><a href="/">← 1History</a> · © 2026 1History</footer>
 </div>
 </body>
 </html>
