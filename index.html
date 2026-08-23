@@ -27,6 +27,16 @@
   /* the hero questions — the author's two lines, 23 Aug 2026 */
   h2.hero{font-size:clamp(21px,4.6vw,28px);line-height:1.35;letter-spacing:.01em;margin:0 0 10px;font-weight:700}
   h2.hero .q2{color:var(--gold)}
+  /* THE SCREENSHOTS (24 Aug 2026) — the six App Store shots, local JPEGs (first-party; the page
+     still fetches nothing from anyone). A horizontal scroll strip, full-bleed so it can breathe
+     beyond the 680px column; the demo link sits under it. */
+  .shots{margin:22px 0 6px}
+  .shots-row{display:flex;gap:14px;overflow-x:auto;scroll-snap-type:x mandatory;
+    padding:4px 20px 14px;-webkit-overflow-scrolling:touch;scrollbar-width:thin}
+  .shots-row img{flex:0 0 auto;width:min(220px,64vw);height:auto;border-radius:16px;
+    border:1px solid var(--line);scroll-snap-align:center;background:#0b0f1c}
+  .demolink{display:inline-block;font-size:15px;font-weight:600;margin:4px 0 26px;text-decoration:none}
+  .demolink:hover{text-decoration:underline}
   .dotline{font-size:20px;letter-spacing:10px;margin:22px 0 26px}
   p.lead{font-size:18px;line-height:1.65;margin:0 0 12px}
   p.sub{color:var(--muted);margin:0 auto 30px;max-width:560px}
@@ -56,6 +66,18 @@
 
   <h2 class="hero">Ever wondered what the rest of the world was like the year you were born?<br>
   <span class="q2">Or why was your &ldquo;World History&rdquo; course 90% Western history?</span></h2>
+
+  <div class="shots">
+    <div class="shots-row">
+      <img src="/shots/01-universe.jpg" width="440" height="954" loading="lazy" alt="The globe at the Big Bang — 13.8 billion years ago">
+      <img src="/shots/02-dinosaurs.jpg" width="440" height="954" loading="lazy" alt="The earliest dinosaurs appear — 233 million years ago">
+      <img src="/shots/03-marco-polo.jpg" width="440" height="954" loading="lazy" alt="Marco Polo's journey drawn across Asia">
+      <img src="/shots/04-tikal.jpg" width="440" height="954" loading="lazy" alt="A card open — Tikal in the Classic Maya period, with its picture">
+      <img src="/shots/05-quiz.jpg" width="440" height="954" loading="lazy" alt="The guess-the-year game, two players">
+      <img src="/shots/06-my-history.jpg" width="440" height="954" loading="lazy" alt="Add your own life to the globe">
+    </div>
+    <a class="demolink" href="https://youtube.com/shorts/5yXAbXQVja8" rel="noopener noreferrer">Watch a short demo on YouTube &rarr;</a>
+  </div>
 
   <p class="dotline"><span style="color:#55E393">●</span><span style="color:#6FB2E8">●</span><span style="color:#C08CFF">●</span><span style="color:#3FE0F5">●</span><span style="color:#FF6B4A">●</span><span style="color:#FFB347">●</span></p>
 
