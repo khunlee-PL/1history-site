@@ -54,8 +54,10 @@
   .store:hover{background:linear-gradient(180deg,#31816f,#256054)}
   .store.soon{background:#141d30;border-color:var(--line);color:var(--muted);cursor:default}
   .soonnote{color:var(--muted);font-size:13px;margin-top:8px}
-  .offline{background:var(--panel);border:1px solid var(--line);border-radius:12px;
-           padding:12px 18px;color:var(--muted);font-size:14px;margin:28px auto 0;max-width:560px}
+  /* the product's real advantage, made prominent (24 Aug 2026, the author's feedback) */
+  .privline{font-size:clamp(19px,3.4vw,24px);font-weight:700;letter-spacing:.01em;color:var(--coast);
+            margin:30px 0 6px}
+  .offline{color:var(--muted);font-size:15px;line-height:1.6;margin:0 auto 4px;max-width:520px}
   .offline b{color:var(--ink)}
   footer{color:var(--muted);font-size:13px;margin-top:44px;line-height:2;border-top:1px solid var(--line);padding-top:20px}
   footer a{color:var(--muted);text-decoration:underline}
@@ -69,7 +71,7 @@
   <h1 class="vh">1History — Our Shared Past, on One Globe</h1>
 
   <h2 class="hero">Ever wondered what the rest of the world was like the year you were born?<br>
-  <span class="q2">Or why was your &ldquo;World History&rdquo; course 90% Western history?</span></h2>
+  <span class="q2">Or why your &ldquo;World History&rdquo; course was 90% Western history?</span></h2>
 
   <div class="shots">
     <div class="shots-row">
@@ -93,20 +95,21 @@
      at the same size.</p>
 
   <p class="packs">700+ events across the globe, with pictures — and counting.
-    <small>New packs and new waves to follow.</small></p>
+    <small>More packs and regions on the way.</small></p>
 
-  <p class="cta"><b>Download your free version today!</b></p>
-  <!-- THE ONE LINK THAT MATTERS. Placeholder until the listing is live: replace the first href
-       with the App Store URL the moment Apple issues it. Until then it is honest about itself. -->
+  <p class="privline">No account. No tracking. No server.</p>
+  <p class="offline">The entire history is in the app, on your device — pictures included. It
+     works completely offline.</p>
+
+  <!-- THE CTA. Until the app is live, the call to action is honest: coming soon, one message, no
+       contradiction. On approval, swap this block for a real "Download on the App Store" link
+       (replace the href, drop the .soon class). -->
+  <p class="cta"><b>Coming soon to the App&nbsp;Store</b></p>
   <div class="stores">
-    <a class="store" href="#" onclick="return false">Download on the App&nbsp;Store</a>
+    <span class="store soon">App Store — soon</span>
     <span class="store soon">Google Play — soon</span>
   </div>
-  <div class="soonnote">Coming to the App Store — the listing link will appear here.</div>
-
-  <div class="offline"><b>Works with the wire pulled.</b> No account, no tracking, no server —
-    the entire history is in the app, on your device, pictures included. Works even without
-    the internet.</div>
+  <div class="soonnote">Free to download. Follow along — the link will appear here at launch.</div>
 
   <footer>
     <a href="/privacy">Privacy</a> · <a href="mailto:1history.app@gmail.com">Contact</a><br>
