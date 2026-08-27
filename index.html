@@ -32,6 +32,10 @@
 <link rel="alternate" hreflang="lo" href="/lao/">
 <link rel="alternate" hreflang="my" href="/burmese/">
 <link rel="alternate" hreflang="fil" href="/filipino/">
+<link rel="alternate" hreflang="ceb" href="/cebuano/">
+<link rel="alternate" hreflang="ko" href="/korean/">
+<link rel="alternate" hreflang="ta" href="/tamil/">
+<link rel="alternate" hreflang="si" href="/sinhala/">
 <style>
   :root{ --bg:#070b16; --ink:#eaf0fb; --muted:#93a3c4; --line:rgba(140,160,190,.22);
          --coast:#6fe3d0; --gold:#e8b45a; }
@@ -42,15 +46,28 @@
   .banner{display:block;margin:0 auto 26px;width:min(560px,94%);height:auto}
   .vh{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
   .tagline{font-size:clamp(18px,3.6vw,22px);font-weight:700;letter-spacing:.01em;margin:0 0 6px}
-  .choose{color:var(--muted);font-size:15px;margin:0 0 30px}
-  .grid{display:flex;flex-wrap:wrap;gap:12px;justify-content:center;margin:0 auto;max-width:600px}
+  .choose{color:var(--muted);font-size:15px;margin:0 0 26px}
+  .grid{display:flex;flex-wrap:wrap;gap:12px;justify-content:center;margin:0 auto;max-width:640px}
+  .grid.default{margin-bottom:26px}
   a.ed{display:inline-block;background:#111a2e;border:1px solid var(--line);border-radius:12px;
-       color:var(--ink);text-decoration:none;padding:14px 20px;font-size:18px;font-weight:600;
+       color:var(--ink);text-decoration:none;padding:13px 20px;font-size:18px;font-weight:600;
        min-width:150px}
   a.ed:hover{border-color:var(--coast);background:#16213a}
-  footer{color:var(--muted);font-size:13px;margin-top:48px;line-height:2;
+  .region{margin:0 auto 22px;max-width:640px}
+  .reg-h{font-size:12px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;
+    color:var(--muted);margin:0 0 12px;padding-bottom:6px;border-bottom:1px solid var(--line)}
+  footer{color:var(--muted);font-size:13px;margin-top:40px;line-height:2;
     border-top:1px solid var(--line);padding-top:20px}
   footer a{color:var(--muted);text-decoration:underline}
+  /* DESKTOP: open the picker across the page — the regions as columns, not a single stack. */
+  @media (min-width:1000px){
+    .wrap{max-width:1100px;padding:52px 32px 72px}
+    .regions{display:grid;grid-template-columns:repeat(2,1fr);gap:16px 40px;text-align:left;margin-top:8px}
+    .region{margin:0;max-width:none}
+    .grid{justify-content:flex-start;max-width:none}
+    .grid.default{justify-content:center;text-align:center}
+    a.ed{font-size:16px;padding:11px 16px;min-width:0}
+  }
 </style>
 </head>
 <body>
@@ -59,28 +76,64 @@
   <h1 class="vh">1History — Our Shared Past on One Globe</h1>
   <p class="tagline">Our Shared Past on One Globe</p>
   <p class="choose">Choose your language edition · เลือกภาษา · 选择语言 · اختر لغتك</p>
-  <nav class="grid">
-    <a class="ed" href="/english/" hreflang="en" lang="en" dir="ltr">English</a>
-    <a class="ed" href="/thai/" hreflang="th" lang="th" dir="ltr">ไทย</a>
-    <a class="ed" href="/japanese/" hreflang="ja" lang="ja" dir="ltr">日本語</a>
-    <a class="ed" href="/spanish/" hreflang="es" lang="es" dir="ltr">Español</a>
-    <a class="ed" href="/arabic/" hreflang="ar" lang="ar" dir="rtl">العربية</a>
-    <a class="ed" href="/chinese-simplified/" hreflang="zh-Hans" lang="zh-Hans" dir="ltr">简体中文</a>
-    <a class="ed" href="/chinese-traditional/" hreflang="zh-Hant" lang="zh-Hant" dir="ltr">繁體中文</a>
-    <a class="ed" href="/french/" hreflang="fr" lang="fr" dir="ltr">Français</a>
-    <a class="ed" href="/russian/" hreflang="ru" lang="ru" dir="ltr">Русский</a>
-    <a class="ed" href="/german/" hreflang="de" lang="de" dir="ltr">Deutsch</a>
-    <a class="ed" href="/portuguese/" hreflang="pt-BR" lang="pt-BR" dir="ltr">Português (Brasil)</a>
-    <a class="ed" href="/hindi/" hreflang="hi" lang="hi" dir="ltr">हिन्दी</a>
-    <a class="ed" href="/bengali/" hreflang="bn" lang="bn" dir="ltr">বাংলা</a>
-    <a class="ed" href="/indonesian/" hreflang="id" lang="id" dir="ltr">Bahasa Indonesia</a>
-    <a class="ed" href="/malay/" hreflang="ms" lang="ms" dir="ltr">Bahasa Melayu</a>
-    <a class="ed" href="/vietnamese/" hreflang="vi" lang="vi" dir="ltr">Tiếng Việt</a>
-    <a class="ed" href="/khmer/" hreflang="km" lang="km" dir="ltr">ភាសាខ្មែរ</a>
-    <a class="ed" href="/lao/" hreflang="lo" lang="lo" dir="ltr">ລາວ</a>
-    <a class="ed" href="/burmese/" hreflang="my" lang="my" dir="ltr">မြန်မာဘာသာ</a>
-    <a class="ed" href="/filipino/" hreflang="fil" lang="fil" dir="ltr">Filipino</a>
+  <nav class="grid default">
+      <a class="ed" href="/english/" hreflang="en" lang="en" dir="ltr">English</a>
   </nav>
+  <div class="regions">
+    <section class="region">
+      <h2 class="reg-h">Europe</h2>
+      <nav class="grid">
+      <a class="ed" href="/spanish/" hreflang="es" lang="es" dir="ltr">Español</a>
+      <a class="ed" href="/french/" hreflang="fr" lang="fr" dir="ltr">Français</a>
+      <a class="ed" href="/russian/" hreflang="ru" lang="ru" dir="ltr">Русский</a>
+      <a class="ed" href="/german/" hreflang="de" lang="de" dir="ltr">Deutsch</a>
+      </nav>
+    </section>
+    <section class="region">
+      <h2 class="reg-h">Americas</h2>
+      <nav class="grid">
+      <a class="ed" href="/portuguese/" hreflang="pt-BR" lang="pt-BR" dir="ltr">Português (Brasil)</a>
+      </nav>
+    </section>
+    <section class="region">
+      <h2 class="reg-h">East Asia</h2>
+      <nav class="grid">
+      <a class="ed" href="/japanese/" hreflang="ja" lang="ja" dir="ltr">日本語</a>
+      <a class="ed" href="/chinese-simplified/" hreflang="zh-Hans" lang="zh-Hans" dir="ltr">简体中文</a>
+      <a class="ed" href="/chinese-traditional/" hreflang="zh-Hant" lang="zh-Hant" dir="ltr">繁體中文</a>
+      <a class="ed" href="/korean/" hreflang="ko" lang="ko" dir="ltr">한국어</a>
+      </nav>
+    </section>
+    <section class="region">
+      <h2 class="reg-h">Southeast Asia</h2>
+      <nav class="grid">
+      <a class="ed" href="/thai/" hreflang="th" lang="th" dir="ltr">ไทย</a>
+      <a class="ed" href="/indonesian/" hreflang="id" lang="id" dir="ltr">Bahasa Indonesia</a>
+      <a class="ed" href="/malay/" hreflang="ms" lang="ms" dir="ltr">Bahasa Melayu</a>
+      <a class="ed" href="/vietnamese/" hreflang="vi" lang="vi" dir="ltr">Tiếng Việt</a>
+      <a class="ed" href="/khmer/" hreflang="km" lang="km" dir="ltr">ភាសាខ្មែរ</a>
+      <a class="ed" href="/lao/" hreflang="lo" lang="lo" dir="ltr">ລາວ</a>
+      <a class="ed" href="/burmese/" hreflang="my" lang="my" dir="ltr">မြန်မာဘာသာ</a>
+      <a class="ed" href="/filipino/" hreflang="fil" lang="fil" dir="ltr">Filipino</a>
+      <a class="ed" href="/cebuano/" hreflang="ceb" lang="ceb" dir="ltr">Cebuano</a>
+      </nav>
+    </section>
+    <section class="region">
+      <h2 class="reg-h">South Asia</h2>
+      <nav class="grid">
+      <a class="ed" href="/hindi/" hreflang="hi" lang="hi" dir="ltr">हिन्दी</a>
+      <a class="ed" href="/bengali/" hreflang="bn" lang="bn" dir="ltr">বাংলা</a>
+      <a class="ed" href="/tamil/" hreflang="ta" lang="ta" dir="ltr">தமிழ்</a>
+      <a class="ed" href="/sinhala/" hreflang="si" lang="si" dir="ltr">සිංහල</a>
+      </nav>
+    </section>
+    <section class="region">
+      <h2 class="reg-h">West Asia</h2>
+      <nav class="grid">
+      <a class="ed" href="/arabic/" hreflang="ar" lang="ar" dir="rtl">العربية</a>
+      </nav>
+    </section>
+  </div>
   <footer>
     <a href="/privacy">Privacy</a> · <a href="mailto:1history.app@gmail.com">Contact</a><br>
     © 2026 1History
