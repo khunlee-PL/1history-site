@@ -49,7 +49,19 @@
          --panel:#111a2e; --coast:#6fe3d0; --gold:#e8b45a; }
   *{box-sizing:border-box}
   body{margin:0;background:radial-gradient(1200px 700px at 50% -10%,#0e1730,#070b16);color:var(--ink);
-       font:16px/1.6 system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif;min-height:100vh}
+       /* THE TYPE LAW, ON THE WEB SURFACES TOO (28 Aug 2026). This stack is the one in
+          tools/check_fonts.py, named there once and compared here (§5's three-statements shape).
+          The Latin-only stack this replaces meant the Thai, Khmer and Burmese landings could
+          render as BOXES on a device without a default face for the script — thirty-one editions
+          were generated from a template that only spoke Latin. Nothing is fetched or embedded:
+          these are faces the device already has. (Do not name the embed-rule in this comment —
+          the guard's remote-font pattern reads prose as well as CSS, and rightly so: a scanner
+          that skipped comments could be talked out of a finding by a comment.) */
+       font:16px/1.6 system-ui,-apple-system,"Segoe UI","Helvetica Neue",Helvetica,Arial,
+            "Thonburi","Sukhumvit Set","Leelawadee UI",
+            "Khmer Sangam MN","Khmer OS",
+            "Myanmar Sangam MN","Myanmar Text",Padauk,
+            sans-serif;min-height:100vh}
   a{color:var(--coast)}
   .wrap{max-width:680px;margin:0 auto;padding:38px 20px 60px;text-align:center}
   /* the small edition switcher — first-party, links back to the picker at / */
@@ -81,6 +93,14 @@
   .store:hover{background:linear-gradient(180deg,#31816f,#256054)}
   .store.soon{background:#141d30;border-color:var(--line);color:var(--muted);cursor:default}
   .soonnote{color:var(--muted);font-size:13px;margin-top:8px}
+  /* THE SOCIAL LINKS (the author, 28 Aug 2026) sit INLINE with the soonnote, because that is the
+     sentence that sends the reader to them — "follow us for the Android launch". A separate row
+     elsewhere would divorce the promise from the means of keeping it. Names, not logos: a logo is
+     a third-party asset with its own trademark terms, and §12 keeps the page first-party. */
+  .social{display:inline;white-space:nowrap}
+  .social a{color:var(--coast);text-decoration:none;border-bottom:1px solid rgba(111,227,208,.35)}
+  .social a:hover{border-bottom-color:var(--coast)}
+  .social .sep{opacity:.5;padding:0 2px}
   .privline{font-size:clamp(19px,3.4vw,24px);font-weight:700;letter-spacing:.01em;color:var(--coast);
             margin:30px 0 6px}
   .offline{color:var(--muted);font-size:15px;line-height:1.6;margin:0 auto 4px;max-width:520px}
@@ -114,15 +134,15 @@
        alt="1History — Our Shared Past on One Globe">
   <h1 class="vh">1History — Our Shared Past on One Globe</h1>
 
-  <h2 class="hero">เคยสงสัยไหมว่าในปีที่คุณเกิด โลกอีกซีกหนึ่งเป็นอย่างไร?<br>
-  <span class="q2">หรือทำไมวิชา “ประวัติศาสตร์โลก” ที่เรียนมา ถึงเป็นเรื่องของฝั่งตะวันตกซะ 90%?</span></h2>
+  <h2 class="hero">เคยสงสัยมั้ยว่าในปีที่คุณเกิด ซีกโลกอื่นป็นยังไง?<br>
+  <span class="q2">ทำไมวิชา “ประวัติศาสตร์โลก” ในห้องเรียน ถึงเป็นเรื่องของโลกตะวันตกซะ 90%?</span></h2>
 
   <div class="shots">
     <div class="shots-row">
-      <img src="/shots/01-universe.jpg" width="440" height="954" loading="lazy" alt="ลูกโลก ณ ช่วง Big Bang — เมื่อ 13.8 พันล้านปีก่อน">
+      <img src="/shots/01-universe.jpg" width="440" height="954" loading="lazy" alt="Big Bang — เมื่อ 13.8 พันล้านปีก่อน">
       <img src="/shots/02-dinosaurs.jpg" width="440" height="954" loading="lazy" alt="ไดโนเสาร์ยุคแรกสุดถือกำเนิด — เมื่อ 233 ล้านปีก่อน">
-      <img src="/shots/03-marco-polo.jpg" width="440" height="954" loading="lazy" alt="เส้นทางของ Marco Polo ที่ลากพาดผ่านทวีปเอเชีย">
-      <img src="/shots/04-tikal.jpg" width="440" height="954" loading="lazy" alt="การ์ดที่เปิดอยู่ — Tikal ในยุคมายาคลาสสิก พร้อมภาพประกอบ">
+      <img src="/shots/03-marco-polo.jpg" width="440" height="954" loading="lazy" alt="เส้นทางของมาร์โคโปโลที่ลากพาดผ่านทวีปเอเชีย">
+      <img src="/shots/04-tikal.jpg" width="440" height="954" loading="lazy" alt="Tikal ในยุคมายาคลาสสิก พร้อมภาพประกอบ">
       <img src="/shots/05-quiz.jpg" width="440" height="954" loading="lazy" alt="เกมทายปี แบบสองผู้เล่น">
       <img src="/shots/06-my-history.jpg" width="440" height="954" loading="lazy" alt="เพิ่มเรื่องราวชีวิตของคุณลงไปบนลูกโลก">
     </div>
@@ -131,21 +151,21 @@
 
   <p class="dotline"><span style="color:#55E393">●</span><span style="color:#6FB2E8">●</span><span style="color:#C08CFF">●</span><span style="color:#3FE0F5">●</span><span style="color:#FF6B4A">●</span><span style="color:#FFB347">●</span></p>
 
-  <p class="lead">ไม่ต้องคำนวณ พ.ศ. ไม่ต้องท่องจำ ไม่ต้องนั่งเปิดหนังสืออ่านผ่าน ๆ แค่เล่นเกมทายปี จะเล่นคนเดียวหรือชวนเพื่อนได้ถึงสิบคนก็ได้ แล้ว 1History จะพาคุณท่องประวัติศาสตร์โลก — ตั้งแต่ Big Bang ไปจนถึง COVID-19 — ในแบบที่คุณไม่เคยสัมผัสมาก่อน</p>
-  <p class="sub">แค่แตะจุดไหนก็ได้บนลูกโลก แล้วอ่านว่าตรงนั้นเกิดอะไรขึ้น: ไม่กี่ประโยคตรงไปตรงมาจากบันทึกประวัติศาสตร์ ที่นี่ Great Zimbabwe กับ Magna Carta มีขนาดเท่ากัน</p>
+  <p class="lead">ไม่ต้องคำนวณ พ.ศ. ไม่ต้องท่องจำ ไม่ต้องนั่งเปิดหนังสือ เล่นเกมทายเหตุการณ์ จะเล่นคนเดียวหรือชวนเพื่อนมาเล่นกันซักสิบคนก็ได้ 1History จะพาคุณท่องประวัติศาสตร์โลก — ตั้งแต่บิ๊กแบงไปจนถึงโควิด-19 — ในแบบที่คุณไม่เคยสัมผัสมาก่อน</p>
+  <p class="sub">แตะจุดไหนก็ได้บนลูกโลก แล้วอ่านว่าตรงนั้นเกิดอะไรขึ้นในประวัติศาสตร์ด้วยไม่กี่ประโยค บนลูกโลกใบนี้ Great Zimbabwe กับ Magna Carta มีขนาดเท่ากัน</p>
 
-  <p class="packs">กว่า 700+ เหตุการณ์จากทั่วโลก พร้อมภาพประกอบ — และยังเพิ่มขึ้นเรื่อย ๆ
-    <small>ยังมีแพ็กและภูมิภาคใหม่ ๆ ทยอยตามมาอีก</small></p>
+  <p class="packs">กว่า 700 เหตุการณ์จากทั่วโลก พร้อมภาพประกอบ — และยังจะเพิ่มขึ้นเรื่อย ๆ
+    <small>ยังมีชุดเหตุการณ์และประวัติศาสตร์ประเทศต่าง ๆ ทยอยตามมาอีก</small></p>
 
-  <p class="privline">ไม่ต้องสมัครบัญชี ไม่มีการติดตาม ไม่มีเซิร์ฟเวอร์</p>
-  <p class="offline">ประวัติศาสตร์ทั้งหมดอยู่ในแอปบนเครื่องของคุณ — ภาพประกอบก็ครบ ใช้งานออฟไลน์ได้เต็มรูปแบบ</p>
+  <p class="privline">ไม่ต้องเปิดบัญชี ไม่เก็บหรือส่งข้อมูลของคุณ</p>
+  <p class="offline">ประวัติศาสตร์ทั้งหมดจะอยู่ในแอปบนเครื่องของคุณ พร้อมภาพประกอบ ใช้งานออฟไลน์ได้เต็มรูปแบบ</p>
 
-  <p class="cta"><b>เร็ว ๆ นี้ทาง App Store</b></p>
+  <p class="cta"><b>ดาวน์โหลดได้แล้ววันนี้จาก App Store</b></p>
   <div class="stores">
-    <span class="store soon">App Store — เร็ว ๆ นี้</span>
+    <a class="store" href="https://apps.apple.com/us/app/1history/id6803081450" rel="noopener noreferrer">ดาวน์โหลดฟรีจาก App Store </a>
     <span class="store soon">Google Play — เร็ว ๆ นี้</span>
   </div>
-  <div class="soonnote">ดาวน์โหลดฟรี กดติดตามกันไว้ — พอเปิดตัวเมื่อไร ลิงก์จะมาโผล่ตรงนี้เลย</div>
+  <div class="soonnote">ติดตามเราทางสื่อโซเชียลมีเดีย เพื่อรับข่าวสารการเปิดตัวเวอร์ชันแอนดรอยด์ และอัพเดตอื่น ๆ ลิงก์จะปรากฎที่นี่ <span class="social"><a href="https://x.com/1history_app" rel="noopener noreferrer me">X</a><span class="sep">·</span> <a href="https://www.threads.net/@1history_app" rel="noopener noreferrer me">Threads</a><span class="sep">·</span> <a href="https://www.instagram.com/1history_app/" rel="noopener noreferrer me">Instagram</a></span></div>
 
   <footer>
     <a href="/privacy">ความเป็นส่วนตัว</a> · <a href="mailto:1history.app@gmail.com">ติดต่อเรา</a><br>

@@ -49,7 +49,19 @@
          --panel:#111a2e; --coast:#6fe3d0; --gold:#e8b45a; }
   *{box-sizing:border-box}
   body{margin:0;background:radial-gradient(1200px 700px at 50% -10%,#0e1730,#070b16);color:var(--ink);
-       font:16px/1.6 system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif;min-height:100vh}
+       /* THE TYPE LAW, ON THE WEB SURFACES TOO (28 Aug 2026). This stack is the one in
+          tools/check_fonts.py, named there once and compared here (§5's three-statements shape).
+          The Latin-only stack this replaces meant the Thai, Khmer and Burmese landings could
+          render as BOXES on a device without a default face for the script — thirty-one editions
+          were generated from a template that only spoke Latin. Nothing is fetched or embedded:
+          these are faces the device already has. (Do not name the embed-rule in this comment —
+          the guard's remote-font pattern reads prose as well as CSS, and rightly so: a scanner
+          that skipped comments could be talked out of a finding by a comment.) */
+       font:16px/1.6 system-ui,-apple-system,"Segoe UI","Helvetica Neue",Helvetica,Arial,
+            "Thonburi","Sukhumvit Set","Leelawadee UI",
+            "Khmer Sangam MN","Khmer OS",
+            "Myanmar Sangam MN","Myanmar Text",Padauk,
+            sans-serif;min-height:100vh}
   a{color:var(--coast)}
   .wrap{max-width:680px;margin:0 auto;padding:38px 20px 60px;text-align:center}
   /* the small edition switcher — first-party, links back to the picker at / */
@@ -81,6 +93,14 @@
   .store:hover{background:linear-gradient(180deg,#31816f,#256054)}
   .store.soon{background:#141d30;border-color:var(--line);color:var(--muted);cursor:default}
   .soonnote{color:var(--muted);font-size:13px;margin-top:8px}
+  /* THE SOCIAL LINKS (the author, 28 Aug 2026) sit INLINE with the soonnote, because that is the
+     sentence that sends the reader to them — "follow us for the Android launch". A separate row
+     elsewhere would divorce the promise from the means of keeping it. Names, not logos: a logo is
+     a third-party asset with its own trademark terms, and §12 keeps the page first-party. */
+  .social{display:inline;white-space:nowrap}
+  .social a{color:var(--coast);text-decoration:none;border-bottom:1px solid rgba(111,227,208,.35)}
+  .social a:hover{border-bottom-color:var(--coast)}
+  .social .sep{opacity:.5;padding:0 2px}
   .privline{font-size:clamp(19px,3.4vw,24px);font-weight:700;letter-spacing:.01em;color:var(--coast);
             margin:30px 0 6px}
   .offline{color:var(--muted);font-size:15px;line-height:1.6;margin:0 auto 4px;max-width:520px}
@@ -122,8 +142,8 @@
       <img src="/shots/01-universe.jpg" width="440" height="954" loading="lazy" alt="The globe at the Big Bang — 13.8 billion years ago">
       <img src="/shots/02-dinosaurs.jpg" width="440" height="954" loading="lazy" alt="The earliest dinosaurs appear — 233 million years ago">
       <img src="/shots/03-marco-polo.jpg" width="440" height="954" loading="lazy" alt="Marco Polo&#x27;s journey drawn across Asia">
-      <img src="/shots/04-tikal.jpg" width="440" height="954" loading="lazy" alt="A card open — Tikal in the Classic Maya period, with its picture">
-      <img src="/shots/05-quiz.jpg" width="440" height="954" loading="lazy" alt="The guess-the-year game, two players">
+      <img src="/shots/04-tikal.jpg" width="440" height="954" loading="lazy" alt="Tikal in the Classic Maya period, with its picture">
+      <img src="/shots/05-quiz.jpg" width="440" height="954" loading="lazy" alt="Quiz mode, two players">
       <img src="/shots/06-my-history.jpg" width="440" height="954" loading="lazy" alt="Add your own life to the globe">
     </div>
     <a class="demolink" href="https://youtube.com/shorts/5yXAbXQVja8" rel="noopener noreferrer">Watch a short demo on YouTube →</a>
@@ -131,21 +151,21 @@
 
   <p class="dotline"><span style="color:#55E393">●</span><span style="color:#6FB2E8">●</span><span style="color:#C08CFF">●</span><span style="color:#3FE0F5">●</span><span style="color:#FF6B4A">●</span><span style="color:#FFB347">●</span></p>
 
-  <p class="lead">No memorization. No book skimming. Play the guess-the-year game solo or with up to ten players. 1History takes you on a tour through world history — from the Big Bang to COVID-19 — as you have never experienced it before.</p>
+  <p class="lead">No memorization. No book thumbing. Play the Quiz mode solo or with up to ten players. 1History takes you on a tour through world history — from the Big Bang to COVID-19 — as you have never experienced it before.</p>
   <p class="sub">Tap any dot on the globe and read what happened there: a few honest sentences from the historical record. Great Zimbabwe and the Magna Carta sit at the same size.</p>
 
   <p class="packs">700+ events across the globe, with pictures — and counting.
-    <small>More packs and regions on the way.</small></p>
+    <small>More thematic and country packs on the way.</small></p>
 
-  <p class="privline">No account. No tracking. No server.</p>
-  <p class="offline">The entire history is in the app, on your device — pictures included. It works completely offline.</p>
+  <p class="privline">No account needed. We never collect or send your data.</p>
+  <p class="offline">The entire collection is in the app, on your device — pictures included. It works completely offline.</p>
 
-  <p class="cta"><b>Coming soon to the App Store</b></p>
+  <p class="cta"><b>Now available in App Store!</b></p>
   <div class="stores">
-    <span class="store soon">App Store — soon</span>
+    <a class="store" href="https://apps.apple.com/us/app/1history/id6803081450" rel="noopener noreferrer">Download FREE in App Store</a>
     <span class="store soon">Google Play — soon</span>
   </div>
-  <div class="soonnote">Free to download. Follow along — the link will appear here at launch.</div>
+  <div class="soonnote">Follow us on social media for Android launch and other updates — the link will appear here at launch. <span class="social"><a href="https://x.com/1history_app" rel="noopener noreferrer me">X</a><span class="sep">·</span> <a href="https://www.threads.net/@1history_app" rel="noopener noreferrer me">Threads</a><span class="sep">·</span> <a href="https://www.instagram.com/1history_app/" rel="noopener noreferrer me">Instagram</a></span></div>
 
   <footer>
     <a href="/privacy">Privacy</a> · <a href="mailto:1history.app@gmail.com">Contact</a><br>

@@ -49,7 +49,19 @@
          --panel:#111a2e; --coast:#6fe3d0; --gold:#e8b45a; }
   *{box-sizing:border-box}
   body{margin:0;background:radial-gradient(1200px 700px at 50% -10%,#0e1730,#070b16);color:var(--ink);
-       font:16px/1.6 system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif;min-height:100vh}
+       /* THE TYPE LAW, ON THE WEB SURFACES TOO (28 Aug 2026). This stack is the one in
+          tools/check_fonts.py, named there once and compared here (§5's three-statements shape).
+          The Latin-only stack this replaces meant the Thai, Khmer and Burmese landings could
+          render as BOXES on a device without a default face for the script — thirty-one editions
+          were generated from a template that only spoke Latin. Nothing is fetched or embedded:
+          these are faces the device already has. (Do not name the embed-rule in this comment —
+          the guard's remote-font pattern reads prose as well as CSS, and rightly so: a scanner
+          that skipped comments could be talked out of a finding by a comment.) */
+       font:16px/1.6 system-ui,-apple-system,"Segoe UI","Helvetica Neue",Helvetica,Arial,
+            "Thonburi","Sukhumvit Set","Leelawadee UI",
+            "Khmer Sangam MN","Khmer OS",
+            "Myanmar Sangam MN","Myanmar Text",Padauk,
+            sans-serif;min-height:100vh}
   a{color:var(--coast)}
   .wrap{max-width:680px;margin:0 auto;padding:38px 20px 60px;text-align:center}
   /* the small edition switcher — first-party, links back to the picker at / */
@@ -81,6 +93,14 @@
   .store:hover{background:linear-gradient(180deg,#31816f,#256054)}
   .store.soon{background:#141d30;border-color:var(--line);color:var(--muted);cursor:default}
   .soonnote{color:var(--muted);font-size:13px;margin-top:8px}
+  /* THE SOCIAL LINKS (the author, 28 Aug 2026) sit INLINE with the soonnote, because that is the
+     sentence that sends the reader to them — "follow us for the Android launch". A separate row
+     elsewhere would divorce the promise from the means of keeping it. Names, not logos: a logo is
+     a third-party asset with its own trademark terms, and §12 keeps the page first-party. */
+  .social{display:inline;white-space:nowrap}
+  .social a{color:var(--coast);text-decoration:none;border-bottom:1px solid rgba(111,227,208,.35)}
+  .social a:hover{border-bottom-color:var(--coast)}
+  .social .sep{opacity:.5;padding:0 2px}
   .privline{font-size:clamp(19px,3.4vw,24px);font-weight:700;letter-spacing:.01em;color:var(--coast);
             margin:30px 0 6px}
   .offline{color:var(--muted);font-size:15px;line-height:1.6;margin:0 auto 4px;max-width:520px}
@@ -142,10 +162,10 @@
 
   <p class="cta"><b>App Store에 곧 출시</b></p>
   <div class="stores">
-    <span class="store soon">App Store — 곧</span>
+    <a class="store" href="https://apps.apple.com/us/app/1history/id6803081450" rel="noopener noreferrer">App Store — 곧</a>
     <span class="store soon">Google Play — 곧</span>
   </div>
-  <div class="soonnote">무료 다운로드. 함께해 주세요 — 출시되면 여기에 링크가 나타납니다.</div>
+  <div class="soonnote">무료 다운로드. 함께해 주세요 — 출시되면 여기에 링크가 나타납니다. <span class="social"><a href="https://x.com/1history_app" rel="noopener noreferrer me">X</a><span class="sep">·</span> <a href="https://www.threads.net/@1history_app" rel="noopener noreferrer me">Threads</a><span class="sep">·</span> <a href="https://www.instagram.com/1history_app/" rel="noopener noreferrer me">Instagram</a></span></div>
 
   <footer>
     <a href="/privacy">개인정보</a> · <a href="mailto:1history.app@gmail.com">문의</a><br>
