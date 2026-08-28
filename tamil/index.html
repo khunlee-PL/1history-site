@@ -101,6 +101,10 @@
   .social a{color:var(--coast);text-decoration:none;border-bottom:1px solid rgba(111,227,208,.35)}
   .social a:hover{border-bottom-color:var(--coast)}
   .social .sep{opacity:.5;padding:0 2px}
+  /* The machine-translation notice — quiet, but before the footer, so the reader meets it while
+     still on the page rather than after they have judged the prose. */
+  .mtnote{color:var(--muted);font-size:13px;line-height:1.6;margin:34px auto 0;max-width:560px;
+          border-top:1px solid var(--line);padding-top:14px;opacity:.9}
   .privline{font-size:clamp(19px,3.4vw,24px);font-weight:700;letter-spacing:.01em;color:var(--coast);
             margin:30px 0 6px}
   .offline{color:var(--muted);font-size:15px;line-height:1.6;margin:0 auto 4px;max-width:520px}
@@ -142,8 +146,8 @@
       <img src="/shots/01-universe.jpg" width="440" height="954" loading="lazy" alt="Big Bang நேரத்தில் பூகோளம் — 13.8 பில்லியன் ஆண்டுகளுக்கு முன்">
       <img src="/shots/02-dinosaurs.jpg" width="440" height="954" loading="lazy" alt="ஆரம்பகால டைனோசர்கள் தோன்றுகின்றன — 233 மில்லியன் ஆண்டுகளுக்கு முன்">
       <img src="/shots/03-marco-polo.jpg" width="440" height="954" loading="lazy" alt="ஆசியா முழுவதும் வரையப்பட்ட Marco Polo இன் பயணம்">
-      <img src="/shots/04-tikal.jpg" width="440" height="954" loading="lazy" alt="ஒரு அட்டை திறந்திருக்கிறது — கிளாசிக் மாயா காலத்தில் Tikal, அதன் படத்துடன்">
-      <img src="/shots/05-quiz.jpg" width="440" height="954" loading="lazy" alt="ஆண்டை-யூகி விளையாட்டு, இரண்டு வீரர்கள்">
+      <img src="/shots/04-tikal.jpg" width="440" height="954" loading="lazy" alt="கிளாசிக் மாயா காலத்தில் Tikal, அதன் படத்துடன்">
+      <img src="/shots/05-quiz.jpg" width="440" height="954" loading="lazy" alt="வினாடி வினா பயன்முறை, இரண்டு வீரர்கள்">
       <img src="/shots/06-my-history.jpg" width="440" height="954" loading="lazy" alt="உங்கள் சொந்த வாழ்க்கையை பூகோளத்தில் சேர்க்கவும்">
     </div>
     <a class="demolink" href="https://youtube.com/shorts/5yXAbXQVja8" rel="noopener noreferrer">YouTube இல் ஒரு குறுகிய டெமோவைப் பாருங்கள் →</a>
@@ -151,22 +155,23 @@
 
   <p class="dotline"><span style="color:#55E393">●</span><span style="color:#6FB2E8">●</span><span style="color:#C08CFF">●</span><span style="color:#3FE0F5">●</span><span style="color:#FF6B4A">●</span><span style="color:#FFB347">●</span></p>
 
-  <p class="lead">மனப்பாடம் இல்லை. புத்தகம் புரட்டுவதில்லை. ஆண்டை-யூகி விளையாட்டைத் தனியாகவோ அல்லது பத்து வீரர்கள் வரை விளையாடுங்கள். Big Bang முதல் COVID-19 வரை — நீங்கள் இதுவரை அனுபவிக்காத வகையில் — உலக வரலாற்றின் வழியே 1History உங்களை அழைத்துச் செல்கிறது.</p>
+  <p class="lead">மனப்பாடம் இல்லை. புத்தகம் புரட்டுவதில்லை. வினாடி வினா பயன்முறையைத் தனியாகவோ அல்லது பத்து வீரர்கள் வரை விளையாடுங்கள். Big Bang முதல் COVID-19 வரை — நீங்கள் இதுவரை அனுபவிக்காத வகையில் — உலக வரலாற்றின் வழியே 1History உங்களை அழைத்துச் செல்கிறது.</p>
   <p class="sub">பூகோளத்தில் எந்தப் புள்ளியையும் தட்டி, அங்கே என்ன நடந்தது என்று படியுங்கள்: வரலாற்றுப் பதிவிலிருந்து சில நேர்மையான வாக்கியங்கள். Great Zimbabwe உம் Magna Carta உம் ஒரே அளவில் அமர்ந்திருக்கின்றன.</p>
 
   <p class="packs">பூகோளம் முழுவதும் 700+ நிகழ்வுகள், படங்களுடன் — மேலும் அதிகரித்துக்கொண்டே.
-    <small>மேலும் தொகுப்புகளும் பகுதிகளும் வரவிருக்கின்றன.</small></p>
+    <small>மேலும் கருப்பொருள் மற்றும் நாடு வாரியான தொகுப்புகள் வரவிருக்கின்றன.</small></p>
 
-  <p class="privline">கணக்கு இல்லை. கண்காணிப்பு இல்லை. சர்வர் இல்லை.</p>
-  <p class="offline">முழு வரலாறும் செயலியில், உங்கள் சாதனத்தில் — படங்கள் உட்பட. இது முழுவதுமாக ஆஃப்லைனில் இயங்குகிறது.</p>
+  <p class="privline">கணக்கு தேவையில்லை. உங்கள் தரவை நாங்கள் ஒருபோதும் சேகரிப்பதுமில்லை, அனுப்புவதுமில்லை.</p>
+  <p class="offline">முழுத் தொகுப்பும் செயலியில், உங்கள் சாதனத்தில் — படங்கள் உட்பட. இது முழுவதுமாக ஆஃப்லைனில் இயங்குகிறது.</p>
 
-  <p class="cta"><b>விரைவில் App Store இல் வருகிறது</b></p>
+  <p class="cta"><b>இப்போது App Store இல் கிடைக்கிறது!</b></p>
   <div class="stores">
-    <a class="store" href="https://apps.apple.com/us/app/1history/id6803081450" rel="noopener noreferrer">App Store — விரைவில்</a>
+    <a class="store" href="https://apps.apple.com/us/app/1history/id6803081450" rel="noopener noreferrer">App Store இல் இலவசப் பதிவிறக்கம்</a>
     <span class="store soon">Google Play — விரைவில்</span>
   </div>
-  <div class="soonnote">பதிவிறக்க இலவசம். உடன் இருங்கள் — வெளியீட்டின்போது இணைப்பு இங்கே தோன்றும். <span class="social"><a href="https://x.com/1history_app" rel="noopener noreferrer me">X</a><span class="sep">·</span> <a href="https://www.threads.net/@1history_app" rel="noopener noreferrer me">Threads</a><span class="sep">·</span> <a href="https://www.instagram.com/1history_app/" rel="noopener noreferrer me">Instagram</a></span></div>
+  <div class="soonnote">Android வெளியீடு மற்றும் பிற புதுப்பிப்புகளுக்கு சமூக ஊடகங்களில் எங்களைப் பின்தொடருங்கள் — வெளியீட்டின்போது இணைப்பு இங்கே தோன்றும். <span class="social"><a href="https://x.com/1history_app" rel="noopener noreferrer me">X</a><span class="sep">·</span> <a href="https://www.threads.net/@1history_app" rel="noopener noreferrer me">Threads</a><span class="sep">·</span> <a href="https://www.instagram.com/1history_app/" rel="noopener noreferrer me">Instagram</a></span></div>
 
+<p class="mtnote">இந்தப் பக்கம் இயந்திரத்தால் மொழிபெயர்க்கப்பட்டது; இதுவரை ஒரு மனிதர் இதைச் சரிபார்க்கவில்லை. இடையிடையே இது அசௌகரியமாகவோ தவறாகவோ இருக்கக்கூடும். ஆங்கில மூலம் 1history.app/english இல் உள்ளது — இந்தப் பதிப்பைத் திருத்த உதவ விரும்பினால், எங்களுக்கு எழுதுங்கள்.</p>
   <footer>
     <a href="/privacy">தனியுரிமை</a> · <a href="mailto:1history.app@gmail.com">தொடர்பு</a><br>
     © 2026 1History

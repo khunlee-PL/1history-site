@@ -101,6 +101,10 @@
   .social a{color:var(--coast);text-decoration:none;border-bottom:1px solid rgba(111,227,208,.35)}
   .social a:hover{border-bottom-color:var(--coast)}
   .social .sep{opacity:.5;padding:0 2px}
+  /* The machine-translation notice — quiet, but before the footer, so the reader meets it while
+     still on the page rather than after they have judged the prose. */
+  .mtnote{color:var(--muted);font-size:13px;line-height:1.6;margin:34px auto 0;max-width:560px;
+          border-top:1px solid var(--line);padding-top:14px;opacity:.9}
   .privline{font-size:clamp(19px,3.4vw,24px);font-weight:700;letter-spacing:.01em;color:var(--coast);
             margin:30px 0 6px}
   .offline{color:var(--muted);font-size:15px;line-height:1.6;margin:0 auto 4px;max-width:520px}
@@ -142,8 +146,8 @@
       <img src="/shots/01-universe.jpg" width="440" height="954" loading="lazy" alt="बिग ब्याङको बेलाको गोलो — १३.८ अरब वर्ष अघि">
       <img src="/shots/02-dinosaurs.jpg" width="440" height="954" loading="lazy" alt="सबैभन्दा पुराना डाइनोसरहरू देखा पर्छन् — २३ करोड ३० लाख वर्ष अघि">
       <img src="/shots/03-marco-polo.jpg" width="440" height="954" loading="lazy" alt="मार्को पोलोको यात्रा एसियाभरि कोरिएको">
-      <img src="/shots/04-tikal.jpg" width="440" height="954" loading="lazy" alt="एउटा कार्ड खुलेको — क्लासिक माया कालको तिकाल, आफ्नै तस्बिरसहित">
-      <img src="/shots/05-quiz.jpg" width="440" height="954" loading="lazy" alt="वर्ष अनुमान गर्ने खेल, दुई खेलाडी">
+      <img src="/shots/04-tikal.jpg" width="440" height="954" loading="lazy" alt="क्लासिक माया कालको तिकाल, आफ्नै तस्बिरसहित">
+      <img src="/shots/05-quiz.jpg" width="440" height="954" loading="lazy" alt="प्रश्नोत्तरी मोड, दुई खेलाडी">
       <img src="/shots/06-my-history.jpg" width="440" height="954" loading="lazy" alt="गोलोमा आफ्नै जीवन थप्नुहोस्">
     </div>
     <a class="demolink" href="https://youtube.com/shorts/5yXAbXQVja8" rel="noopener noreferrer">युट्युबमा छोटो डेमो हेर्नुहोस् →</a>
@@ -151,22 +155,23 @@
 
   <p class="dotline"><span style="color:#55E393">●</span><span style="color:#6FB2E8">●</span><span style="color:#C08CFF">●</span><span style="color:#3FE0F5">●</span><span style="color:#FF6B4A">●</span><span style="color:#FFB347">●</span></p>
 
-  <p class="lead">घोकाइ छैन। किताब पल्टाउनु छैन। वर्ष अनुमान गर्ने खेल एक्लै वा दस जनासम्म मिलेर खेल्नुहोस्। 1History ले तपाईंलाई विश्व इतिहासको सयर गराउँछ — बिग ब्याङदेखि कोभिड-१९ सम्म — जुन तपाईंले पहिले कहिल्यै अनुभव गर्नुभएको छैन।</p>
+  <p class="lead">घोकाइ छैन। किताब पल्टाउनु छैन। प्रश्नोत्तरी मोड एक्लै वा दस जनासम्म खेलाडीसँग मिलेर खेल्नुहोस्। 1History ले तपाईंलाई विश्व इतिहासको सयर गराउँछ — बिग ब्याङदेखि कोभिड-१९ सम्म — जुन तपाईंले पहिले कहिल्यै अनुभव गर्नुभएको छैन।</p>
   <p class="sub">गोलोमा भएको जुनसुकै थोप्लोमा छुनुहोस् र त्यहाँ के भयो पढ्नुहोस्: इतिहासको अभिलेखबाट केही इमानदार वाक्यहरू। ग्रेट जिम्बाब्वे र म्याग्ना कार्टा दुवै उही आकारमा उभिन्छन्।</p>
 
   <p class="packs">संसारभरिका ७००+ घटना, तस्बिरसहित — र निरन्तर बढ्दै।
-    <small>थप प्याक र क्षेत्रहरू छिट्टै आउँदैछन्।</small></p>
+    <small>थप विषयगत र देशगत प्याकहरू छिट्टै आउँदैछन्।</small></p>
 
-  <p class="privline">खाता छैन। ट्र्याकिङ छैन। सर्भर छैन।</p>
-  <p class="offline">सम्पूर्ण इतिहास एपभित्रै, तपाईंको यन्त्रमा छ — तस्बिरसमेत। यो पूरै अफलाइन काम गर्छ।</p>
+  <p class="privline">खाता चाहिँदैन। तपाईंको डेटा हामी कहिल्यै सङ्कलन गर्दैनौं, कतै पठाउँदैनौं।</p>
+  <p class="offline">सम्पूर्ण सङ्ग्रह एपभित्रै, तपाईंको यन्त्रमा छ — तस्बिरसमेत। यो पूरै अफलाइन काम गर्छ।</p>
 
-  <p class="cta"><b>छिट्टै App Store मा आउँदैछ</b></p>
+  <p class="cta"><b>अब App Store मा उपलब्ध!</b></p>
   <div class="stores">
-    <a class="store" href="https://apps.apple.com/us/app/1history/id6803081450" rel="noopener noreferrer">App Store — छिट्टै</a>
+    <a class="store" href="https://apps.apple.com/us/app/1history/id6803081450" rel="noopener noreferrer">App Store बाट निःशुल्क डाउनलोड</a>
     <span class="store soon">Google Play — छिट्टै</span>
   </div>
-  <div class="soonnote">डाउनलोड निःशुल्क। साथमा रहनुहोस् — सुरुवातको बेला लिंक यहीँ देखिनेछ। <span class="social"><a href="https://x.com/1history_app" rel="noopener noreferrer me">X</a><span class="sep">·</span> <a href="https://www.threads.net/@1history_app" rel="noopener noreferrer me">Threads</a><span class="sep">·</span> <a href="https://www.instagram.com/1history_app/" rel="noopener noreferrer me">Instagram</a></span></div>
+  <div class="soonnote">एन्ड्रोइड सुरुवात र अन्य अपडेटका लागि सामाजिक सञ्जालमा हामीलाई पछ्याउनुहोस् — सुरुवातको बेला लिंक यहीँ देखिनेछ। <span class="social"><a href="https://x.com/1history_app" rel="noopener noreferrer me">X</a><span class="sep">·</span> <a href="https://www.threads.net/@1history_app" rel="noopener noreferrer me">Threads</a><span class="sep">·</span> <a href="https://www.instagram.com/1history_app/" rel="noopener noreferrer me">Instagram</a></span></div>
 
+<p class="mtnote">यो पृष्ठ मेसिनले अनुवाद गरेको हो र अझै कुनै व्यक्तिले जाँचेको छैन। कतै-कतै अनौठो सुनिन सक्छ वा गलत पनि हुन सक्छ। अङ्ग्रेजी मूल 1history.app/english मा छ — र यो संस्करण सच्याउन सघाउन चाहनुहुन्छ भने, हामीलाई लेख्नुहोस्।</p>
   <footer>
     <a href="/privacy">गोपनीयता</a> · <a href="mailto:1history.app@gmail.com">सम्पर्क</a><br>
     © 2026 1History
