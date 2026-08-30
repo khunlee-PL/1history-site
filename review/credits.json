@@ -1,0 +1,33 @@
+{
+ "translators": [
+  {
+   "name": "endpoint-test",
+   "submitted": 1,
+   "landed": 0
+  }
+ ],
+ "reviewers": [
+  {
+   "name": "endpoint-test",
+   "reviews": 5
+  }
+ ],
+ "reviewers_by_lang": {
+  "lo": [
+   {
+    "name": "endpoint-test",
+    "reviews": 5
+   }
+  ]
+ },
+ "anonymous": {
+  "reviews": 0,
+  "submissions": 0
+ },
+ "totals": {
+  "reviews": 5,
+  "submissions": 1,
+  "named_contributors": 1,
+  "languages": 1
+ }
+}
