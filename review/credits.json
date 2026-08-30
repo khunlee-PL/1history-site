@@ -1,33 +1,15 @@
 {
- "translators": [
-  {
-   "name": "endpoint-test",
-   "submitted": 1,
-   "landed": 0
-  }
- ],
- "reviewers": [
-  {
-   "name": "endpoint-test",
-   "reviews": 5
-  }
- ],
- "reviewers_by_lang": {
-  "lo": [
-   {
-    "name": "endpoint-test",
-    "reviews": 5
-   }
-  ]
- },
+ "translators": [],
+ "reviewers": [],
+ "reviewers_by_lang": {},
  "anonymous": {
   "reviews": 0,
   "submissions": 0
  },
  "totals": {
-  "reviews": 5,
-  "submissions": 1,
-  "named_contributors": 1,
-  "languages": 1
+  "reviews": 0,
+  "submissions": 0,
+  "named_contributors": 0,
+  "languages": 0
  }
 }
