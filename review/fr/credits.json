@@ -1,15 +1,27 @@
 {
  "translators": [],
- "reviewers": [],
- "reviewers_by_lang": {},
+ "reviewers": [
+  {
+   "name": "Torazo",
+   "reviews": 1
+  }
+ ],
+ "reviewers_by_lang": {
+  "es": [
+   {
+    "name": "Torazo",
+    "reviews": 1
+   }
+  ]
+ },
  "anonymous": {
-  "reviews": 0,
+  "reviews": 2,
   "submissions": 0
  },
  "totals": {
-  "reviews": 0,
+  "reviews": 3,
   "submissions": 0,
-  "named_contributors": 0,
-  "languages": 0
+  "named_contributors": 1,
+  "languages": 1
  }
 }
