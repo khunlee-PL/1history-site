@@ -1,5 +1,11 @@
 {
- "translators": [],
+ "translators": [
+  {
+   "name": "Anonymous",
+   "submitted": 2,
+   "landed": 0
+  }
+ ],
  "reviewers": [
   {
    "name": "Torazo",
@@ -20,8 +26,8 @@
  },
  "totals": {
   "reviews": 18,
-  "submissions": 0,
-  "named_contributors": 1,
+  "submissions": 2,
+  "named_contributors": 2,
   "languages": 1
  }
 }
