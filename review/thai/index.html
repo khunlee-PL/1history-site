@@ -45,6 +45,23 @@
 .dvt{font-size:12px;color:var(--muted);font-weight:400;cursor:pointer;margin-left:8px;white-space:nowrap}
 .dvt input{vertical-align:middle;margin-right:3px}
 .opt.solo{cursor:default}
+/* the CHOSEN side, framed (Session 45, §user 10 Sep 2026) */
+.opt.on{border-color:var(--coast);box-shadow:0 0 0 2px var(--coast),0 0 16px rgba(111,227,208,.22);background:#12283b}
+.opt.on{position:relative}
+.opt.on::after{content:"\2713";position:absolute;top:8px;right:10px;color:var(--coast);font-weight:700;font-size:15px}
+/* title / body section headers + the dim full-English line under each */
+.sec-h{display:flex;justify-content:space-between;align-items:baseline;margin:14px 0 2px;font-size:13px;font-weight:600;color:var(--coast)}
+.sec-h .prog{color:var(--muted);font-weight:400}
+.sec-en{color:var(--muted);font-size:13px;font-style:italic;margin:0 0 6px}
+/* the English fragment that sits right above the current pair, then moves down */
+.en-orig{margin:6px 0 4px;font-size:13px}
+.en-orig .lab{color:var(--muted);margin-right:6px}
+.en-orig .txt u{text-decoration-color:var(--gold);text-decoration-thickness:2px;text-underline-offset:2px}
+/* a settled difference, collapsed to one tappable line */
+.rdone{display:flex;gap:8px;align-items:flex-start;padding:6px 0;font-size:14px;border-top:1px dashed rgba(140,160,190,.18)}
+.rdone .tick{color:var(--coast);font-weight:700} .rdone .txt{flex:1;color:#dbe6fb}
+.rdone .redo{color:var(--muted);font-size:12px;cursor:pointer;text-decoration:underline}
+mark.moved{background:rgba(232,180,90,.18);color:inherit;border-radius:2px;text-decoration:underline;text-decoration-color:var(--gold);text-decoration-thickness:2px;text-underline-offset:2px}
 .copyrow{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin:0 0 10px}
 .copyrow .mut{margin:0 4px 0 0}
   .row2{display:flex;gap:10px;justify-content:center;flex-wrap:wrap;margin:14px 0 0}
@@ -372,6 +389,25 @@ function assembledVersion(){          // incumbent as base, each difference reso
     rp.sort((a,b)=>b[0]-a[0]); rp.forEach(([a,b,t])=>{ s=s.slice(0,a)+t+s.slice(b); }); out[field]=s; });
   return (out.t||'')+'\n'+(out.x||'');
 }
+// the reviewer's decision for ONE pair: their own edit if any, else the picked candidate's segment, else null.
+function chosenSeg(p){
+  const ed=(blockEdit[p.id]||'').trim(); if(ed) return ed;
+  const pk=picks[p.id];
+  if(pk==='A') return segOf(cur.a,p,'a');
+  if(pk==='B') return segOf(cur.b,p,'b');
+  return null;   // undecided → leave this candidate's own text
+}
+// candidate `which` as base, each difference set to the CHOSEN wording — so A and B end with the SAME
+// words and only their SENTENCE STRUCTURE differs, for the end-of-card structure comparison (§user, 10 Sep 2026).
+function assembledFrom(which){
+  const cand=which==='a'?cur.a:cur.b, out={t:(cand&&cand.t)||'', x:(cand&&cand.x)||''};
+  const fieldOf=p=> p.field==='t'?'t':'x';   // baked cards tag 't'/'x'; runtime leaves null → treat as body
+  ['t','x'].forEach(field=>{ let s=(cand&&cand[field])||''; const rp=[];
+    stepPairs.forEach(p=>{ if(fieldOf(p)!==field) return; const span=(which==='a'?p.a:p.b); if(!span) return;
+      const t=chosenSeg(p); if(t==null) return; rp.push([span[0],span[1],t]); });
+    rp.sort((a,b)=>b[0]-a[0]); rp.forEach(([a,b,t])=>{ s=s.slice(0,a)+t+s.slice(b); }); out[field]=s; });
+  return out;
+}
 function rvSubmitCard(){
   let posted=0;
   for(const s of stepPairs){ const pk=picks[s.id]; if(!pk) continue;
@@ -431,21 +467,37 @@ function stepCard(v){
   // ── STAGE 1: the diffs as ordered, progressively-revealed blocks ──
   if(rvStage==='pairs'){
     let h=header;
-    h+='<div class="q">'+total+' difference'+(total===1?'':'s')+' — the current block is bright; pick A/B or write your own, then Next.</div>';
-    stepPairs.forEach((s,i)=>{
-      const bright = i<=curBlock, dim = bright?'':'opacity:.4;pointer-events:none';
-      const sa=(picks[s.id]==='A')?' on':'', sb=(picks[s.id]==='B')?' on':'';
-      const done = (i<curBlock) && (picks[s.id]||(blockEdit[s.id]||'').trim());
-      h+='<div class="pblock" style="border-top:1px solid var(--panel-line,rgba(140,160,190,.22));padding:8px 0;margin-top:6px;'+dim+'">';
-      h+='<div class="mut" data-redo="'+i+'" style="font-size:12px;cursor:pointer">'+(i+1)+' / '+total+' · '+(s.en?('English: '+windowAround(enFof(s),s.en,26)):'a wording difference')+(done?'  ·  ✓ tap to redo':'')+'</div>';
-      h+='<div class="pair">'+
-         candSeg(cur.a,s,s.a,'class="opt'+sa+'" data-pid="'+s.id+'" data-pick="A"><div class="pick">A</div')+
-         candSeg(cur.b,s,s.b,'class="opt'+sb+'" data-pid="'+s.id+'" data-pick="B"><div class="pick">B</div')+'</div>';
-      h+='<div class="copyrow" style="margin:4px 0"><span class="mut">Or write your own:</span> '+
-         '<button class="btn" data-cp="a" data-blk="'+s.id+'">⧉ A</button><button class="btn" data-cp="b" data-blk="'+s.id+'">⧉ B</button></div>';
-      h+='<textarea class="w3 blkedit" data-blk="'+s.id+'" placeholder="copy/edit — or leave blank and just pick A or B" style="width:100%;min-height:44px;margin:2px 0">'+esc(blockEdit[s.id]||'')+'</textarea>';
-      if(i===curBlock && i<total-1) h+='<div class="row2"><button class="btn primary" data-next="'+i+'">Next ›</button></div>';
-      h+='</div>';
+    h+='<div class="q">'+total+' difference'+(total===1?'':'s')+' — title first, then the body. Pick A/B or write your own, then Next.</div>';
+    const enFld=f=> f==='t'?(c.enT||''):f==='x'?(c.enX||''):((c.enT||'')+' '+(c.enX||''));
+    const fieldName=f=> f==='t'?'Title':f==='x'?'Body text':'Differences';
+    const fields=[]; stepPairs.forEach(s=>{ if(fields.indexOf(s.field)<0) fields.push(s.field); });   // ['t','x'] baked, or [null] runtime
+    fields.forEach(field=>{
+      const grp=[]; stepPairs.forEach((s,i)=>{ if(s.field===field) grp.push([s,i]); });
+      if(!grp.length) return;
+      const dN=grp.filter(g=>picks[g[0].id]||(blockEdit[g[0].id]||'').trim()).length;
+      h+='<div class="sec-h"><span class="name">'+fieldName(field)+'</span><span class="prog">'+dN+' / '+grp.length+'</span></div>';
+      if(field) h+='<div class="sec-en">“'+esc(enFld(field))+'”</div>';
+      grp.forEach(([s,i])=>{
+        const pk=picks[s.id], ed=(blockEdit[s.id]||'').trim();
+        if(i<curBlock && (pk||ed)){                    // a settled difference, collapsed to one tappable line
+          const shown = ed || segOf(pk==='A'?cur.a:cur.b, s, pk==='A'?'a':'b');
+          h+='<div class="rdone"><span class="tick">✓</span><span class="txt">'+esc(shown)+'</span><span class="redo" data-redo="'+i+'">edit</span></div>';
+          return;
+        }
+        if(i!==curBlock){ h+='<div class="mut" data-redo="'+i+'" style="opacity:.4;font-size:13px;padding:8px 0;cursor:pointer;text-align:left">· a difference — reached after the one above</div>'; return; }
+        const sa=(pk==='A')?' on':'', sb=(pk==='B')?' on':'';
+        h+='<div class="pblock" style="padding:4px 0 2px">';
+        // the English fragment sits right ABOVE the current pair, underlined, and moves down as you advance
+        h+='<div class="en-orig"><span class="lab">English original</span><span class="txt">'+(s.en?windowAround(enFld(field),s.en,40):esc(enFld(field)))+'</span></div>';
+        h+='<div class="pair">'+
+           candSeg(cur.a,s,s.a,'class="opt'+sa+'" data-pid="'+s.id+'" data-pick="A"><div class="pick">A</div')+
+           candSeg(cur.b,s,s.b,'class="opt'+sb+'" data-pid="'+s.id+'" data-pick="B"><div class="pick">B</div')+'</div>';
+        h+='<div class="copyrow" style="margin:6px 0"><span class="mut">Or write your own:</span> '+
+           '<button class="btn" data-cp="a" data-blk="'+s.id+'">⧉ A</button><button class="btn" data-cp="b" data-blk="'+s.id+'">⧉ B</button></div>';
+        h+='<textarea class="w3 blkedit" data-blk="'+s.id+'" placeholder="copy/edit — or leave blank and just pick A or B" style="width:100%;min-height:44px;margin:2px 0">'+esc(blockEdit[s.id]||'')+'</textarea>';
+        if(i<total-1) h+='<div class="row2"><button class="btn primary" data-next="'+i+'">Next ›</button></div>';
+        h+='</div>';
+      });
     });
     const allSeen = curBlock>=total-1;
     h+='<div id="st-warn" class="warn" style="display:none"></div>';
@@ -460,21 +512,29 @@ function stepCard(v){
     { const e=$('st-skip2'); if(e) e.onclick=rvNewCard; }
     return;
   }
-  // ── STAGE 2: the summary — two full candidates with edits written in; choose the better, edit, submit ──
+  // ── STAGE 2: both candidates with the reviewer's picks written in — the WORDING now matches, so what is
+  // left to judge is SENTENCE STRUCTURE. Tap a version to copy it into the editable box, then submit. ──
+  const va=assembledFrom('a'), vb=assembledFrom('b');
+  const dT=diffPairs(va.t||'', vb.t||''), dX=diffPairs(va.x||'', vb.x||'');
+  const boxA='<div class="t">'+markAll(va.t||'',dT.map(p=>p.a))+'</div><div class="x">'+markAll(va.x||'',dX.map(p=>p.a))+'</div>';
+  const boxB='<div class="t">'+markAll(vb.t||'',dT.map(p=>p.b))+'</div><div class="x">'+markAll(vb.x||'',dX.map(p=>p.b))+'</div>';
+  const structDiff=dT.length||dX.length;
   let h='<div class="ref"><div class="lab">The English original</div><div class="eye">'+esc(c.enT)+' · '+fmtYear(yr)+
     '</div><div class="t">'+esc(c.enT)+'</div><div class="x">'+esc(c.enX)+'</div></div>';
-  h+='<div class="q">Your review — choose the better full version (your edits are written in), edit if needed, then Next card.</div>';
+  h+='<div class="q">'+(structDiff
+      ? 'Your wording is written into both — the <u class="dvcur" style="text-decoration-color:var(--gold)">underlined</u> part is where the sentence STRUCTURE still differs. Tap the one that reads best, then edit.'
+      : 'Both read the same now. Tap either, edit if you like, then submit.')+'</div>';
   h+='<div class="pair">'+
-     candFullEdited('a','class="opt choose" id="finA"><div class="pick">'+(cur.a.machine?'A · current ✓':'A ✓')+'</div')+
-     candFullEdited('b','class="opt choose" id="finB"><div class="pick">'+(cur.b.machine?'B · current ✓':'B ✓')+'</div')+'</div>';
-  h+='<div class="mut" style="margin:2px 0 6px">Tap a version to take it as yours — or edit the box below.</div>';
-  if(!myVer) myVer=assembledVersion();
-  h+='<div class="lab">Your version</div><textarea id="w3" class="w3" style="width:100%;min-height:96px;margin:6px 0">'+esc(myVer)+'</textarea>';
+     '<div class="opt choose" id="finA"><div class="pick">A'+(cur.a.machine?' · current':'')+'</div>'+boxA+'</div>'+
+     '<div class="opt choose" id="finB"><div class="pick">B'+(cur.b.machine?' · current':'')+'</div>'+boxB+'</div></div>';
+  h+='<div class="mut" style="margin:6px 0 4px">Copy A or B into your version, then edit before submitting.</div>';
+  if(!myVer) myVer=(va.t||'')+'\n'+(va.x||'');
+  h+='<div class="lab">Your version — title on the first line</div><textarea id="w3" class="w3" style="width:100%;min-height:96px;margin:6px 0">'+esc(myVer)+'</textarea>';
   h+='<div id="st-warn" class="warn" style="display:none"></div>';
-  h+='<div class="row2"><button class="btn" id="st-back">‹ Go back</button><button class="btn primary" id="st-next">Next card ›</button><button class="btn" id="st-exit">Exit</button></div>';
+  h+='<div class="row2"><button class="btn" id="st-back">‹ Go back</button><button class="btn primary" id="st-next">Submit &amp; next card ›</button><button class="btn" id="st-exit">Exit</button></div>';
   v.innerHTML=h;
-  { const a=$('finA'); if(a) a.onclick=()=>{ myVer=combOfEdited('a'); const w=$('w3'); if(w) w.value=myVer; }; }
-  { const b=$('finB'); if(b) b.onclick=()=>{ myVer=combOfEdited('b'); const w=$('w3'); if(w) w.value=myVer; }; }
+  { const a=$('finA'); if(a) a.onclick=()=>{ myVer=(va.t||'')+'\n'+(va.x||''); const w=$('w3'); if(w){ w.value=myVer; try{w.focus();}catch(_){} } }; }
+  { const b=$('finB'); if(b) b.onclick=()=>{ myVer=(vb.t||'')+'\n'+(vb.x||''); const w=$('w3'); if(w){ w.value=myVer; try{w.focus();}catch(_){} } }; }
   { const w=$('w3'); if(w) w.oninput=()=>{ myVer=w.value; }; }
   { const e=$('st-back'); if(e) e.onclick=()=>{ rvStage='pairs'; draw(); }; }
   { const e=$('st-next'); if(e) e.onclick=()=>{ if(rvSubmitCard()) rvNewCard(); }; }
