@@ -141,10 +141,10 @@
   /* DENSE CHIPS (the author, 20 Sep 2026: "pack more smaller buttons into each row — way too long a
      scroll"): small pills, no minimum width, tight gaps, so a region of twenty languages is three or
      four rows, not ten. The column is wider on desktop for the same reason. */
-  .grid{display:flex;flex-wrap:wrap;gap:6px;justify-content:center;margin:0 auto;max-width:820px}
+  .grid{display:flex;flex-wrap:wrap;gap:8px;justify-content:center;margin:0 auto;max-width:820px}
   .grid.default{margin-bottom:16px}
   a.ed{display:inline-block;background:#111a2e;border:1px solid var(--line);border-radius:999px;
-       color:var(--ink);text-decoration:none;padding:6px 12px;font-size:14px;font-weight:600;
+       color:var(--ink);text-decoration:none;padding:8px 15px;font-size:17px;font-weight:600;
        line-height:1.35;white-space:nowrap}
   a.ed:hover{border-color:var(--coast);background:#16213a}
   a.ed.hide,.region.hide,.grid.default.hide{display:none}
@@ -162,9 +162,8 @@
   @media (min-width:900px){
     .wrap{max-width:none;padding:44px 40px 60px}
     .grid,.region{max-width:none}
-    .grid{justify-content:flex-start}
-    .grid.default{justify-content:center}
-    .regions{text-align:left}
+    .grid{justify-content:center}                 /* rows centred (the author, 20 Sep 2026) */
+    .regions{text-align:center}
     #lang-q{max-width:640px}
   }
 </style>
