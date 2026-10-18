@@ -118,6 +118,72 @@
 <link rel="alternate" hreflang="sm" href="/samoan/">
 <link rel="alternate" hreflang="rn" href="/kirundi/">
 <link rel="alternate" hreflang="lg" href="/luganda/">
+<link rel="alternate" hreflang="ace" href="/acehnese-arabic-script/">
+<link rel="alternate" hreflang="acm" href="/mesopotamian-arabic/">
+<link rel="alternate" hreflang="acq" href="/taizzi-adeni-arabic/">
+<link rel="alternate" hreflang="aeb" href="/tunisian-arabic/">
+<link rel="alternate" hreflang="ajp" href="/south-levantine-arabic/">
+<link rel="alternate" hreflang="ak" href="/akan/">
+<link rel="alternate" hreflang="apc" href="/north-levantine-arabic/">
+<link rel="alternate" hreflang="ars" href="/najdi-arabic/">
+<link rel="alternate" hreflang="ary" href="/moroccan-arabic/">
+<link rel="alternate" hreflang="arz" href="/egyptian-arabic/">
+<link rel="alternate" hreflang="asm" href="/assamese/">
+<link rel="alternate" hreflang="ast" href="/asturian/">
+<link rel="alternate" hreflang="awa" href="/awadhi/">
+<link rel="alternate" hreflang="ay" href="/central-aymara/">
+<link rel="alternate" hreflang="azb" href="/south-azerbaijani/">
+<link rel="alternate" hreflang="bak" href="/bashkir/">
+<link rel="alternate" hreflang="bam" href="/bambara/">
+<link rel="alternate" hreflang="ban" href="/balinese/">
+<link rel="alternate" hreflang="bem" href="/bemba/">
+<link rel="alternate" hreflang="bho" href="/bhojpuri/">
+<link rel="alternate" hreflang="bjn" href="/banjar-arabic-script/">
+<link rel="alternate" hreflang="bug" href="/buginese/">
+<link rel="alternate" hreflang="cjk" href="/chokwe/">
+<link rel="alternate" hreflang="crh" href="/crimean-tatar/">
+<link rel="alternate" hreflang="dik" href="/southwestern-dinka/">
+<link rel="alternate" hreflang="dyu" href="/dyula/">
+<link rel="alternate" hreflang="dzo" href="/dzongkha/">
+<link rel="alternate" hreflang="ewe" href="/ewe/">
+<link rel="alternate" hreflang="fao" href="/faroese/">
+<link rel="alternate" hreflang="fon" href="/fon/">
+<link rel="alternate" hreflang="fur" href="/friulian/">
+<link rel="alternate" hreflang="fuv" href="/nigerian-fulfulde/">
+<link rel="alternate" hreflang="gla" href="/scottish-gaelic/">
+<link rel="alternate" hreflang="gn" href="/guarani/">
+<link rel="alternate" hreflang="hne" href="/chhattisgarhi/">
+<link rel="alternate" hreflang="ilo" href="/ilocano/">
+<link rel="alternate" hreflang="kab" href="/kabyle/">
+<link rel="alternate" hreflang="kac" href="/jingpho/">
+<link rel="alternate" hreflang="kam" href="/kamba/">
+<link rel="alternate" hreflang="kas" href="/kashmiri-devanagari-script/">
+<link rel="alternate" hreflang="kbp" href="/kabiye/">
+<link rel="alternate" hreflang="kea" href="/kabuverdianu/">
+<link rel="alternate" hreflang="ki" href="/kikuyu/">
+<link rel="alternate" hreflang="kmb" href="/kimbundu/">
+<link rel="alternate" hreflang="kmr" href="/northern-kurdish/">
+<link rel="alternate" hreflang="knc" href="/central-kanuri-arabic-script/">
+<link rel="alternate" hreflang="kon" href="/kikongo/">
+<link rel="alternate" hreflang="lij" href="/ligurian/">
+<link rel="alternate" hreflang="lim" href="/limburgish/">
+<link rel="alternate" hreflang="lin" href="/lingala/">
+<link rel="alternate" hreflang="lmo" href="/lombard/">
+<link rel="alternate" hreflang="ltg" href="/latgalian/">
+<link rel="alternate" hreflang="lua" href="/luba-kasai/">
+<link rel="alternate" hreflang="luo" href="/luo/">
+<link rel="alternate" hreflang="lus" href="/mizo/">
+<link rel="alternate" hreflang="mag" href="/magahi/">
+<link rel="alternate" hreflang="mai" href="/maithili/">
+<link rel="alternate" hreflang="min" href="/minangkabau/">
+<link rel="alternate" hreflang="mni" href="/meitei-bengali-script/">
+<link rel="alternate" hreflang="mos" href="/mossi/">
+<link rel="alternate" hreflang="nno" href="/norwegian-nynorsk/">
+<link rel="alternate" hreflang="nso" href="/northern-sotho/">
+<link rel="alternate" hreflang="nus" href="/nuer/">
+<link rel="alternate" hreflang="ny" href="/chichewa/">
+<link rel="alternate" hreflang="om" href="/oromo/">
+<link rel="alternate" hreflang="wo" href="/wolof/">
 <style>
   :root{ --bg:#070b16; --ink:#eaf0fb; --muted:#93a3c4; --line:rgba(140,160,190,.22);
          --coast:#6fe3d0; --gold:#e8b45a; }
@@ -147,6 +213,8 @@
        color:var(--ink);text-decoration:none;padding:8px 15px;font-size:17px;font-weight:600;
        line-height:1.35;white-space:nowrap}
   a.ed:hover{border-color:var(--coast);background:#16213a}
+  a.ed .ed-name{display:block}
+  a.ed .ed-en{display:block;font-size:12px;font-weight:400;color:var(--muted);opacity:.75;line-height:1.2;margin-top:1px}
   a.ed.hide,.region.hide,.grid.default.hide{display:none}
   .region{margin:0 auto 14px;max-width:820px}
   .reg-h{font-size:11px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;
@@ -176,162 +244,228 @@
   <input type="search" id="lang-q" autocomplete="off" spellcheck="false" aria-label="Search languages" placeholder="Search · ค้นหา · 搜索 · بحث · खोज · Buscar">
   <p id="lang-none" hidden>—</p>
   <nav class="grid default">
-      <a class="ed" href="/english/" hreflang="en" lang="en" dir="ltr" data-en="English" data-code="en">English</a>
+      <a class="ed" href="/english/" hreflang="en" lang="en" dir="ltr" data-en="English" data-code="en"><span class="ed-name">English</span></a>
   </nav>
   <div class="regions">
     <section class="region">
       <h2 class="reg-h">Europe</h2>
       <nav class="grid">
-      <a class="ed" href="/spanish/" hreflang="es" lang="es" dir="ltr" data-en="Spanish" data-code="es">Español</a>
-      <a class="ed" href="/french/" hreflang="fr" lang="fr" dir="ltr" data-en="French" data-code="fr">Français</a>
-      <a class="ed" href="/russian/" hreflang="ru" lang="ru" dir="ltr" data-en="Russian" data-code="ru">Русский</a>
-      <a class="ed" href="/german/" hreflang="de" lang="de" dir="ltr" data-en="German" data-code="de">Deutsch</a>
-      <a class="ed" href="/belarusian/" hreflang="be" lang="be" dir="ltr" data-en="Belarusian" data-code="be">Беларуская</a>
-      <a class="ed" href="/bulgarian/" hreflang="bg" lang="bg" dir="ltr" data-en="Bulgarian" data-code="bg">Български</a>
-      <a class="ed" href="/bosnian/" hreflang="bs" lang="bs" dir="ltr" data-en="Bosnian" data-code="bs">Bosanski</a>
-      <a class="ed" href="/catalan/" hreflang="ca" lang="ca" dir="ltr" data-en="Catalan" data-code="ca">Català</a>
-      <a class="ed" href="/czech/" hreflang="cs" lang="cs" dir="ltr" data-en="Czech" data-code="cs">Čeština</a>
-      <a class="ed" href="/welsh/" hreflang="cy" lang="cy" dir="ltr" data-en="Welsh" data-code="cy">Cymraeg</a>
-      <a class="ed" href="/danish/" hreflang="da" lang="da" dir="ltr" data-en="Danish" data-code="da">Dansk</a>
-      <a class="ed" href="/greek/" hreflang="el" lang="el" dir="ltr" data-en="Greek" data-code="el">Ελληνικά</a>
-      <a class="ed" href="/esperanto/" hreflang="eo" lang="eo" dir="ltr" data-en="Esperanto" data-code="eo">Esperanto</a>
-      <a class="ed" href="/estonian/" hreflang="et" lang="et" dir="ltr" data-en="Estonian" data-code="et">Eesti</a>
-      <a class="ed" href="/basque/" hreflang="eu" lang="eu" dir="ltr" data-en="Basque" data-code="eu">Euskara</a>
-      <a class="ed" href="/finnish/" hreflang="fi" lang="fi" dir="ltr" data-en="Finnish" data-code="fi">Suomi</a>
-      <a class="ed" href="/irish/" hreflang="ga" lang="ga" dir="ltr" data-en="Irish" data-code="ga">Gaeilge</a>
-      <a class="ed" href="/galician/" hreflang="gl" lang="gl" dir="ltr" data-en="Galician" data-code="gl">Galego</a>
-      <a class="ed" href="/croatian/" hreflang="hr" lang="hr" dir="ltr" data-en="Croatian" data-code="hr">Hrvatski</a>
-      <a class="ed" href="/hungarian/" hreflang="hu" lang="hu" dir="ltr" data-en="Hungarian" data-code="hu">Magyar</a>
-      <a class="ed" href="/icelandic/" hreflang="is" lang="is" dir="ltr" data-en="Icelandic" data-code="is">Íslenska</a>
-      <a class="ed" href="/italian/" hreflang="it" lang="it" dir="ltr" data-en="Italian" data-code="it">Italiano</a>
-      <a class="ed" href="/latin/" hreflang="la" lang="la" dir="ltr" data-en="Latin" data-code="la">Latina</a>
-      <a class="ed" href="/luxembourgish/" hreflang="lb" lang="lb" dir="ltr" data-en="Luxembourgish" data-code="lb">Lëtzebuergesch</a>
-      <a class="ed" href="/lithuanian/" hreflang="lt" lang="lt" dir="ltr" data-en="Lithuanian" data-code="lt">Lietuvių</a>
-      <a class="ed" href="/latvian/" hreflang="lv" lang="lv" dir="ltr" data-en="Latvian" data-code="lv">Latviešu</a>
-      <a class="ed" href="/macedonian/" hreflang="mk" lang="mk" dir="ltr" data-en="Macedonian" data-code="mk">Македонски</a>
-      <a class="ed" href="/maltese/" hreflang="mt" lang="mt" dir="ltr" data-en="Maltese" data-code="mt">Malti</a>
-      <a class="ed" href="/norwegian/" hreflang="nb" lang="nb" dir="ltr" data-en="Norwegian" data-code="nb">Norsk bokmål</a>
-      <a class="ed" href="/dutch/" hreflang="nl" lang="nl" dir="ltr" data-en="Dutch" data-code="nl">Nederlands</a>
-      <a class="ed" href="/polish/" hreflang="pl" lang="pl" dir="ltr" data-en="Polish" data-code="pl">Polski</a>
-      <a class="ed" href="/portuguese/" hreflang="pt" lang="pt" dir="ltr" data-en="Portuguese" data-code="pt">Português</a>
-      <a class="ed" href="/romanian/" hreflang="ro" lang="ro" dir="ltr" data-en="Romanian" data-code="ro">Română</a>
-      <a class="ed" href="/slovak/" hreflang="sk" lang="sk" dir="ltr" data-en="Slovak" data-code="sk">Slovenčina</a>
-      <a class="ed" href="/slovenian/" hreflang="sl" lang="sl" dir="ltr" data-en="Slovenian" data-code="sl">Slovenščina</a>
-      <a class="ed" href="/albanian/" hreflang="sq" lang="sq" dir="ltr" data-en="Albanian" data-code="sq">Shqip</a>
-      <a class="ed" href="/serbian/" hreflang="sr" lang="sr" dir="ltr" data-en="Serbian" data-code="sr">Српски</a>
-      <a class="ed" href="/swedish/" hreflang="sv" lang="sv" dir="ltr" data-en="Swedish" data-code="sv">Svenska</a>
-      <a class="ed" href="/ukrainian/" hreflang="uk" lang="uk" dir="ltr" data-en="Ukrainian" data-code="uk">Українська</a>
+      <a class="ed" href="/spanish/" hreflang="es" lang="es" dir="ltr" data-en="Spanish" data-code="es"><span class="ed-name">Español</span><span class="ed-en" lang="en" dir="ltr">Spanish</span></a>
+      <a class="ed" href="/french/" hreflang="fr" lang="fr" dir="ltr" data-en="French" data-code="fr"><span class="ed-name">Français</span><span class="ed-en" lang="en" dir="ltr">French</span></a>
+      <a class="ed" href="/russian/" hreflang="ru" lang="ru" dir="ltr" data-en="Russian" data-code="ru"><span class="ed-name">Русский</span><span class="ed-en" lang="en" dir="ltr">Russian</span></a>
+      <a class="ed" href="/german/" hreflang="de" lang="de" dir="ltr" data-en="German" data-code="de"><span class="ed-name">Deutsch</span><span class="ed-en" lang="en" dir="ltr">German</span></a>
+      <a class="ed" href="/belarusian/" hreflang="be" lang="be" dir="ltr" data-en="Belarusian" data-code="be"><span class="ed-name">Беларуская</span><span class="ed-en" lang="en" dir="ltr">Belarusian</span></a>
+      <a class="ed" href="/bulgarian/" hreflang="bg" lang="bg" dir="ltr" data-en="Bulgarian" data-code="bg"><span class="ed-name">Български</span><span class="ed-en" lang="en" dir="ltr">Bulgarian</span></a>
+      <a class="ed" href="/bosnian/" hreflang="bs" lang="bs" dir="ltr" data-en="Bosnian" data-code="bs"><span class="ed-name">Bosanski</span><span class="ed-en" lang="en" dir="ltr">Bosnian</span></a>
+      <a class="ed" href="/catalan/" hreflang="ca" lang="ca" dir="ltr" data-en="Catalan" data-code="ca"><span class="ed-name">Català</span><span class="ed-en" lang="en" dir="ltr">Catalan</span></a>
+      <a class="ed" href="/czech/" hreflang="cs" lang="cs" dir="ltr" data-en="Czech" data-code="cs"><span class="ed-name">Čeština</span><span class="ed-en" lang="en" dir="ltr">Czech</span></a>
+      <a class="ed" href="/welsh/" hreflang="cy" lang="cy" dir="ltr" data-en="Welsh" data-code="cy"><span class="ed-name">Cymraeg</span><span class="ed-en" lang="en" dir="ltr">Welsh</span></a>
+      <a class="ed" href="/danish/" hreflang="da" lang="da" dir="ltr" data-en="Danish" data-code="da"><span class="ed-name">Dansk</span><span class="ed-en" lang="en" dir="ltr">Danish</span></a>
+      <a class="ed" href="/greek/" hreflang="el" lang="el" dir="ltr" data-en="Greek" data-code="el"><span class="ed-name">Ελληνικά</span><span class="ed-en" lang="en" dir="ltr">Greek</span></a>
+      <a class="ed" href="/esperanto/" hreflang="eo" lang="eo" dir="ltr" data-en="Esperanto" data-code="eo"><span class="ed-name">Esperanto</span></a>
+      <a class="ed" href="/estonian/" hreflang="et" lang="et" dir="ltr" data-en="Estonian" data-code="et"><span class="ed-name">Eesti</span><span class="ed-en" lang="en" dir="ltr">Estonian</span></a>
+      <a class="ed" href="/basque/" hreflang="eu" lang="eu" dir="ltr" data-en="Basque" data-code="eu"><span class="ed-name">Euskara</span><span class="ed-en" lang="en" dir="ltr">Basque</span></a>
+      <a class="ed" href="/finnish/" hreflang="fi" lang="fi" dir="ltr" data-en="Finnish" data-code="fi"><span class="ed-name">Suomi</span><span class="ed-en" lang="en" dir="ltr">Finnish</span></a>
+      <a class="ed" href="/irish/" hreflang="ga" lang="ga" dir="ltr" data-en="Irish" data-code="ga"><span class="ed-name">Gaeilge</span><span class="ed-en" lang="en" dir="ltr">Irish</span></a>
+      <a class="ed" href="/galician/" hreflang="gl" lang="gl" dir="ltr" data-en="Galician" data-code="gl"><span class="ed-name">Galego</span><span class="ed-en" lang="en" dir="ltr">Galician</span></a>
+      <a class="ed" href="/croatian/" hreflang="hr" lang="hr" dir="ltr" data-en="Croatian" data-code="hr"><span class="ed-name">Hrvatski</span><span class="ed-en" lang="en" dir="ltr">Croatian</span></a>
+      <a class="ed" href="/hungarian/" hreflang="hu" lang="hu" dir="ltr" data-en="Hungarian" data-code="hu"><span class="ed-name">Magyar</span><span class="ed-en" lang="en" dir="ltr">Hungarian</span></a>
+      <a class="ed" href="/icelandic/" hreflang="is" lang="is" dir="ltr" data-en="Icelandic" data-code="is"><span class="ed-name">Íslenska</span><span class="ed-en" lang="en" dir="ltr">Icelandic</span></a>
+      <a class="ed" href="/italian/" hreflang="it" lang="it" dir="ltr" data-en="Italian" data-code="it"><span class="ed-name">Italiano</span><span class="ed-en" lang="en" dir="ltr">Italian</span></a>
+      <a class="ed" href="/latin/" hreflang="la" lang="la" dir="ltr" data-en="Latin" data-code="la"><span class="ed-name">Latina</span><span class="ed-en" lang="en" dir="ltr">Latin</span></a>
+      <a class="ed" href="/luxembourgish/" hreflang="lb" lang="lb" dir="ltr" data-en="Luxembourgish" data-code="lb"><span class="ed-name">Lëtzebuergesch</span><span class="ed-en" lang="en" dir="ltr">Luxembourgish</span></a>
+      <a class="ed" href="/lithuanian/" hreflang="lt" lang="lt" dir="ltr" data-en="Lithuanian" data-code="lt"><span class="ed-name">Lietuvių</span><span class="ed-en" lang="en" dir="ltr">Lithuanian</span></a>
+      <a class="ed" href="/latvian/" hreflang="lv" lang="lv" dir="ltr" data-en="Latvian" data-code="lv"><span class="ed-name">Latviešu</span><span class="ed-en" lang="en" dir="ltr">Latvian</span></a>
+      <a class="ed" href="/macedonian/" hreflang="mk" lang="mk" dir="ltr" data-en="Macedonian" data-code="mk"><span class="ed-name">Македонски</span><span class="ed-en" lang="en" dir="ltr">Macedonian</span></a>
+      <a class="ed" href="/maltese/" hreflang="mt" lang="mt" dir="ltr" data-en="Maltese" data-code="mt"><span class="ed-name">Malti</span><span class="ed-en" lang="en" dir="ltr">Maltese</span></a>
+      <a class="ed" href="/norwegian/" hreflang="nb" lang="nb" dir="ltr" data-en="Norwegian" data-code="nb"><span class="ed-name">Norsk bokmål</span><span class="ed-en" lang="en" dir="ltr">Norwegian</span></a>
+      <a class="ed" href="/dutch/" hreflang="nl" lang="nl" dir="ltr" data-en="Dutch" data-code="nl"><span class="ed-name">Nederlands</span><span class="ed-en" lang="en" dir="ltr">Dutch</span></a>
+      <a class="ed" href="/polish/" hreflang="pl" lang="pl" dir="ltr" data-en="Polish" data-code="pl"><span class="ed-name">Polski</span><span class="ed-en" lang="en" dir="ltr">Polish</span></a>
+      <a class="ed" href="/portuguese/" hreflang="pt" lang="pt" dir="ltr" data-en="Portuguese" data-code="pt"><span class="ed-name">Português</span><span class="ed-en" lang="en" dir="ltr">Portuguese</span></a>
+      <a class="ed" href="/romanian/" hreflang="ro" lang="ro" dir="ltr" data-en="Romanian" data-code="ro"><span class="ed-name">Română</span><span class="ed-en" lang="en" dir="ltr">Romanian</span></a>
+      <a class="ed" href="/slovak/" hreflang="sk" lang="sk" dir="ltr" data-en="Slovak" data-code="sk"><span class="ed-name">Slovenčina</span><span class="ed-en" lang="en" dir="ltr">Slovak</span></a>
+      <a class="ed" href="/slovenian/" hreflang="sl" lang="sl" dir="ltr" data-en="Slovenian" data-code="sl"><span class="ed-name">Slovenščina</span><span class="ed-en" lang="en" dir="ltr">Slovenian</span></a>
+      <a class="ed" href="/albanian/" hreflang="sq" lang="sq" dir="ltr" data-en="Albanian" data-code="sq"><span class="ed-name">Shqip</span><span class="ed-en" lang="en" dir="ltr">Albanian</span></a>
+      <a class="ed" href="/serbian/" hreflang="sr" lang="sr" dir="ltr" data-en="Serbian" data-code="sr"><span class="ed-name">Српски</span><span class="ed-en" lang="en" dir="ltr">Serbian</span></a>
+      <a class="ed" href="/swedish/" hreflang="sv" lang="sv" dir="ltr" data-en="Swedish" data-code="sv"><span class="ed-name">Svenska</span><span class="ed-en" lang="en" dir="ltr">Swedish</span></a>
+      <a class="ed" href="/ukrainian/" hreflang="uk" lang="uk" dir="ltr" data-en="Ukrainian" data-code="uk"><span class="ed-name">Українська</span><span class="ed-en" lang="en" dir="ltr">Ukrainian</span></a>
+      <a class="ed" href="/asturian/" hreflang="ast" lang="ast" dir="ltr" data-en="Asturian" data-code="ast"><span class="ed-name">Asturianu</span><span class="ed-en" lang="en" dir="ltr">Asturian</span></a>
+      <a class="ed" href="/crimean-tatar/" hreflang="crh" lang="crh" dir="ltr" data-en="Crimean Tatar" data-code="crh"><span class="ed-name">Qırımtatarca</span><span class="ed-en" lang="en" dir="ltr">Crimean Tatar</span></a>
+      <a class="ed" href="/faroese/" hreflang="fao" lang="fao" dir="ltr" data-en="Faroese" data-code="fao"><span class="ed-name">Føroyskt</span><span class="ed-en" lang="en" dir="ltr">Faroese</span></a>
+      <a class="ed" href="/friulian/" hreflang="fur" lang="fur" dir="ltr" data-en="Friulian" data-code="fur"><span class="ed-name">Furlan</span><span class="ed-en" lang="en" dir="ltr">Friulian</span></a>
+      <a class="ed" href="/scottish-gaelic/" hreflang="gla" lang="gla" dir="ltr" data-en="Scottish Gaelic" data-code="gla"><span class="ed-name">Gàidhlig</span><span class="ed-en" lang="en" dir="ltr">Scottish Gaelic</span></a>
+      <a class="ed" href="/ligurian/" hreflang="lij" lang="lij" dir="ltr" data-en="Ligurian" data-code="lij"><span class="ed-name">Ligure</span><span class="ed-en" lang="en" dir="ltr">Ligurian</span></a>
+      <a class="ed" href="/limburgish/" hreflang="lim" lang="lim" dir="ltr" data-en="Limburgish" data-code="lim"><span class="ed-name">Limburgs</span><span class="ed-en" lang="en" dir="ltr">Limburgish</span></a>
+      <a class="ed" href="/lombard/" hreflang="lmo" lang="lmo" dir="ltr" data-en="Lombard" data-code="lmo"><span class="ed-name">Lombard</span></a>
+      <a class="ed" href="/latgalian/" hreflang="ltg" lang="ltg" dir="ltr" data-en="Latgalian" data-code="ltg"><span class="ed-name">Latgalīšu</span><span class="ed-en" lang="en" dir="ltr">Latgalian</span></a>
+      <a class="ed" href="/norwegian-nynorsk/" hreflang="nno" lang="nno" dir="ltr" data-en="Norwegian Nynorsk" data-code="nno"><span class="ed-name">Nynorsk</span><span class="ed-en" lang="en" dir="ltr">Norwegian Nynorsk</span></a>
       </nav>
     </section>
     <section class="region">
       <h2 class="reg-h">Americas</h2>
       <nav class="grid">
-      <a class="ed" href="/spanish-latam/" hreflang="es-419" lang="es-419" dir="ltr" data-en="Spanish Latam" data-code="es-419">Español (Latinoamérica)</a>
-      <a class="ed" href="/portuguese-brazil/" hreflang="pt-BR" lang="pt-BR" dir="ltr" data-en="Portuguese Brazil" data-code="pt-BR">Português (Brasil)</a>
-      <a class="ed" href="/haitian-creole/" hreflang="ht" lang="ht" dir="ltr" data-en="Haitian Creole" data-code="ht">Kreyòl ayisyen</a>
+      <a class="ed" href="/spanish-latam/" hreflang="es-419" lang="es-419" dir="ltr" data-en="Spanish Latam" data-code="es-419"><span class="ed-name">Español (Latinoamérica)</span><span class="ed-en" lang="en" dir="ltr">Spanish Latam</span></a>
+      <a class="ed" href="/portuguese-brazil/" hreflang="pt-BR" lang="pt-BR" dir="ltr" data-en="Portuguese Brazil" data-code="pt-BR"><span class="ed-name">Português (Brasil)</span><span class="ed-en" lang="en" dir="ltr">Portuguese Brazil</span></a>
+      <a class="ed" href="/haitian-creole/" hreflang="ht" lang="ht" dir="ltr" data-en="Haitian Creole" data-code="ht"><span class="ed-name">Kreyòl ayisyen</span><span class="ed-en" lang="en" dir="ltr">Haitian Creole</span></a>
+      <a class="ed" href="/central-aymara/" hreflang="ay" lang="ay" dir="ltr" data-en="Central Aymara" data-code="ay"><span class="ed-name">Aymar aru</span><span class="ed-en" lang="en" dir="ltr">Central Aymara</span></a>
+      <a class="ed" href="/guarani/" hreflang="gn" lang="gn" dir="ltr" data-en="Guarani" data-code="gn"><span class="ed-name">Avañe'ẽ</span><span class="ed-en" lang="en" dir="ltr">Guarani</span></a>
       </nav>
     </section>
     <section class="region">
       <h2 class="reg-h">East Asia</h2>
       <nav class="grid">
-      <a class="ed" href="/chinese-simplified/" hreflang="zh-Hans" lang="zh-Hans" dir="ltr" data-en="Chinese Simplified" data-code="zh">简体中文</a>
-      <a class="ed" href="/chinese-traditional/" hreflang="zh-Hant" lang="zh-Hant" dir="ltr" data-en="Chinese Traditional" data-code="zh-Hant">繁體中文</a>
-      <a class="ed" href="/japanese/" hreflang="ja" lang="ja" dir="ltr" data-en="Japanese" data-code="ja">日本語</a>
-      <a class="ed" href="/korean/" hreflang="ko" lang="ko" dir="ltr" data-en="Korean" data-code="ko">한국어</a>
-      <a class="ed" href="/mongolian/" hreflang="mn" lang="mn" dir="ltr" data-en="Mongolian" data-code="mn">Монгол</a>
-      <a class="ed" href="/tibetan/" hreflang="bo" lang="bo" dir="ltr" data-en="Tibetan" data-code="bo">བོད་སྐད་</a>
+      <a class="ed" href="/chinese-simplified/" hreflang="zh-Hans" lang="zh-Hans" dir="ltr" data-en="Chinese Simplified" data-code="zh"><span class="ed-name">简体中文</span><span class="ed-en" lang="en" dir="ltr">Chinese Simplified</span></a>
+      <a class="ed" href="/chinese-traditional/" hreflang="zh-Hant" lang="zh-Hant" dir="ltr" data-en="Chinese Traditional" data-code="zh-Hant"><span class="ed-name">繁體中文</span><span class="ed-en" lang="en" dir="ltr">Chinese Traditional</span></a>
+      <a class="ed" href="/japanese/" hreflang="ja" lang="ja" dir="ltr" data-en="Japanese" data-code="ja"><span class="ed-name">日本語</span><span class="ed-en" lang="en" dir="ltr">Japanese</span></a>
+      <a class="ed" href="/korean/" hreflang="ko" lang="ko" dir="ltr" data-en="Korean" data-code="ko"><span class="ed-name">한국어</span><span class="ed-en" lang="en" dir="ltr">Korean</span></a>
+      <a class="ed" href="/mongolian/" hreflang="mn" lang="mn" dir="ltr" data-en="Mongolian" data-code="mn"><span class="ed-name">Монгол</span><span class="ed-en" lang="en" dir="ltr">Mongolian</span></a>
+      <a class="ed" href="/tibetan/" hreflang="bo" lang="bo" dir="ltr" data-en="Tibetan" data-code="bo"><span class="ed-name">བོད་སྐད་</span><span class="ed-en" lang="en" dir="ltr">Tibetan</span></a>
       </nav>
     </section>
     <section class="region">
       <h2 class="reg-h">Southeast Asia</h2>
       <nav class="grid">
-      <a class="ed" href="/thai/" hreflang="th" lang="th" dir="ltr" data-en="Thai" data-code="th">ไทย</a>
-      <a class="ed" href="/indonesian/" hreflang="id" lang="id" dir="ltr" data-en="Indonesian" data-code="id">Bahasa Indonesia</a>
-      <a class="ed" href="/malay/" hreflang="ms" lang="ms" dir="ltr" data-en="Malay" data-code="ms">Bahasa Melayu</a>
-      <a class="ed" href="/filipino/" hreflang="fil" lang="fil" dir="ltr" data-en="Filipino" data-code="fil">Filipino</a>
-      <a class="ed" href="/cebuano/" hreflang="ceb" lang="ceb" dir="ltr" data-en="Cebuano" data-code="ceb">Cebuano</a>
-      <a class="ed" href="/khmer/" hreflang="km" lang="km" dir="ltr" data-en="Khmer" data-code="km">ភាសាខ្មែរ</a>
-      <a class="ed" href="/lao/" hreflang="lo" lang="lo" dir="ltr" data-en="Lao" data-code="lo">ລາວ</a>
-      <a class="ed" href="/burmese/" hreflang="my" lang="my" dir="ltr" data-en="Burmese" data-code="my">မြန်မာဘာသာ</a>
-      <a class="ed" href="/tetum/" hreflang="tet" lang="tet" dir="ltr" data-en="Tetum" data-code="tet">Tetun</a>
-      <a class="ed" href="/vietnamese/" hreflang="vi" lang="vi" dir="ltr" data-en="Vietnamese" data-code="vi">Tiếng Việt</a>
-      <a class="ed" href="/javanese/" hreflang="jv" lang="jv" dir="ltr" data-en="Javanese" data-code="jv">Basa Jawa</a>
-      <a class="ed" href="/sundanese/" hreflang="su" lang="su" dir="ltr" data-en="Sundanese" data-code="su">Basa Sunda</a>
+      <a class="ed" href="/thai/" hreflang="th" lang="th" dir="ltr" data-en="Thai" data-code="th"><span class="ed-name">ไทย</span><span class="ed-en" lang="en" dir="ltr">Thai</span></a>
+      <a class="ed" href="/indonesian/" hreflang="id" lang="id" dir="ltr" data-en="Indonesian" data-code="id"><span class="ed-name">Bahasa Indonesia</span><span class="ed-en" lang="en" dir="ltr">Indonesian</span></a>
+      <a class="ed" href="/malay/" hreflang="ms" lang="ms" dir="ltr" data-en="Malay" data-code="ms"><span class="ed-name">Bahasa Melayu</span><span class="ed-en" lang="en" dir="ltr">Malay</span></a>
+      <a class="ed" href="/filipino/" hreflang="fil" lang="fil" dir="ltr" data-en="Filipino" data-code="fil"><span class="ed-name">Filipino</span></a>
+      <a class="ed" href="/cebuano/" hreflang="ceb" lang="ceb" dir="ltr" data-en="Cebuano" data-code="ceb"><span class="ed-name">Cebuano</span></a>
+      <a class="ed" href="/khmer/" hreflang="km" lang="km" dir="ltr" data-en="Khmer" data-code="km"><span class="ed-name">ភាសាខ្មែរ</span><span class="ed-en" lang="en" dir="ltr">Khmer</span></a>
+      <a class="ed" href="/lao/" hreflang="lo" lang="lo" dir="ltr" data-en="Lao" data-code="lo"><span class="ed-name">ລາວ</span><span class="ed-en" lang="en" dir="ltr">Lao</span></a>
+      <a class="ed" href="/burmese/" hreflang="my" lang="my" dir="ltr" data-en="Burmese" data-code="my"><span class="ed-name">မြန်မာဘာသာ</span><span class="ed-en" lang="en" dir="ltr">Burmese</span></a>
+      <a class="ed" href="/tetum/" hreflang="tet" lang="tet" dir="ltr" data-en="Tetum" data-code="tet"><span class="ed-name">Tetun</span><span class="ed-en" lang="en" dir="ltr">Tetum</span></a>
+      <a class="ed" href="/vietnamese/" hreflang="vi" lang="vi" dir="ltr" data-en="Vietnamese" data-code="vi"><span class="ed-name">Tiếng Việt</span><span class="ed-en" lang="en" dir="ltr">Vietnamese</span></a>
+      <a class="ed" href="/javanese/" hreflang="jv" lang="jv" dir="ltr" data-en="Javanese" data-code="jv"><span class="ed-name">Basa Jawa</span><span class="ed-en" lang="en" dir="ltr">Javanese</span></a>
+      <a class="ed" href="/sundanese/" hreflang="su" lang="su" dir="ltr" data-en="Sundanese" data-code="su"><span class="ed-name">Basa Sunda</span><span class="ed-en" lang="en" dir="ltr">Sundanese</span></a>
+      <a class="ed" href="/acehnese-arabic-script/" hreflang="ace" lang="ace" dir="rtl" data-en="Acehnese Arabic Script" data-code="ace"><span class="ed-name">بهسا اچيه</span><span class="ed-en" lang="en" dir="ltr">Acehnese Arabic Script</span></a>
+      <a class="ed" href="/balinese/" hreflang="ban" lang="ban" dir="ltr" data-en="Balinese" data-code="ban"><span class="ed-name">Basa Bali</span><span class="ed-en" lang="en" dir="ltr">Balinese</span></a>
+      <a class="ed" href="/banjar-arabic-script/" hreflang="bjn" lang="bjn" dir="rtl" data-en="Banjar Arabic Script" data-code="bjn"><span class="ed-name">باس بنجر</span><span class="ed-en" lang="en" dir="ltr">Banjar Arabic Script</span></a>
+      <a class="ed" href="/buginese/" hreflang="bug" lang="bug" dir="ltr" data-en="Buginese" data-code="bug"><span class="ed-name">Basa Ugi</span><span class="ed-en" lang="en" dir="ltr">Buginese</span></a>
+      <a class="ed" href="/ilocano/" hreflang="ilo" lang="ilo" dir="ltr" data-en="Ilocano" data-code="ilo"><span class="ed-name">Ilokano</span><span class="ed-en" lang="en" dir="ltr">Ilocano</span></a>
+      <a class="ed" href="/jingpho/" hreflang="kac" lang="kac" dir="ltr" data-en="Jingpho" data-code="kac"><span class="ed-name">Jinghpaw</span><span class="ed-en" lang="en" dir="ltr">Jingpho</span></a>
+      <a class="ed" href="/minangkabau/" hreflang="min" lang="min" dir="ltr" data-en="Minangkabau" data-code="min"><span class="ed-name">Minangkabau</span></a>
       </nav>
     </section>
     <section class="region">
       <h2 class="reg-h">South Asia</h2>
       <nav class="grid">
-      <a class="ed" href="/hindi/" hreflang="hi" lang="hi" dir="ltr" data-en="Hindi" data-code="hi">हिन्दी</a>
-      <a class="ed" href="/bengali/" hreflang="bn" lang="bn" dir="ltr" data-en="Bengali" data-code="bn">বাংলা</a>
-      <a class="ed" href="/tamil/" hreflang="ta" lang="ta" dir="ltr" data-en="Tamil" data-code="ta">தமிழ்</a>
-      <a class="ed" href="/sinhala/" hreflang="si" lang="si" dir="ltr" data-en="Sinhala" data-code="si">සිංහල</a>
-      <a class="ed" href="/nepali/" hreflang="ne" lang="ne" dir="ltr" data-en="Nepali" data-code="ne">नेपाली</a>
-      <a class="ed" href="/urdu/" hreflang="ur" lang="ur" dir="rtl" data-en="Urdu" data-code="ur">اردو</a>
-      <a class="ed" href="/gujarati/" hreflang="gu" lang="gu" dir="ltr" data-en="Gujarati" data-code="gu">ગુજરાતી</a>
-      <a class="ed" href="/kannada/" hreflang="kn" lang="kn" dir="ltr" data-en="Kannada" data-code="kn">ಕನ್ನಡ</a>
-      <a class="ed" href="/malayalam/" hreflang="ml" lang="ml" dir="ltr" data-en="Malayalam" data-code="ml">മലയാളം</a>
-      <a class="ed" href="/marathi/" hreflang="mr" lang="mr" dir="ltr" data-en="Marathi" data-code="mr">मराठी</a>
-      <a class="ed" href="/odia/" hreflang="or" lang="or" dir="ltr" data-en="Odia" data-code="or">ଓଡ଼ିଆ</a>
-      <a class="ed" href="/punjabi/" hreflang="pa" lang="pa" dir="ltr" data-en="Punjabi" data-code="pa">ਪੰਜਾਬੀ</a>
-      <a class="ed" href="/telugu/" hreflang="te" lang="te" dir="ltr" data-en="Telugu" data-code="te">తెలుగు</a>
+      <a class="ed" href="/hindi/" hreflang="hi" lang="hi" dir="ltr" data-en="Hindi" data-code="hi"><span class="ed-name">हिन्दी</span><span class="ed-en" lang="en" dir="ltr">Hindi</span></a>
+      <a class="ed" href="/bengali/" hreflang="bn" lang="bn" dir="ltr" data-en="Bengali" data-code="bn"><span class="ed-name">বাংলা</span><span class="ed-en" lang="en" dir="ltr">Bengali</span></a>
+      <a class="ed" href="/tamil/" hreflang="ta" lang="ta" dir="ltr" data-en="Tamil" data-code="ta"><span class="ed-name">தமிழ்</span><span class="ed-en" lang="en" dir="ltr">Tamil</span></a>
+      <a class="ed" href="/sinhala/" hreflang="si" lang="si" dir="ltr" data-en="Sinhala" data-code="si"><span class="ed-name">සිංහල</span><span class="ed-en" lang="en" dir="ltr">Sinhala</span></a>
+      <a class="ed" href="/nepali/" hreflang="ne" lang="ne" dir="ltr" data-en="Nepali" data-code="ne"><span class="ed-name">नेपाली</span><span class="ed-en" lang="en" dir="ltr">Nepali</span></a>
+      <a class="ed" href="/urdu/" hreflang="ur" lang="ur" dir="rtl" data-en="Urdu" data-code="ur"><span class="ed-name">اردو</span><span class="ed-en" lang="en" dir="ltr">Urdu</span></a>
+      <a class="ed" href="/gujarati/" hreflang="gu" lang="gu" dir="ltr" data-en="Gujarati" data-code="gu"><span class="ed-name">ગુજરાતી</span><span class="ed-en" lang="en" dir="ltr">Gujarati</span></a>
+      <a class="ed" href="/kannada/" hreflang="kn" lang="kn" dir="ltr" data-en="Kannada" data-code="kn"><span class="ed-name">ಕನ್ನಡ</span><span class="ed-en" lang="en" dir="ltr">Kannada</span></a>
+      <a class="ed" href="/malayalam/" hreflang="ml" lang="ml" dir="ltr" data-en="Malayalam" data-code="ml"><span class="ed-name">മലയാളം</span><span class="ed-en" lang="en" dir="ltr">Malayalam</span></a>
+      <a class="ed" href="/marathi/" hreflang="mr" lang="mr" dir="ltr" data-en="Marathi" data-code="mr"><span class="ed-name">मराठी</span><span class="ed-en" lang="en" dir="ltr">Marathi</span></a>
+      <a class="ed" href="/odia/" hreflang="or" lang="or" dir="ltr" data-en="Odia" data-code="or"><span class="ed-name">ଓଡ଼ିଆ</span><span class="ed-en" lang="en" dir="ltr">Odia</span></a>
+      <a class="ed" href="/punjabi/" hreflang="pa" lang="pa" dir="ltr" data-en="Punjabi" data-code="pa"><span class="ed-name">ਪੰਜਾਬੀ</span><span class="ed-en" lang="en" dir="ltr">Punjabi</span></a>
+      <a class="ed" href="/telugu/" hreflang="te" lang="te" dir="ltr" data-en="Telugu" data-code="te"><span class="ed-name">తెలుగు</span><span class="ed-en" lang="en" dir="ltr">Telugu</span></a>
+      <a class="ed" href="/assamese/" hreflang="asm" lang="asm" dir="ltr" data-en="Assamese" data-code="asm"><span class="ed-name">অসমীয়া</span><span class="ed-en" lang="en" dir="ltr">Assamese</span></a>
+      <a class="ed" href="/awadhi/" hreflang="awa" lang="awa" dir="ltr" data-en="Awadhi" data-code="awa"><span class="ed-name">अवधी</span><span class="ed-en" lang="en" dir="ltr">Awadhi</span></a>
+      <a class="ed" href="/bhojpuri/" hreflang="bho" lang="bho" dir="ltr" data-en="Bhojpuri" data-code="bho"><span class="ed-name">भोजपुरी</span><span class="ed-en" lang="en" dir="ltr">Bhojpuri</span></a>
+      <a class="ed" href="/dzongkha/" hreflang="dzo" lang="dzo" dir="ltr" data-en="Dzongkha" data-code="dzo"><span class="ed-name">རྫོང་ཁ</span><span class="ed-en" lang="en" dir="ltr">Dzongkha</span></a>
+      <a class="ed" href="/chhattisgarhi/" hreflang="hne" lang="hne" dir="ltr" data-en="Chhattisgarhi" data-code="hne"><span class="ed-name">छत्तीसगढ़ी</span><span class="ed-en" lang="en" dir="ltr">Chhattisgarhi</span></a>
+      <a class="ed" href="/kashmiri-devanagari-script/" hreflang="kas" lang="kas" dir="rtl" data-en="Kashmiri Devanagari Script" data-code="kas"><span class="ed-name">کٲشُر</span><span class="ed-en" lang="en" dir="ltr">Kashmiri Devanagari Script</span></a>
+      <a class="ed" href="/mizo/" hreflang="lus" lang="lus" dir="ltr" data-en="Mizo" data-code="lus"><span class="ed-name">Mizo ṭawng</span><span class="ed-en" lang="en" dir="ltr">Mizo</span></a>
+      <a class="ed" href="/magahi/" hreflang="mag" lang="mag" dir="ltr" data-en="Magahi" data-code="mag"><span class="ed-name">मगही</span><span class="ed-en" lang="en" dir="ltr">Magahi</span></a>
+      <a class="ed" href="/maithili/" hreflang="mai" lang="mai" dir="ltr" data-en="Maithili" data-code="mai"><span class="ed-name">मैथिली</span><span class="ed-en" lang="en" dir="ltr">Maithili</span></a>
+      <a class="ed" href="/meitei-bengali-script/" hreflang="mni" lang="mni" dir="ltr" data-en="Meitei Bengali Script" data-code="mni"><span class="ed-name">মৈতৈলোন্</span><span class="ed-en" lang="en" dir="ltr">Meitei Bengali Script</span></a>
       </nav>
     </section>
     <section class="region">
       <h2 class="reg-h">Central Asia</h2>
       <nav class="grid">
-      <a class="ed" href="/kazakh/" hreflang="kk" lang="kk" dir="ltr" data-en="Kazakh" data-code="kk">Қазақша</a>
-      <a class="ed" href="/kyrgyz/" hreflang="ky" lang="ky" dir="ltr" data-en="Kyrgyz" data-code="ky">Кыргызча</a>
-      <a class="ed" href="/tajik/" hreflang="tg" lang="tg" dir="ltr" data-en="Tajik" data-code="tg">Тоҷикӣ</a>
-      <a class="ed" href="/turkmen/" hreflang="tk" lang="tk" dir="ltr" data-en="Turkmen" data-code="tk">Türkmençe</a>
-      <a class="ed" href="/uyghur/" hreflang="ug" lang="ug" dir="rtl" data-en="Uyghur" data-code="ug">ئۇيغۇرچە</a>
-      <a class="ed" href="/uzbek/" hreflang="uz" lang="uz" dir="ltr" data-en="Uzbek" data-code="uz">Oʻzbekcha</a>
+      <a class="ed" href="/kazakh/" hreflang="kk" lang="kk" dir="ltr" data-en="Kazakh" data-code="kk"><span class="ed-name">Қазақша</span><span class="ed-en" lang="en" dir="ltr">Kazakh</span></a>
+      <a class="ed" href="/kyrgyz/" hreflang="ky" lang="ky" dir="ltr" data-en="Kyrgyz" data-code="ky"><span class="ed-name">Кыргызча</span><span class="ed-en" lang="en" dir="ltr">Kyrgyz</span></a>
+      <a class="ed" href="/tajik/" hreflang="tg" lang="tg" dir="ltr" data-en="Tajik" data-code="tg"><span class="ed-name">Тоҷикӣ</span><span class="ed-en" lang="en" dir="ltr">Tajik</span></a>
+      <a class="ed" href="/turkmen/" hreflang="tk" lang="tk" dir="ltr" data-en="Turkmen" data-code="tk"><span class="ed-name">Türkmençe</span><span class="ed-en" lang="en" dir="ltr">Turkmen</span></a>
+      <a class="ed" href="/uyghur/" hreflang="ug" lang="ug" dir="rtl" data-en="Uyghur" data-code="ug"><span class="ed-name">ئۇيغۇرچە</span><span class="ed-en" lang="en" dir="ltr">Uyghur</span></a>
+      <a class="ed" href="/uzbek/" hreflang="uz" lang="uz" dir="ltr" data-en="Uzbek" data-code="uz"><span class="ed-name">Oʻzbekcha</span><span class="ed-en" lang="en" dir="ltr">Uzbek</span></a>
+      <a class="ed" href="/bashkir/" hreflang="bak" lang="bak" dir="ltr" data-en="Bashkir" data-code="bak"><span class="ed-name">Башҡортса</span><span class="ed-en" lang="en" dir="ltr">Bashkir</span></a>
       </nav>
     </section>
     <section class="region">
       <h2 class="reg-h">West Asia</h2>
       <nav class="grid">
-      <a class="ed" href="/arabic/" hreflang="ar" lang="ar" dir="rtl" data-en="Arabic" data-code="ar">العربية</a>
-      <a class="ed" href="/turkish/" hreflang="tr" lang="tr" dir="ltr" data-en="Turkish" data-code="tr">Türkçe</a>
-      <a class="ed" href="/persian/" hreflang="fa" lang="fa" dir="rtl" data-en="Persian" data-code="fa">فارسی</a>
-      <a class="ed" href="/central-kurdish/" hreflang="ckb" lang="ckb" dir="rtl" data-en="Central Kurdish" data-code="ckb">کوردیی ناوەندی</a>
-      <a class="ed" href="/hebrew/" hreflang="he" lang="he" dir="rtl" data-en="Hebrew" data-code="he">עברית</a>
-      <a class="ed" href="/pashto/" hreflang="ps" lang="ps" dir="rtl" data-en="Pashto" data-code="ps">پښتو</a>
+      <a class="ed" href="/arabic/" hreflang="ar" lang="ar" dir="rtl" data-en="Arabic" data-code="ar"><span class="ed-name">العربية</span><span class="ed-en" lang="en" dir="ltr">Arabic</span></a>
+      <a class="ed" href="/turkish/" hreflang="tr" lang="tr" dir="ltr" data-en="Turkish" data-code="tr"><span class="ed-name">Türkçe</span><span class="ed-en" lang="en" dir="ltr">Turkish</span></a>
+      <a class="ed" href="/persian/" hreflang="fa" lang="fa" dir="rtl" data-en="Persian" data-code="fa"><span class="ed-name">فارسی</span><span class="ed-en" lang="en" dir="ltr">Persian</span></a>
+      <a class="ed" href="/central-kurdish/" hreflang="ckb" lang="ckb" dir="rtl" data-en="Central Kurdish" data-code="ckb"><span class="ed-name">کوردیی ناوەندی</span><span class="ed-en" lang="en" dir="ltr">Central Kurdish</span></a>
+      <a class="ed" href="/hebrew/" hreflang="he" lang="he" dir="rtl" data-en="Hebrew" data-code="he"><span class="ed-name">עברית</span><span class="ed-en" lang="en" dir="ltr">Hebrew</span></a>
+      <a class="ed" href="/pashto/" hreflang="ps" lang="ps" dir="rtl" data-en="Pashto" data-code="ps"><span class="ed-name">پښتو</span><span class="ed-en" lang="en" dir="ltr">Pashto</span></a>
+      <a class="ed" href="/mesopotamian-arabic/" hreflang="acm" lang="acm" dir="rtl" data-en="Mesopotamian Arabic" data-code="acm"><span class="ed-name">العربية العراقية</span><span class="ed-en" lang="en" dir="ltr">Mesopotamian Arabic</span></a>
+      <a class="ed" href="/taizzi-adeni-arabic/" hreflang="acq" lang="acq" dir="rtl" data-en="Taizzi Adeni Arabic" data-code="acq"><span class="ed-name">العربية اليمنية</span><span class="ed-en" lang="en" dir="ltr">Taizzi Adeni Arabic</span></a>
+      <a class="ed" href="/south-levantine-arabic/" hreflang="ajp" lang="ajp" dir="rtl" data-en="South Levantine Arabic" data-code="ajp"><span class="ed-name">العربية الشامية الجنوبية</span><span class="ed-en" lang="en" dir="ltr">South Levantine Arabic</span></a>
+      <a class="ed" href="/north-levantine-arabic/" hreflang="apc" lang="apc" dir="rtl" data-en="North Levantine Arabic" data-code="apc"><span class="ed-name">العربية الشامية الشمالية</span><span class="ed-en" lang="en" dir="ltr">North Levantine Arabic</span></a>
+      <a class="ed" href="/najdi-arabic/" hreflang="ars" lang="ars" dir="rtl" data-en="Najdi Arabic" data-code="ars"><span class="ed-name">العربية النجدية</span><span class="ed-en" lang="en" dir="ltr">Najdi Arabic</span></a>
+      <a class="ed" href="/south-azerbaijani/" hreflang="azb" lang="azb" dir="rtl" data-en="South Azerbaijani" data-code="azb"><span class="ed-name">تۆرکجه</span><span class="ed-en" lang="en" dir="ltr">South Azerbaijani</span></a>
+      <a class="ed" href="/northern-kurdish/" hreflang="kmr" lang="kmr" dir="ltr" data-en="Northern Kurdish" data-code="kmr"><span class="ed-name">Kurmancî</span><span class="ed-en" lang="en" dir="ltr">Northern Kurdish</span></a>
       </nav>
     </section>
     <section class="region">
       <h2 class="reg-h">Caucasus</h2>
       <nav class="grid">
-      <a class="ed" href="/azerbaijani/" hreflang="az" lang="az" dir="ltr" data-en="Azerbaijani" data-code="az">Azərbaycanca</a>
-      <a class="ed" href="/armenian/" hreflang="hy" lang="hy" dir="ltr" data-en="Armenian" data-code="hy">Հայերեն</a>
-      <a class="ed" href="/georgian/" hreflang="ka" lang="ka" dir="ltr" data-en="Georgian" data-code="ka">ქართული</a>
+      <a class="ed" href="/azerbaijani/" hreflang="az" lang="az" dir="ltr" data-en="Azerbaijani" data-code="az"><span class="ed-name">Azərbaycanca</span><span class="ed-en" lang="en" dir="ltr">Azerbaijani</span></a>
+      <a class="ed" href="/armenian/" hreflang="hy" lang="hy" dir="ltr" data-en="Armenian" data-code="hy"><span class="ed-name">Հայերեն</span><span class="ed-en" lang="en" dir="ltr">Armenian</span></a>
+      <a class="ed" href="/georgian/" hreflang="ka" lang="ka" dir="ltr" data-en="Georgian" data-code="ka"><span class="ed-name">ქართული</span><span class="ed-en" lang="en" dir="ltr">Georgian</span></a>
       </nav>
     </section>
     <section class="region">
       <h2 class="reg-h">Africa</h2>
       <nav class="grid">
-      <a class="ed" href="/afrikaans/" hreflang="af" lang="af" dir="ltr" data-en="Afrikaans" data-code="af">Afrikaans</a>
-      <a class="ed" href="/amharic/" hreflang="am" lang="am" dir="ltr" data-en="Amharic" data-code="am">አማርኛ</a>
-      <a class="ed" href="/hausa/" hreflang="ha" lang="ha" dir="ltr" data-en="Hausa" data-code="ha">Hausa</a>
-      <a class="ed" href="/igbo/" hreflang="ig" lang="ig" dir="ltr" data-en="Igbo" data-code="ig">Igbo</a>
-      <a class="ed" href="/malagasy/" hreflang="mg" lang="mg" dir="ltr" data-en="Malagasy" data-code="mg">Malagasy</a>
-      <a class="ed" href="/kinyarwanda/" hreflang="rw" lang="rw" dir="ltr" data-en="Kinyarwanda" data-code="rw">Ikinyarwanda</a>
-      <a class="ed" href="/somali/" hreflang="so" lang="so" dir="ltr" data-en="Somali" data-code="so">Soomaali</a>
-      <a class="ed" href="/swahili/" hreflang="sw" lang="sw" dir="ltr" data-en="Swahili" data-code="sw">Kiswahili</a>
-      <a class="ed" href="/xhosa/" hreflang="xh" lang="xh" dir="ltr" data-en="Xhosa" data-code="xh">isiXhosa</a>
-      <a class="ed" href="/yoruba/" hreflang="yo" lang="yo" dir="ltr" data-en="Yoruba" data-code="yo">Yorùbá</a>
-      <a class="ed" href="/zulu/" hreflang="zu" lang="zu" dir="ltr" data-en="Zulu" data-code="zu">isiZulu</a>
-      <a class="ed" href="/kirundi/" hreflang="rn" lang="rn" dir="ltr" data-en="Kirundi" data-code="rn">Ikirundi</a>
-      <a class="ed" href="/luganda/" hreflang="lg" lang="lg" dir="ltr" data-en="Luganda" data-code="lg">Luganda</a>
+      <a class="ed" href="/afrikaans/" hreflang="af" lang="af" dir="ltr" data-en="Afrikaans" data-code="af"><span class="ed-name">Afrikaans</span></a>
+      <a class="ed" href="/amharic/" hreflang="am" lang="am" dir="ltr" data-en="Amharic" data-code="am"><span class="ed-name">አማርኛ</span><span class="ed-en" lang="en" dir="ltr">Amharic</span></a>
+      <a class="ed" href="/hausa/" hreflang="ha" lang="ha" dir="ltr" data-en="Hausa" data-code="ha"><span class="ed-name">Hausa</span></a>
+      <a class="ed" href="/igbo/" hreflang="ig" lang="ig" dir="ltr" data-en="Igbo" data-code="ig"><span class="ed-name">Igbo</span></a>
+      <a class="ed" href="/malagasy/" hreflang="mg" lang="mg" dir="ltr" data-en="Malagasy" data-code="mg"><span class="ed-name">Malagasy</span></a>
+      <a class="ed" href="/kinyarwanda/" hreflang="rw" lang="rw" dir="ltr" data-en="Kinyarwanda" data-code="rw"><span class="ed-name">Ikinyarwanda</span><span class="ed-en" lang="en" dir="ltr">Kinyarwanda</span></a>
+      <a class="ed" href="/somali/" hreflang="so" lang="so" dir="ltr" data-en="Somali" data-code="so"><span class="ed-name">Soomaali</span><span class="ed-en" lang="en" dir="ltr">Somali</span></a>
+      <a class="ed" href="/swahili/" hreflang="sw" lang="sw" dir="ltr" data-en="Swahili" data-code="sw"><span class="ed-name">Kiswahili</span><span class="ed-en" lang="en" dir="ltr">Swahili</span></a>
+      <a class="ed" href="/xhosa/" hreflang="xh" lang="xh" dir="ltr" data-en="Xhosa" data-code="xh"><span class="ed-name">isiXhosa</span><span class="ed-en" lang="en" dir="ltr">Xhosa</span></a>
+      <a class="ed" href="/yoruba/" hreflang="yo" lang="yo" dir="ltr" data-en="Yoruba" data-code="yo"><span class="ed-name">Yorùbá</span><span class="ed-en" lang="en" dir="ltr">Yoruba</span></a>
+      <a class="ed" href="/zulu/" hreflang="zu" lang="zu" dir="ltr" data-en="Zulu" data-code="zu"><span class="ed-name">isiZulu</span><span class="ed-en" lang="en" dir="ltr">Zulu</span></a>
+      <a class="ed" href="/kirundi/" hreflang="rn" lang="rn" dir="ltr" data-en="Kirundi" data-code="rn"><span class="ed-name">Ikirundi</span><span class="ed-en" lang="en" dir="ltr">Kirundi</span></a>
+      <a class="ed" href="/luganda/" hreflang="lg" lang="lg" dir="ltr" data-en="Luganda" data-code="lg"><span class="ed-name">Luganda</span></a>
+      <a class="ed" href="/tunisian-arabic/" hreflang="aeb" lang="aeb" dir="rtl" data-en="Tunisian Arabic" data-code="aeb"><span class="ed-name">الدارجة التونسية</span><span class="ed-en" lang="en" dir="ltr">Tunisian Arabic</span></a>
+      <a class="ed" href="/akan/" hreflang="ak" lang="ak" dir="ltr" data-en="Akan" data-code="ak"><span class="ed-name">Akan</span></a>
+      <a class="ed" href="/moroccan-arabic/" hreflang="ary" lang="ary" dir="rtl" data-en="Moroccan Arabic" data-code="ary"><span class="ed-name">الدارجة المغربية</span><span class="ed-en" lang="en" dir="ltr">Moroccan Arabic</span></a>
+      <a class="ed" href="/egyptian-arabic/" hreflang="arz" lang="arz" dir="rtl" data-en="Egyptian Arabic" data-code="arz"><span class="ed-name">العربية المصرية</span><span class="ed-en" lang="en" dir="ltr">Egyptian Arabic</span></a>
+      <a class="ed" href="/bambara/" hreflang="bam" lang="bam" dir="ltr" data-en="Bambara" data-code="bam"><span class="ed-name">Bamanankan</span><span class="ed-en" lang="en" dir="ltr">Bambara</span></a>
+      <a class="ed" href="/bemba/" hreflang="bem" lang="bem" dir="ltr" data-en="Bemba" data-code="bem"><span class="ed-name">Ichibemba</span><span class="ed-en" lang="en" dir="ltr">Bemba</span></a>
+      <a class="ed" href="/chokwe/" hreflang="cjk" lang="cjk" dir="ltr" data-en="Chokwe" data-code="cjk"><span class="ed-name">Cokwe</span><span class="ed-en" lang="en" dir="ltr">Chokwe</span></a>
+      <a class="ed" href="/southwestern-dinka/" hreflang="dik" lang="dik" dir="ltr" data-en="Southwestern Dinka" data-code="dik"><span class="ed-name">Thuɔŋjäŋ</span><span class="ed-en" lang="en" dir="ltr">Southwestern Dinka</span></a>
+      <a class="ed" href="/dyula/" hreflang="dyu" lang="dyu" dir="ltr" data-en="Dyula" data-code="dyu"><span class="ed-name">Julakan</span><span class="ed-en" lang="en" dir="ltr">Dyula</span></a>
+      <a class="ed" href="/ewe/" hreflang="ewe" lang="ewe" dir="ltr" data-en="Ewe" data-code="ewe"><span class="ed-name">Eʋegbe</span><span class="ed-en" lang="en" dir="ltr">Ewe</span></a>
+      <a class="ed" href="/fon/" hreflang="fon" lang="fon" dir="ltr" data-en="Fon" data-code="fon"><span class="ed-name">Fɔ̀ngbè</span><span class="ed-en" lang="en" dir="ltr">Fon</span></a>
+      <a class="ed" href="/nigerian-fulfulde/" hreflang="fuv" lang="fuv" dir="ltr" data-en="Nigerian Fulfulde" data-code="fuv"><span class="ed-name">Fulfulde</span><span class="ed-en" lang="en" dir="ltr">Nigerian Fulfulde</span></a>
+      <a class="ed" href="/kabyle/" hreflang="kab" lang="kab" dir="ltr" data-en="Kabyle" data-code="kab"><span class="ed-name">Taqbaylit</span><span class="ed-en" lang="en" dir="ltr">Kabyle</span></a>
+      <a class="ed" href="/kamba/" hreflang="kam" lang="kam" dir="ltr" data-en="Kamba" data-code="kam"><span class="ed-name">Kĩkamba</span><span class="ed-en" lang="en" dir="ltr">Kamba</span></a>
+      <a class="ed" href="/kabiye/" hreflang="kbp" lang="kbp" dir="ltr" data-en="Kabiye" data-code="kbp"><span class="ed-name">Kabɩyɛ</span><span class="ed-en" lang="en" dir="ltr">Kabiye</span></a>
+      <a class="ed" href="/kabuverdianu/" hreflang="kea" lang="kea" dir="ltr" data-en="Kabuverdianu" data-code="kea"><span class="ed-name">Kabuverdianu</span></a>
+      <a class="ed" href="/kikuyu/" hreflang="ki" lang="ki" dir="ltr" data-en="Kikuyu" data-code="ki"><span class="ed-name">Gĩkũyũ</span><span class="ed-en" lang="en" dir="ltr">Kikuyu</span></a>
+      <a class="ed" href="/kimbundu/" hreflang="kmb" lang="kmb" dir="ltr" data-en="Kimbundu" data-code="kmb"><span class="ed-name">Kimbundu</span></a>
+      <a class="ed" href="/central-kanuri-arabic-script/" hreflang="knc" lang="knc" dir="rtl" data-en="Central Kanuri Arabic Script" data-code="knc"><span class="ed-name">كَنُرِيِه</span><span class="ed-en" lang="en" dir="ltr">Central Kanuri Arabic Script</span></a>
+      <a class="ed" href="/kikongo/" hreflang="kon" lang="kon" dir="ltr" data-en="Kikongo" data-code="kon"><span class="ed-name">Kikongo</span></a>
+      <a class="ed" href="/lingala/" hreflang="lin" lang="lin" dir="ltr" data-en="Lingala" data-code="lin"><span class="ed-name">Lingála</span><span class="ed-en" lang="en" dir="ltr">Lingala</span></a>
+      <a class="ed" href="/luba-kasai/" hreflang="lua" lang="lua" dir="ltr" data-en="Luba Kasai" data-code="lua"><span class="ed-name">Tshiluba</span><span class="ed-en" lang="en" dir="ltr">Luba Kasai</span></a>
+      <a class="ed" href="/luo/" hreflang="luo" lang="luo" dir="ltr" data-en="Luo" data-code="luo"><span class="ed-name">Dholuo</span><span class="ed-en" lang="en" dir="ltr">Luo</span></a>
+      <a class="ed" href="/mossi/" hreflang="mos" lang="mos" dir="ltr" data-en="Mossi" data-code="mos"><span class="ed-name">Mòoré</span><span class="ed-en" lang="en" dir="ltr">Mossi</span></a>
+      <a class="ed" href="/northern-sotho/" hreflang="nso" lang="nso" dir="ltr" data-en="Northern Sotho" data-code="nso"><span class="ed-name">Sepedi</span><span class="ed-en" lang="en" dir="ltr">Northern Sotho</span></a>
+      <a class="ed" href="/nuer/" hreflang="nus" lang="nus" dir="ltr" data-en="Nuer" data-code="nus"><span class="ed-name">Thok Naath</span><span class="ed-en" lang="en" dir="ltr">Nuer</span></a>
+      <a class="ed" href="/chichewa/" hreflang="ny" lang="ny" dir="ltr" data-en="Chichewa" data-code="ny"><span class="ed-name">Chichewa</span></a>
+      <a class="ed" href="/oromo/" hreflang="om" lang="om" dir="ltr" data-en="Oromo" data-code="om"><span class="ed-name">Afaan Oromoo</span><span class="ed-en" lang="en" dir="ltr">Oromo</span></a>
+      <a class="ed" href="/wolof/" hreflang="wo" lang="wo" dir="ltr" data-en="Wolof" data-code="wo"><span class="ed-name">Wolof</span></a>
       </nav>
     </section>
     <section class="region">
       <h2 class="reg-h">Oceania</h2>
       <nav class="grid">
-      <a class="ed" href="/fijian/" hreflang="fj" lang="fj" dir="ltr" data-en="Fijian" data-code="fj">Vakaviti</a>
-      <a class="ed" href="/tok-pisin/" hreflang="tpi" lang="tpi" dir="ltr" data-en="Tok Pisin" data-code="tpi">Tok Pisin</a>
-      <a class="ed" href="/maori/" hreflang="mi" lang="mi" dir="ltr" data-en="Maori" data-code="mi">Māori</a>
-      <a class="ed" href="/samoan/" hreflang="sm" lang="sm" dir="ltr" data-en="Samoan" data-code="sm">Gagana Sāmoa</a>
+      <a class="ed" href="/fijian/" hreflang="fj" lang="fj" dir="ltr" data-en="Fijian" data-code="fj"><span class="ed-name">Vakaviti</span><span class="ed-en" lang="en" dir="ltr">Fijian</span></a>
+      <a class="ed" href="/tok-pisin/" hreflang="tpi" lang="tpi" dir="ltr" data-en="Tok Pisin" data-code="tpi"><span class="ed-name">Tok Pisin</span></a>
+      <a class="ed" href="/maori/" hreflang="mi" lang="mi" dir="ltr" data-en="Maori" data-code="mi"><span class="ed-name">Māori</span><span class="ed-en" lang="en" dir="ltr">Maori</span></a>
+      <a class="ed" href="/samoan/" hreflang="sm" lang="sm" dir="ltr" data-en="Samoan" data-code="sm"><span class="ed-name">Gagana Sāmoa</span><span class="ed-en" lang="en" dir="ltr">Samoan</span></a>
       </nav>
     </section>
   </div>
