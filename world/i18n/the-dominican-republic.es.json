@@ -1,0 +1,39 @@
+{
+ "country": "The Dominican Republic",
+ "anchor": {
+  "title": "Drake saquea Santo Domingo",
+  "text": "Una flota inglesa al mando de Francis Drake captura Santo Domingo y la libera a cambio de un rescate, y retiene la ciudad durante semanas antes de retirarse. La incursión pone al descubierto la vulnerabilidad de las posesiones caribeñas de España."
+ },
+ "meanwhile": [
+  {
+   "country": "Mali",
+   "title": "La caravana de sal del Azalai cruza el Sáhara",
+   "text": "La caravana de sal del Azalai parte de Tombuctú cruzando el Sáhara hacia las minas de Taoudenni y regresa. Largas filas de camellos llevan grano y mercancías al norte y vuelven cargados de losas de sal."
+  },
+  {
+   "country": "Mozambique",
+   "title": "Portugal remonta el Zambeze",
+   "text": "Comerciantes y funcionarios portugueses se expanden río arriba por el Zambeze durante el siglo XVI, en busca del control del oro, el marfil y el comercio regional. Con el tiempo, el sistema prazo crea haciendas semiautónomas cuyo poder depende de alianzas locales, séquitos armados y trabajo forzado."
+  },
+  {
+   "country": "Bolivia",
+   "title": "Potosí",
+   "text": "Potosí se convierte en uno de los grandes centros mineros de plata del Imperio español. Desde 1573 la mita colonial obliga a más de 200 comunidades indígenas a enviar alrededor de un séptimo de sus hombres adultos para un servicio laboral rotatorio. La minería, la exposición al mercurio, la coacción y la enfermedad imponen un coste humano gravísimo, pero las afirmaciones posteriores de ocho millones de muertes no son una estimación demográfica fiable."
+  },
+  {
+   "country": "Barbados",
+   "title": "Las plantaciones de azúcar del Caribe",
+   "text": "Las haciendas azucareras de Barbados combinan molinos movidos por viento o animales con casas de calderas donde se procesa el jugo de caña en pailas de cobre al fuego. Los trabajadores esclavizados afrontan largas jornadas, el calor, la maquinaria y otros graves peligros a lo largo del cultivo y el procesado del azúcar."
+  },
+  {
+   "country": "Venezuela",
+   "title": "Colón llega a tierra firme de Sudamérica",
+   "text": "En su tercer viaje, Cristóbal Colón llega al golfo de Paria y al delta del Orinoco y desembarca, su primer pie en tierra firme de Sudamérica."
+  },
+  {
+   "country": "Cabo Verde",
+   "title": "Drake incendia Ribeira Grande",
+   "text": "Francis Drake desembarca a mil hombres y toma Ribeira Grande sin combatir; los vecinos han huido tierra adentro. Su flota ocupa la villa vacía durante dos semanas, exige un rescate que nunca llega y luego la incendia antes de zarpar hacia el Caribe. El saqueo pone de manifiesto lo indefenso que ha quedado el rico puerto esclavista."
+  }
+ ]
+}

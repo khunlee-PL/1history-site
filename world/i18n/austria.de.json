@@ -1,0 +1,39 @@
+{
+ "country": "Austria",
+ "anchor": {
+  "title": "Mögen andere Krieg führen",
+  "text": "Maximilian von Habsburg heiratet 1477 Maria von Burgund und bringt damit einen großen Teil des burgundischen Erbes in die habsburgische Politik ein. Spätere Heiraten verbinden die Dynastie mit Spanien und seiner überseeischen Monarchie und zeigen, wie Erbe und Heirat neben Krieg und Diplomatie die habsburgische Macht erweiterten."
+ },
+ "meanwhile": [
+  {
+   "country": "Venezuela",
+   "title": "Kolumbus erreicht das südamerikanische Festland",
+   "text": "Auf seiner dritten Reise erreicht Christoph Kolumbus den Golf von Paria und das Orinoco-Delta und geht an Land, seine erste Landung auf dem südamerikanischen Festland."
+  },
+  {
+   "country": "Mozambique",
+   "title": "Portugal errichtet seine Herrschaft an der Küste Mosambiks",
+   "text": "Portugal errichtet ab dem frühen sechzehnten Jahrhundert befestigte Stützpunkte an der Küste Mosambiks und weitet seinen Einfluss allmählich entlang des Sambesi aus. Das Prazo-Gutssystem entwickelt sich später im Landesinneren und verbindet Landvergaben, Handel, bewaffnete Macht und Zwangsarbeit."
+  },
+  {
+   "country": "Niger",
+   "title": "Die Azalai durchquert den Ténéré",
+   "text": "Große Kamelkarawanen, die Azalai, durchqueren den Ténéré zwischen Agadez und den Salzpfannen von Bilma. Sie tragen Salz, Datteln und Hirse über eine der härtesten Routen der Sahara."
+  },
+  {
+   "country": "Syria",
+   "title": "Timur plündert Damaskus",
+   "text": "Timur erobert und plündert 1401 Damaskus, nachdem er mamlukische Truppen besiegt hat. Zeitgenössische Berichte schildern ausgedehnte Zerstörung und die erzwungene Umsiedlung geschickter Handwerker nach Samarkand; die Stadt wird später unter mamlukischer Herrschaft wiederaufgebaut."
+  },
+  {
+   "country": "Moldova",
+   "title": "Sieg bei Vaslui",
+   "text": "Bei Vaslui besiegt Stefan der Große 1475 ein größeres osmanisches Heer unter Hadım Süleyman Pascha. Der Sieg ist einer der bedeutendsten moldauischen Erfolge der Zeit und verschafft Stefan weithin Anerkennung im christlichen Europa."
+  },
+  {
+   "country": "Vatican City",
+   "title": "Vatikanische Apostolische Bibliothek",
+   "text": "Papst Sixtus IV. gründet förmlich die Vatikanische Bibliothek und ernennt Bartolomeo Platina zu ihrem ersten Bibliothekar. Die Sammlung beginnt mit etwa 2.500 griechischen und lateinischen Handschriften und wächst später zu einer der bedeutendsten Forschungsbibliotheken der Welt heran."
+  }
+ ]
+}

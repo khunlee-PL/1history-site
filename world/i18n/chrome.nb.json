@@ -1,0 +1,40 @@
+{
+ "langName": "Norsk",
+ "dir": "ltr",
+ "yearFmt": "{y}",
+ "yearBCE": "{y} f.Kr.",
+ "tagline": "Vår felles fortid på én globus.",
+ "kicker": "{country} · samtidig, omkring {yr}",
+ "dek": "Året da {country} opplevde dette — og hva resten av verden gjorde i samme øyeblikk.",
+ "lede": "Stopp globusen ved året for {anchor}, og se overalt på én gang. Hvert øyeblikk nedenfor er et ekte kort fra 1History.",
+ "connect": [
+  "Imens, et annet sted…",
+  "I samme øyeblikk…",
+  "Over hele verden…",
+  "I samme tidsalder…",
+  "Og langt borte…",
+  "Et annet sted på globusen…"
+ ],
+ "datesNote": "Datoer er oppgitt etter historikernes beste forståelse; der en dato er omtrentlig eller omstridt, er det angitt.",
+ "diffH2": "Se det på globusen",
+ "diff": [
+  [
+   "Din historie i sentrum.",
+   "{country}s eget øyeblikk, ikke Europas tidslinje."
+  ],
+  [
+   "Hele globusen, i ett øyeblikk.",
+   "Bla til {yr} og se hva som skjedde overalt samtidig."
+  ],
+  [
+   "Over 200 språk, helt frakoblet.",
+   "Ingen kontoer, ingen sporing, ingen servere."
+  ]
+ ],
+ "ctaH2": "Utforsk {yr} på en roterende globus",
+ "ctaP": "Gratis å begynne, frakoblet for alltid.",
+ "btnApp": "Last ned i App Store",
+ "btnPlay": "Få den på Google Play",
+ "btnSite": "Besøk 1history.app",
+ "footerBy": "Av Paisarn Likhitpreechakul · Bangkok"
+}

@@ -1,0 +1,39 @@
+{
+ "country": "Angola",
+ "anchor": {
+  "title": "Mbanza Congo, capital do Congo",
+  "text": "Mbanza Congo ergue-se como capital do Reino do Congo, uma cidade do mani Congo no alto de um planalto a sul do rio Congo. O seu soberano recebe emissários portugueses e adota o cristianismo, e a povoação recebe o nome de São Salvador."
+ },
+ "meanwhile": [
+  {
+   "country": "Venezuela",
+   "title": "Columbus reaches the South American mainland",
+   "text": "On his third voyage, Christopher Columbus reaches the Gulf of Paria and the Orinoco delta and steps ashore, his first landing on the South American mainland."
+  },
+  {
+   "country": "Mozambique",
+   "title": "Portugal estabelece o domínio na costa de Moçambique",
+   "text": "Portugal estabelece posições fortificadas na costa de Moçambique a partir do início do século XVI e expande gradualmente a influência ao longo do Zambeze. O sistema de prazos desenvolve-se mais tarde no interior, combinando concessões de terra, comércio, poder armado e trabalho forçado."
+  },
+  {
+   "country": "Niger",
+   "title": "The azalai crosses the Ténéré",
+   "text": "Great camel caravans, the azalai, cross the Ténéré between Agadez and the salt pans of Bilma. They carry salt, dates and millet along one of the Sahara's hardest routes."
+  },
+  {
+   "country": "Syria",
+   "title": "Timur sacks Damascus",
+   "text": "Timur captures and sacks Damascus in 1401 after defeating Mamluk forces. Contemporary accounts describe extensive destruction and the forced transfer of skilled artisans to Samarkand; the city later rebuilds under Mamluk rule."
+  },
+  {
+   "country": "Bahamas",
+   "title": "San Salvador Island",
+   "text": "On 12 October 1492 Columbus makes his first recorded Caribbean landfall on an island the Lucayans called Guanahani, which he renames San Salvador. The exact identification of Guanahani remains debated. The encounter begins sustained Spanish expansion into the Caribbean."
+  },
+  {
+   "country": "Chiang Mai",
+   "title": "Wat Chet Yot",
+   "text": "Under King Tilokarat's patronage a great council of monks gathers at Wat Chet Yot to purify and recompile the Pali Tipitaka. The chronicle counts it among the crowning acts of Lan Na's most brilliant reign."
+  }
+ ]
+}

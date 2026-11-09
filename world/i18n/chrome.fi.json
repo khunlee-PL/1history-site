@@ -1,0 +1,40 @@
+{
+ "langName": "Suomi",
+ "dir": "ltr",
+ "yearFmt": "{y}",
+ "yearBCE": "{y} eaa.",
+ "tagline": "Yhteinen menneisyytemme yhdellä maapallolla.",
+ "kicker": "{country} · samaan aikaan, noin {yr}",
+ "dek": "Vuosi, jona {country} koki tämän — ja mitä muu maailma teki samalla hetkellä.",
+ "lede": "Pysäytä maapallo vuoteen {anchor} ja katso kaikkialle yhtä aikaa. Jokainen hetki alla on aito kortti 1History-sovelluksesta.",
+ "connect": [
+  "Samaan aikaan muualla…",
+  "Samalla hetkellä…",
+  "Ympäri maailmaa…",
+  "Samana aikakautena…",
+  "Ja kaukana…",
+  "Toisaalla maapallolla…"
+ ],
+ "datesNote": "Päivämäärät on annettu historioitsijoiden parhaan ymmärryksen mukaan; kun päivämäärä on likimääräinen tai kiistanalainen, se mainitaan.",
+ "diffH2": "Katso maapallolla",
+ "diff": [
+  [
+   "Oma historiasi keskiössä.",
+   "{country}:n oma hetki, ei Euroopan aikajana."
+  ],
+  [
+   "Koko maapallo, yhdessä hetkessä.",
+   "Siirry vuoteen {yr} ja katso, mitä kaikkialla tapahtui samaan aikaan."
+  ],
+  [
+   "Yli 200 kieltä, täysin offline.",
+   "Ei tilejä, ei seurantaa, ei palvelimia."
+  ]
+ ],
+ "ctaH2": "Tutki vuotta {yr} pyörivällä maapallolla",
+ "ctaP": "Ilmainen aloittaa, offline ikuisesti.",
+ "btnApp": "Lataa App Storesta",
+ "btnPlay": "Hanki Google Playsta",
+ "btnSite": "Vieraile 1history.app",
+ "footerBy": "Kirjoittanut Paisarn Likhitpreechakul · Bangkok"
+}

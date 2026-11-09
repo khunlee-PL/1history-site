@@ -1,0 +1,39 @@
+{
+ "country": "Latvia",
+ "anchor": {
+  "title": "Latvija pasludina sevi",
+  "text": "Pasludināta teātrī Rīgā, kamēr vācu karaspēks Pirmā pasaules kara beigās vēl tur pilsētu. Sekojošais neatkarības karš reizē tiek izcīnīts pret vācu, krievu un baltgvardu spēkiem — un uzvarēts."
+ },
+ "meanwhile": [
+  {
+   "country": "Mali",
+   "title": "Franču Sudāna sūta tirailjērus Lielajā karā",
+   "text": "Francija vervē un iesauc vīrus no Franču Sudānas vienībās, ko parasti dēvē par tirailleurs sénégalais. Kolonijas kareivji Pirmā pasaules kara laikā dien Francijā, Vidusjūras reģionā un citos kaujas laukos."
+  },
+  {
+   "country": "Ruanda",
+   "title": "Ruanda-Urundi",
+   "text": "Beļģija no 1922. gada pārvalda Ruandu-Urundi saskaņā ar Nāciju Savienības mandātu un pārvalda Ruandu caur monarhiju un virsaišu hierarhiju. Koloniālās rasu teorijas un pārvaldes politika nostiprina hutu un tutsi nošķīrumu un lielāko mandāta daļu dod priekšroku tutsi elitei."
+  },
+  {
+   "country": "Zambija",
+   "title": "Ziemeļrodēzija",
+   "text": "Ziemeļrodēziju 1911. gadā izveido kā Britu Dienvidāfrikas kompānijas pārvaldītu teritoriju. Kompānijas vara par prioritāti izvirza ieguvi, nodokļus un darbaspēka vervēšanu, pirms Lielbritānija 1924. gadā pārņem tiešu koloniālu pārvaldi."
+  },
+  {
+   "country": "Burkinafaso",
+   "title": "Augšvoltu sadala",
+   "text": "Francija likvidē Augšvoltas koloniju un tās teritoriju sadala starp Ziloņkaula krastu, Franču Sudānu un Nigēru. Mosi sirdszemi nākamos piecpadsmit gadus pārvalda no piekrastes."
+  },
+  {
+   "country": "Mozambika",
+   "title": "Piespiedu kokvilnas režīms",
+   "text": "Portugāles varasiestādes visā Mozambikas ziemeļos liek Āfrikas zemniekiem audzēt kokvilnu, ko par fiksētām cenām pārdot koloniālajām koncesiju kompānijām. Šī sistēma gadu desmitiem veido lauku dzīvi un kļūst par ilgstošu sūdzību pret koloniālo varu."
+  },
+  {
+   "country": "Antigva un Barbuda",
+   "title": "Studiation Brown",
+   "text": "Kara laika inflācija un zemās algas 1918. gadā veicina darba nemierus Antigvā. Demonstrācijas un nemierus apspiež koloniālās varasiestādes. Šis notikums kļūst par vienu no vairākiem priekšvēstnešiem, ko vēlāk atceras salas divdesmitā gadsimta darba kustības organizatori."
+  }
+ ]
+}

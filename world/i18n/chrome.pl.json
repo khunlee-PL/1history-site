@@ -1,0 +1,40 @@
+{
+ "langName": "Polski",
+ "dir": "ltr",
+ "yearFmt": "{y}",
+ "yearBCE": "{y} p.n.e.",
+ "tagline": "Nasza wspólna przeszłość na jednym globusie.",
+ "kicker": "{country} · w tym samym czasie, około {yr}",
+ "dek": "Rok, w którym {country} to przeżył — i co w tej samej chwili robiła reszta świata.",
+ "lede": "Zatrzymaj globus na roku {anchor} i spójrz wszędzie naraz. Każda chwila poniżej to prawdziwa karta z 1History.",
+ "connect": [
+  "Tymczasem gdzie indziej…",
+  "W tej samej chwili…",
+  "Na całym świecie…",
+  "W tej samej epoce…",
+  "I daleko stąd…",
+  "W innym zakątku globu…"
+ ],
+ "datesNote": "Daty podano zgodnie z najlepszą wiedzą historyków; gdy data jest przybliżona lub sporna, zaznaczono to.",
+ "diffH2": "Zobacz na globusie",
+ "diff": [
+  [
+   "Twoja historia w centrum.",
+   "Własna chwila kraju {country}, nie europejska oś czasu."
+  ],
+  [
+   "Cały glob, w jednej chwili.",
+   "Przewiń do roku {yr} i zobacz, co działo się wszędzie naraz."
+  ],
+  [
+   "Ponad 200 języków, całkowicie offline.",
+   "Bez kont, bez śledzenia, bez serwerów."
+  ]
+ ],
+ "ctaH2": "Odkryj rok {yr} na obracającym się globusie",
+ "ctaP": "Darmowy start, offline na zawsze.",
+ "btnApp": "Pobierz w App Store",
+ "btnPlay": "Pobierz w Google Play",
+ "btnSite": "Odwiedź 1history.app",
+ "footerBy": "Autor: Paisarn Likhitpreechakul · Bangkok"
+}

@@ -1,0 +1,39 @@
+{
+ "country": "Nicaragua",
+ "anchor": {
+  "title": "El reino misquito",
+  "text": "El reino misquito se desarrolla a lo largo de la costa caribeña con apoyo militar y comercial británico. Su autonomía limita el control español y más tarde complica los intentos de Nicaragua de incorporar la región."
+ },
+ "meanwhile": [
+  {
+   "country": "Barbados",
+   "title": "Las plantaciones de azúcar del Caribe",
+   "text": "Las haciendas azucareras de Barbados combinan molinos movidos por viento o animales con casas de calderas donde se procesa el jugo de caña en pailas de cobre al fuego. Los trabajadores esclavizados afrontan largas jornadas, el calor, la maquinaria y otros graves peligros a lo largo del cultivo y el procesado del azúcar."
+  },
+  {
+   "country": "Bolivia",
+   "title": "Potosí",
+   "text": "Potosí se convierte en uno de los grandes centros mineros de plata del Imperio español. Desde 1573 la mita colonial obliga a más de 200 comunidades indígenas a enviar alrededor de un séptimo de sus hombres adultos para un servicio laboral rotatorio. La minería, la exposición al mercurio, la coacción y la enfermedad imponen un coste humano gravísimo, pero las afirmaciones posteriores de ocho millones de muertes no son una estimación demográfica fiable."
+  },
+  {
+   "country": "Mali",
+   "title": "La caravana de sal del Azalai cruza el Sáhara",
+   "text": "La caravana de sal del Azalai parte de Tombuctú cruzando el Sáhara hacia las minas de Taoudenni y regresa. Largas filas de camellos llevan grano y mercancías al norte y vuelven cargados de losas de sal."
+  },
+  {
+   "country": "Côte d'Ivoire",
+   "title": "Aniaba navega a la corte de Francia",
+   "text": "Aniaba, un joven de la costa de Assinie, es enviado a la corte de Luis XIV, donde es bautizado y educado antes de regresar a su tierra. Su viaje marca uno de los primeros vínculos directos entre el litoral y Francia."
+  },
+  {
+   "country": "Guinea-Bissau",
+   "title": "Bisáu",
+   "text": "Los portugueses plantan un puesto fortificado en Bisáu, en tierra de los papel, cuyos reyes los gravan y los toleran. Durante dos siglos sigue siendo una angosta guarnición ceñida a sus muros, dependiente de los soberanos africanos para el alimento, el agua y los propios cautivos que embarca."
+  },
+  {
+   "country": "Honduras",
+   "title": "Los reyes misquitos",
+   "text": "Los líderes misquitos desarrollan una monarquía y una jerarquía política que interactúa estrechamente con los funcionarios y comerciantes británicos. El reconocimiento, las armas y el comercio británicos refuerzan el poder misquito, mientras que los líderes locales aprovechan esos vínculos para perseguir sus propios intereses regionales."
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "country": "Burundi",
+ "anchor": {
+  "title": "Le royaume du Burundi",
+  "text": "Le 1er juillet, le Burundi devient indépendant en tant que monarchie constitutionnelle sous le mwami Mwambutsa IV, son nouveau drapeau portant le tambour royal karyenda. Le Ruanda-Urundi se scinde en deux : le Burundi conserve son roi, tandis que le Rwanda voisin, ayant renversé sa propre monarchie, devient une république."
+ },
+ "meanwhile": [
+  {
+   "country": "Côte d'Ivoire",
+   "title": "Félix Houphouët-Boigny",
+   "text": "Félix Houphouët-Boigny conduit la Côte d'Ivoire à l'indépendance en 1960 et reste président jusqu'en 1993. Son règne associe des liens étroits avec la France, une croissance rapide tirée par les exportations pendant une grande partie de la période et des limites strictes à l'opposition politique."
+  },
+  {
+   "country": "Republic of the Congo",
+   "title": "Le Moyen-Congo devient indépendant",
+   "text": "L'ancien territoire français du Moyen-Congo devient la République du Congo indépendante le 15 août 1960, avec Brazzaville pour capitale. Fulbert Youlou est le premier président du nouvel État."
+  },
+  {
+   "country": "Cuba",
+   "title": "L'offensive révolutionnaire",
+   "text": "En 1968, l'Offensive révolutionnaire nationalise des dizaines de milliers de petites entreprises privées restantes, dont boutiques, bars et ateliers. La campagne étend considérablement le contrôle direct de l'État sur l'économie urbaine."
+  },
+  {
+   "country": "Eswatini",
+   "title": "Le Swaziland accède à l'indépendance",
+   "text": "Le Royaume du Swaziland devient indépendant du Royaume-Uni sous le roi Sobhuza II. Le petit royaume enclavé se trouve entre l'Afrique du Sud de l'apartheid et le Mozambique, dont les territoires deviennent des arènes de conflit à l'époque de la guerre froide."
+  },
+  {
+   "country": "Kiribati",
+   "title": "Les îles Ellice font sécession",
+   "text": "Les Ellicois polynésiens, minorité dans une colonie majoritairement micronésienne, votent à neuf contre un pour partir. En 1975, ils se séparent et prennent le nom de Tuvalu, accédant à la pleine indépendance en 1978. La séparation est pacifique et quasi unanime, un rare divorce colonial réglé proprement par référendum, et elle laisse les Gilbert poursuivre seules vers la souveraineté."
+  },
+  {
+   "country": "Burkina Faso",
+   "title": "La Haute-Volta est rétablie",
+   "text": "La France rétablit la Haute-Volta dans ses anciennes limites, répondant aux appels mossis à restaurer le territoire. Ouagadougou redevient le siège d'une colonie unique."
+  }
+ ]
+}

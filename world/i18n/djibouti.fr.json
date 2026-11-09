@@ -1,0 +1,39 @@
+{
+ "country": "Djibouti",
+ "anchor": {
+  "title": "Le sultanat d'Ifat et Zeilā",
+  "text": "Le sultanat médiéval d'Ifat, gouverné par la dynastie Walashma, contrôle les routes commerciales reliant le port de Zeilā aux hautes terres éthiopiennes et à l'intérieur. Des guerres répétées avec les souverains chrétiens d'Éthiopie affaiblissent l'Ifat, et des souverains walashma apparentés établirent plus tard le sultanat d'Adal."
+ },
+ "meanwhile": [
+  {
+   "country": "Antigua and Barbuda",
+   "title": "Caraïbes insulaires",
+   "text": "À la fin de la période précolombienne, des communautés de langue kalinago sont établies dans une grande partie des Petites Antilles, dont Antigua. Les récits européens ont plus tard mis en avant la guerre et les raids, mais l'archéologie et l'ethnohistoire montrent aussi les déplacements régionaux, les échanges, la pêche et le peuplement."
+  },
+  {
+   "country": "Mauritania",
+   "title": "Le sel de la sebkha",
+   "text": "Deux fois l'an, les caravanes de chameaux, les azalaï, gagnent les salines d'Idjil, taillant des barres de sel gemme gris à échanger vers le sud contre du mil et de l'or. Là où le Sahel manque de sel, une dalle peut peser presque son propre poids en or."
+  },
+  {
+   "country": "Senegal",
+   "title": "Le royaume du Walo",
+   "text": "Dans le delta où le fleuve Sénégal rejoint l'Atlantique, le royaume wolof du Walo prend forme sous son souverain, le brak. Sa position à l'embouchure du fleuve en fait un point de rencontre précoce du commerce transsaharien, puis atlantique."
+  },
+  {
+   "country": "Mongolia",
+   "title": "L'Empire mongol à son extension maximale",
+   "text": "De la Corée à la Pologne, et de la Sibérie au golfe Persique. Seize pour cent de la surface terrestre de la planète, tenue par un peuple qui, au départ, comptait peut-être un million d'âmes."
+  },
+  {
+   "country": "Andorra",
+   "title": "Le paréage d'Andorre",
+   "text": "Pour mettre fin à une guerre de raids entre l'évêque d'Urgell et le comte de Foix, des arbitres partagent les vallées entre eux : aucun ne l'emporte, tous deux règnent. Le paréage fait d'Andorre une seigneurie partagée sous deux princes à la fois — l'origine institutionnelle de la coprincipauté ; sous la constitution de 1993, l'évêque d'Urgell et le président de la France demeurent coprinces aux rôles constitutionnels limités."
+  },
+  {
+   "country": "Iran",
+   "title": "L'Ilkhanat devient musulman",
+   "text": "L'ilkhan Ghazan se convertit à l'islam en 1295 et en fait un pilier de son pouvoir. Sa conversion accélère l'intégration de l'Ilkhanat mongol dans le monde politique et culturel islamique de l'Iran."
+  }
+ ]
+}

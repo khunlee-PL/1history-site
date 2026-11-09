@@ -1,0 +1,39 @@
+{
+ "country": "Guatemala",
+ "anchor": {
+  "title": "Tikal es derrotada",
+  "text": "En 562, Tikal sufre una gran derrota en las guerras en las que participan Calakmul y sus aliados. A la derrota le sigue un largo hiato en los monumentos fechados de Tikal, aunque la ocupación continúa; ese vacío es evidencia de una perturbación política, más que la prueba de que la ciudad misma quedara en silencio."
+ },
+ "meanwhile": [
+  {
+   "country": "Mexico",
+   "title": "Teotihuacan arde",
+   "text": "Hacia el siglo VI o VII, los principales edificios de élite y ceremoniales de Teotihuacan arden y el sistema político de la ciudad decae. La población cae con fuerza, pero las causas siguen debatiéndose e incluyen el conflicto interno, la tensión ambiental y un cambio regional más amplio."
+  },
+  {
+   "country": "Jordan",
+   "title": "El mapa de Mádaba",
+   "text": "Los artesanos componen un mapa en mosaico de Tierra Santa en una iglesia de Mádaba, que representa Jerusalén y el Jordán en piedra de colores. Sobrevive como el mapa más antiguo que se conoce de la región."
+  },
+  {
+   "country": "Kazakhstan",
+   "title": "Taraz, ciudad de la Ruta de la Seda",
+   "text": "Taraz crece a orillas del río Talas como una población de mercado donde las caravanas comercian entre la estepa y el sur sedentario. Una embajada bizantina a los turcos pasa por la región en estos años y repara en su activo comercio."
+  },
+  {
+   "country": "Saudi Arabia",
+   "title": "La Meca antes del islam",
+   "text": "A comienzos del siglo VII, la Meca es una ciudad-santuario asociada a la Kaaba y a la peregrinación, gobernada por los Quraysh. Fuentes islámicas posteriores describen también el comercio de caravanas y numerosas imágenes de culto en el santuario, aunque los detalles de la economía preislámica de la ciudad son objeto de debate."
+  },
+  {
+   "country": "Mongolia",
+   "title": "El kaganato gokturco",
+   "text": "Los gokturcos gobiernan desde Manchuria hasta el Caspio y dejan algunos de los primeros testimonios conservados de escritura túrquica, tallados en estelas en el valle del Orjón: en la práctica, una advertencia para no fiarse de los chinos."
+  },
+  {
+   "country": "Kanagawa Prefecture",
+   "title": "Sacred isle of Enoshima",
+   "text": "The small tidal island of Enoshima becomes a shrine to Benzaiten, goddess of water and fortune. Pilgrims cross to its caves and cliffs, and it grows into a beloved landmark of the coast."
+  }
+ ]
+}

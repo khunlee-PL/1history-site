@@ -1,0 +1,39 @@
+{
+ "country": "Bosnia and Herzegovina",
+ "anchor": {
+  "title": "The kingdom falls to the Ottomans",
+  "text": "Mehmed the Conqueror storms into Bosnia and takes fortress after fortress. The last king, Stephen Tomašević, surrenders at Ključ on a promise of safe conduct; the sultan's jurist voids it, and Stephen is beheaded. In one summer the medieval kingdom ends and Ottoman Bosnia begins."
+ },
+ "meanwhile": [
+  {
+   "country": "Venecuela",
+   "title": "Kolumbo stiže na južnoameričko kopno",
+   "text": "Na svom trećem putovanju Kristofor Kolumbo stiže do zaljeva Paria i delte Orinoka te izlazi na obalu; to je njegovo prvo iskrcavanje na južnoameričko kopno."
+  },
+  {
+   "country": "Mozambik",
+   "title": "Portugal uspostavlja vlast na obali Mozambika",
+   "text": "Portugal od početka šesnaestog stoljeća uspostavlja utvrđene položaje na obali Mozambika i postepeno širi uticaj uz Zambezi. Sistem prazo imanja razvija se kasnije u unutrašnjosti, spajajući dodjele zemlje, trgovinu, oružanu moć i prisilni rad."
+  },
+  {
+   "country": "Niger",
+   "title": "Azalai prelazi Ténéré",
+   "text": "Veliki karavani deva, azalai, prelaze Ténéré između Agadeza i solnih basena Bilme. Nose so, hurme i proso jednim od najtežih saharskih puteva."
+  },
+  {
+   "country": "Sirija",
+   "title": "Timur pustoši Damask",
+   "text": "Timur 1401. osvaja i pustoši Damask nakon što je porazio mamelučke snage. Savremeni izvještaji opisuju veliko razaranje i prisilno preseljenje vještih zanatlija u Samarkand; grad se kasnije obnavlja pod mamelučkom vlašću."
+  },
+  {
+   "country": "Crna Gora",
+   "title": "Bokeljska mornarica Kotora",
+   "text": "Pomorci Bokokotorskog zaliva osnivaju pomorsko bratstvo da zaštite brodarstvo i odaju počast svetom Tripunu. Bokeljski kapetani služe pod nekoliko jadranskih sila, dok organizacija čuva svoje svečane tradicije u Kotoru."
+  },
+  {
+   "country": "San Marino",
+   "title": "San Marino dostiže današnje granice",
+   "text": "Nakon rata protiv Malatesta iz Riminija, San Marino stiče zamkove Fiorentino, Montegiardino i Serravalle, koje dodjeljuje papa Pio II, dok se obližnja zajednica Faetano pridružuje svojom voljom. Ti dodaci utvrđuju teritoriju republike, koja ostaje nepromijenjena do danas."
+  }
+ ]
+}

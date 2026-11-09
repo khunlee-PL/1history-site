@@ -1,0 +1,40 @@
+{
+ "langName": "Română",
+ "dir": "ltr",
+ "yearFmt": "{y}",
+ "yearBCE": "{y} î.Hr.",
+ "tagline": "Trecutul nostru comun pe un singur glob.",
+ "kicker": "{country} · în același timp, în jurul anului {yr}",
+ "dek": "Anul în care {country} a trăit acest lucru — și ce făcea restul lumii în aceeași clipă.",
+ "lede": "Oprește globul la anul {anchor} și privește peste tot deodată. Fiecare moment de mai jos este o fișă reală din 1History.",
+ "connect": [
+  "Între timp, în altă parte…",
+  "În aceeași clipă…",
+  "În toată lumea…",
+  "În aceeași epocă…",
+  "Și departe…",
+  "În alt punct al globului…"
+ ],
+ "datesNote": "Datele sunt date conform celei mai bune înțelegeri a istoricilor; acolo unde o dată este aproximativă sau disputată, se precizează.",
+ "diffH2": "Vezi pe glob",
+ "diff": [
+  [
+   "Istoria ta în centru.",
+   "Momentul propriu al țării {country}, nu cronologia Europei."
+  ],
+  [
+   "Întreg globul, într-o clipă.",
+   "Derulează până la {yr} și vezi ce se întâmpla peste tot deodată."
+  ],
+  [
+   "Peste 200 de limbi, complet offline.",
+   "Fără conturi, fără urmărire, fără servere."
+  ]
+ ],
+ "ctaH2": "Explorează anul {yr} pe un glob care se rotește",
+ "ctaP": "Gratis pentru început, offline pentru totdeauna.",
+ "btnApp": "Descarcă din App Store",
+ "btnPlay": "Ia-l din Google Play",
+ "btnSite": "Vizitează 1history.app",
+ "footerBy": "De Paisarn Likhitpreechakul · Bangkok"
+}

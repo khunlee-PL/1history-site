@@ -1,0 +1,40 @@
+{
+ "langName": "Italiano",
+ "dir": "ltr",
+ "yearFmt": "{y}",
+ "yearBCE": "{y} a.C.",
+ "tagline": "Il nostro passato condiviso su un solo globo.",
+ "kicker": "{country} · nello stesso momento, intorno al {yr}",
+ "dek": "L'anno in cui {country} vide questo — e ciò che il resto del mondo faceva nello stesso istante.",
+ "lede": "Ferma il globo sull'anno di {anchor} e guarda ovunque allo stesso tempo. Ogni momento qui sotto è una scheda reale di 1History.",
+ "connect": [
+  "Nel frattempo, altrove…",
+  "Nello stesso momento…",
+  "In tutto il mondo…",
+  "Nella stessa epoca…",
+  "E lontano…",
+  "In un altro punto del globo…"
+ ],
+ "datesNote": "Le date sono fornite secondo la migliore comprensione degli storici; quando una data è approssimativa o dibattuta, lo si indica.",
+ "diffH2": "Vedilo sul globo",
+ "diff": [
+  [
+   "La tua storia al centro.",
+   "Il momento di {country}, non la cronologia dell'Europa."
+  ],
+  [
+   "L'intero globo, in un istante.",
+   "Scorri fino al {yr} e osserva cosa accadeva ovunque nello stesso tempo."
+  ],
+  [
+   "Oltre 200 lingue, completamente offline.",
+   "Nessun account, nessun tracciamento, nessun server."
+  ]
+ ],
+ "ctaH2": "Esplora il {yr} su un globo che gira",
+ "ctaP": "Gratis per iniziare, offline per sempre.",
+ "btnApp": "Scarica su App Store",
+ "btnPlay": "Scarica su Google Play",
+ "btnSite": "Visita 1history.app",
+ "footerBy": "Di Paisarn Likhitpreechakul · Bangkok"
+}

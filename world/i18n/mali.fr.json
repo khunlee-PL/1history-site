@@ -1,0 +1,39 @@
+{
+ "country": "Mali",
+ "anchor": {
+  "title": "Seku Amadu fonde l'empire du Macina",
+  "text": "Seku Amadu conduit un mouvement peul dans le delta intérieur du Niger et fonde l'empire du Macina, bâtissant une nouvelle capitale à Hamdallaye. L'État gouverne les éleveurs, les cultivateurs et les communautés de pêcheurs du delta."
+ },
+ "meanwhile": [
+  {
+   "country": "Benin",
+   "title": "Francisco Félix de Sousa",
+   "text": "Francisco Félix de Sousa, marchand né au Brésil et établi à Ouidah, devient l'un des négriers les plus influents de la côte au début du XIXe siècle. Il soutient l'accession de Ghézo au pouvoir et reçoit le titre de Chacha, liant étroitement le commerce atlantique à la politique dahoméenne."
+  },
+  {
+   "country": "Chile",
+   "title": "La bataille de Maipú",
+   "text": "La victoire patriote de Maipú en avril 1818 assure au mouvement d'indépendance le contrôle du Chili central, après que l'Armée des Andes de José de San Martín eut franchi la cordillère vers le Chili l'année précédente. La campagne contribue ensuite à ouvrir la voie à de nouvelles opérations contre la domination espagnole au Pérou."
+  },
+  {
+   "country": "Ghana",
+   "title": "Les symboles adinkra",
+   "text": "Des artisans impriment le tissu adinkra à l'aide de tampons de calebasse sculptés, chaque symbole renvoyant à un proverbe ou à une idée sur la sagesse, la nature et la vie. Teint en sombre sur le coton, ce tissu se porte aux funérailles et lors des occasions solennelles chez les Akan."
+  },
+  {
+   "country": "Guinea",
+   "title": "Le château d'eau de l'Afrique de l'Ouest",
+   "text": "Le voyageur Gaspard Mollien traverse le Fouta-Djalon, dont les plateaux de grès recueillent les pluies qui alimentent le Niger, le Sénégal et la Gambie. Les hauts plateaux méritent leur nom de château d'eau de l'Afrique de l'Ouest."
+  },
+  {
+   "country": "Moldova",
+   "title": "Le gouvernement de Bessarabie",
+   "text": "La Russie organise sa nouvelle province en gouvernement de Bessarabie, d'abord doté d'une autonomie et de tribunaux de langue roumaine. L'autonomie est peu à peu rognée ; dès 1828, Saint-Pétersbourg gouverne directement, promeut le russe et installe Bulgares, Allemands et Gagaouzes sur la steppe du sud vidée de ses habitants."
+  },
+  {
+   "country": "Saudi Arabia",
+   "title": "La chute du premier État saoudien",
+   "text": "Une armée égypto-ottomane dirigée par Ibrahim Pacha s'empare de Dariya en 1818 au terme d'une longue campagne, mettant fin au premier État saoudien. Son souverain est envoyé à Istanbul et exécuté, tandis que des membres de la famille saoudienne rétablissent plus tard leur pouvoir politique en Arabie centrale."
+  }
+ ]
+}

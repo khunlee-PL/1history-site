@@ -1,0 +1,39 @@
+{
+ "country": "Slovenia",
+ "anchor": {
+  "title": "Rimska Emona",
+  "text": "Rimsko kolonijo zasnujejo na mrežnem načrtu tam, kjer zdaj stoji Ljubljana, ob cesti med Italijo in Donavo. Prehod, ki ga varuje — edina lahka pot iz Sredozemlja v srednjo Evropo — je razlog, da se tu dogaja vse drugo."
+ },
+ "meanwhile": [
+  {
+   "country": "Saint Kitts in Nevis",
+   "title": "Lončarji Igneri prečkajo morje",
+   "text": "Arawaško govoreči Igneri se v drevakih pomikajo navzgor po otoškem loku in zasadijo vasi na zavetrnih obalah. Žgejo fino lončevino, poslikano belo na rdečem, gojijo kasavo in ribarijo ob grebenu. Njihova najdišča na Nevisu in v dolini Basseterre pustijo prve vrtove in prvo lončevino na otokih, ki so poznali le morje."
+  },
+  {
+   "country": "Saint Vincent in Grenadine",
+   "title": "Čolni z Orinoka",
+   "text": "Lončarske skupnosti, povezane s širšo saladoidsko kulturno tradicijo, poselijo Saint Vincent ob prehodu prvega tisočletja pr. n. št./n. št. Ukvarjajo se z vrtnarstvom, ribolovom in medotoško izmenjavo ter puščajo značilno lončevino na obalnih arheoloških najdiščih."
+  },
+  {
+   "country": "Azerbajdžan",
+   "title": "Kavkaška Albanija",
+   "text": "Kavkaška Albanija se v vzhodnem Kavkazu razvije kot posebno starodavno kraljestvo. Pozneje sprejme krščanstvo in ima lastne cerkvene in pisne tradicije; njen odnos do poznejših ljudstev tega območja je zapleten in politično sporen."
+  },
+  {
+   "country": "Belize",
+   "title": "Cerros se dvigne ob zalivu",
+   "text": "Na obali zaliva Corozal trgovci na poti med notranjostjo in morjem dvignejo Cerros: kanale, igrišča za žogo in tempelj, čigar štukaturne maske nosijo najstarejše znane podobe majevskega kraljevanja. V stoletju je mesto večinoma zapuščeno, njegov kamen podrt, trgi prepuščeni mangrovam."
+  },
+  {
+   "country": "Egipt",
+   "title": "Zodiak iz Dendere",
+   "text": "Na stropu kapele v templju Hator kiparji izklešejo zemljevid neba in v velikem krogu, ki ga držijo podobe neba, obkrožijo ozvezdja in planete. Zabeleži egipčansko in babilonsko zvezdno znanje svojega časa."
+  },
+  {
+   "country": "Jordanija",
+   "title": "Skalno mesto Petra",
+   "text": "Graditelji iz rožnatih pečin izklešejo templje in grobnice v Petri, puščavski prestolnici Nabatejcev. Kanali in vodnjaki zbirajo vodo za mesto, ki obvladuje kadilske poti."
+  }
+ ]
+}

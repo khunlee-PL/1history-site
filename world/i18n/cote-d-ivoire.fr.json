@@ -1,0 +1,39 @@
+{
+ "country": "Côte d'Ivoire",
+ "anchor": {
+  "title": "L'empire de Kong",
+  "text": "Des marchands musulmans dioulas bâtissent l'empire de Kong au carrefour des routes de l'or, de la cola et du sel — un État marchand de savants et de caravanes qui gouverne le nord jusqu'à ce que les armées de Samori l'incendient."
+ },
+ "meanwhile": [
+  {
+   "title": "Les plantations sucrières des Caraïbes",
+   "text": "Les domaines sucriers barbadiens associent des moulins à vent ou à traction animale à des sucreries où le jus de canne est traité dans des chaudrons de cuivre chauffés. Les travailleurs réduits en esclavage affrontent de longues heures, la chaleur, les machines et d'autres dangers graves tout au long de la culture de la canne et de la fabrication du sucre.",
+   "country": "Barbados"
+  },
+  {
+   "title": "Potosí",
+   "text": "Potosí devient l'un des grands centres d'extraction d'argent de l'Empire espagnol. À partir de 1573, la mita coloniale oblige plus de 200 communautés autochtones à envoyer environ un septième de leurs hommes adultes au service de travail par roulement. L'extraction, l'exposition au mercure, la coercition et la maladie imposent de lourds coûts humains, mais les affirmations ultérieures de huit millions de morts ne constituent pas une estimation démographique fiable.",
+   "country": "Bolivia"
+  },
+  {
+   "title": "Le tshechu",
+   "text": "Les festivals tshechu apportent danses religieuses masquées, musique et rassemblements communautaires aux dzongs et monastères de tout le Bhoutan. Dans la tradition bouddhiste, contempler les danses et les grandes images sacrées est tenu pour spirituellement méritoire, et les festivals demeurent de grands événements publics.",
+   "country": "Bhutan"
+  },
+  {
+   "title": "Pablo Presbere mène la révolte de Talamanca",
+   "text": "En 1709, le chef autochtone Pablo Presbere contribue à mener un important soulèvement contre les missions espagnoles de Talamanca. Les forces coloniales finissent par réprimer la révolte et capturer ses chefs, mais l'autorité espagnole dans la région demeure limitée pendant une grande partie de la période coloniale.",
+   "country": "Costa Rica"
+  },
+  {
+   "title": "L'imprimerie de Vakhtang VI",
+   "text": "Vakhtang VI établit une imprimerie géorgienne à Tbilissi en 1709, imprimant des ouvrages religieux puis l'épopée de Roustaveli. Sa cour parraine aussi la codification juridique, l'érudition et l'écriture historique.",
+   "country": "Georgia"
+  },
+  {
+   "title": "Le Cap-Français",
+   "text": "Le Cap-Français s'élève sur la côte nord comme la principale ville de Saint-Domingue française, un pôle de commerce, d'administration et de richesse des plantations. Ses théâtres et ses hôtels particuliers lui valent d'être comparé aux villes européennes avant que la guerre ne transforme la colonie.",
+   "country": "Haiti"
+  }
+ ]
+}

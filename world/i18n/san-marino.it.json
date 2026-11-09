@@ -1,0 +1,39 @@
+{
+ "country": "San Marino",
+ "anchor": {
+  "title": "The Battle of San Marino",
+  "text": "In September 1944 the Gothic Line front rolls across Titano. German troops occupy the neutral republic; on 17–20 September British and Indian units fight up the slopes, take the capital, and then hand it back. The fighting briefly turns the neutral republic into part of the Italian campaign."
+ },
+ "meanwhile": [
+  {
+   "country": "Malawi",
+   "title": "Nyasaland's King's African Rifles fight in Burma",
+   "text": "Battalions of the King's African Rifles raised in Nyasaland serve in the Burma campaign, fighting Japanese forces across the jungles and hills of the Southeast Asian front."
+  },
+  {
+   "country": "Benin",
+   "title": "Dahomey sends its men to the war",
+   "text": "Dahomey remains under the Vichy-aligned administration of French West Africa until late 1942, when the federation joins the Allied side. Men from the colony serve in French African forces, while wartime requisitions and labor demands place additional burdens on local communities."
+  },
+  {
+   "country": "Lesotho",
+   "title": "Basutoland sends its men overseas",
+   "text": "Thousands of men from Basutoland serve abroad in the African Auxiliary Pioneer Corps and other British wartime formations. Their work supports Allied operations in the Middle East and Europe, while military pay and remittances affect households at home."
+  },
+  {
+   "country": "Côte d'Ivoire",
+   "title": "The end of forced labor",
+   "text": "Félix Houphouët-Boigny, a planter and doctor, leads African growers against forced labor and wins its abolition — then founds a party that carries French West Africa toward independence."
+  },
+  {
+   "country": "Zambia",
+   "title": "Northern Rhodesia's copper supplies the Allied war industries",
+   "text": "The mines of Northern Rhodesia's Copperbelt expand production to supply copper to the Allied war industries. The territory also raises troops who serve in the King's African Rifles."
+  },
+  {
+   "country": "Burkina Faso",
+   "title": "Upper Volta is restored",
+   "text": "France re-establishes Upper Volta within its former boundaries, answering Mossi appeals to restore the territory. Ouagadougou again becomes the seat of a single colony."
+  }
+ ]
+}

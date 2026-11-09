@@ -1,0 +1,650 @@
+{
+ "Afghanistan": [
+  "ps",
+  "fa"
+ ],
+ "Albania": [
+  "sq"
+ ],
+ "Algeria": [
+  "ar"
+ ],
+ "Andorra": [
+  "ca"
+ ],
+ "Angola": [
+  "pt"
+ ],
+ "Antigua and Barbuda": [
+  "en"
+ ],
+ "Argentina": [
+  "es"
+ ],
+ "Armenia": [
+  "hy"
+ ],
+ "Australia": [
+  "en"
+ ],
+ "Austria": [
+  "de"
+ ],
+ "Azerbaijan": [
+  "az"
+ ],
+ "Bahamas": [
+  "en"
+ ],
+ "Bahrain": [
+  "ar"
+ ],
+ "Bangladesh": [
+  "bn"
+ ],
+ "Barbados": [
+  "en"
+ ],
+ "Belarus": [
+  "be",
+  "ru"
+ ],
+ "Belgium": [
+  "nl",
+  "fr",
+  "de"
+ ],
+ "Belize": [
+  "en"
+ ],
+ "Benin": [
+  "fr"
+ ],
+ "Bhutan": [
+  "dz"
+ ],
+ "Bolivia": [
+  "es"
+ ],
+ "Bosnia and Herzegovina": [
+  "bs"
+ ],
+ "Botswana": [
+  "en",
+  "tn"
+ ],
+ "Brazil": [
+  "pt-BR"
+ ],
+ "Brunei": [
+  "ms"
+ ],
+ "Bulgaria": [
+  "bg"
+ ],
+ "Burkina Faso": [
+  "fr"
+ ],
+ "Burundi": [
+  "rn",
+  "fr"
+ ],
+ "Cabo Verde": [
+  "pt"
+ ],
+ "Cambodia": [
+  "km"
+ ],
+ "Cameroon": [
+  "fr",
+  "en"
+ ],
+ "Canada": [
+  "en",
+  "fr"
+ ],
+ "Central African Republic": [
+  "fr",
+  "sg"
+ ],
+ "Chad": [
+  "fr",
+  "ar"
+ ],
+ "Chile": [
+  "es"
+ ],
+ "China": [
+  "zh"
+ ],
+ "Colombia": [
+  "es"
+ ],
+ "Comoros": [
+  "ar",
+  "fr"
+ ],
+ "Costa Rica": [
+  "es"
+ ],
+ "Croatia": [
+  "hr"
+ ],
+ "Cuba": [
+  "es"
+ ],
+ "Cyprus": [
+  "el",
+  "tr"
+ ],
+ "Czechia": [
+  "cs"
+ ],
+ "Côte d'Ivoire": [
+  "fr"
+ ],
+ "DR Congo": [
+  "fr"
+ ],
+ "Denmark": [
+  "da"
+ ],
+ "Djibouti": [
+  "fr",
+  "ar"
+ ],
+ "Dominica": [
+  "en"
+ ],
+ "Ecuador": [
+  "es"
+ ],
+ "Egypt": [
+  "ar"
+ ],
+ "El Salvador": [
+  "es"
+ ],
+ "Equatorial Guinea": [
+  "es",
+  "fr",
+  "pt"
+ ],
+ "Eritrea": [
+  "ti",
+  "ar"
+ ],
+ "Estonia": [
+  "et"
+ ],
+ "Eswatini": [
+  "en",
+  "ss"
+ ],
+ "Ethiopia": [
+  "am"
+ ],
+ "Federated States of Micronesia": [
+  "en"
+ ],
+ "Fiji": [
+  "en",
+  "fj"
+ ],
+ "Finland": [
+  "fi",
+  "sv"
+ ],
+ "France": [
+  "fr"
+ ],
+ "Gabon": [
+  "fr"
+ ],
+ "Georgia": [
+  "ka"
+ ],
+ "Germany": [
+  "de"
+ ],
+ "Ghana": [
+  "en"
+ ],
+ "Greece": [
+  "el"
+ ],
+ "Grenada": [
+  "en"
+ ],
+ "Guatemala": [
+  "es"
+ ],
+ "Guinea": [
+  "fr"
+ ],
+ "Guinea-Bissau": [
+  "pt"
+ ],
+ "Guyana": [
+  "en"
+ ],
+ "Haiti": [
+  "ht",
+  "fr"
+ ],
+ "Honduras": [
+  "es"
+ ],
+ "Hungary": [
+  "hu"
+ ],
+ "Iceland": [
+  "is"
+ ],
+ "India": [
+  "hi",
+  "en"
+ ],
+ "Indonesia": [
+  "id"
+ ],
+ "Iran": [
+  "fa"
+ ],
+ "Iraq": [
+  "ar",
+  "ckb"
+ ],
+ "Ireland": [
+  "ga",
+  "en"
+ ],
+ "Israel": [
+  "he"
+ ],
+ "Italy": [
+  "it"
+ ],
+ "Jamaica": [
+  "en"
+ ],
+ "Japan": [
+  "ja"
+ ],
+ "Jordan": [
+  "ar"
+ ],
+ "Kazakhstan": [
+  "kk",
+  "ru"
+ ],
+ "Kenya": [
+  "sw",
+  "en"
+ ],
+ "Kiribati": [
+  "en"
+ ],
+ "Korea": [
+  "ko"
+ ],
+ "Kuwait": [
+  "ar"
+ ],
+ "Kyrgyzstan": [
+  "ky",
+  "ru"
+ ],
+ "Laos": [
+  "lo"
+ ],
+ "Latvia": [
+  "lv"
+ ],
+ "Lebanon": [
+  "ar"
+ ],
+ "Lesotho": [
+  "en",
+  "st"
+ ],
+ "Liberia": [
+  "en"
+ ],
+ "Libya": [
+  "ar"
+ ],
+ "Liechtenstein": [
+  "de"
+ ],
+ "Lithuania": [
+  "lt"
+ ],
+ "Luxembourg": [
+  "lb",
+  "fr",
+  "de"
+ ],
+ "Madagascar": [
+  "mg",
+  "fr"
+ ],
+ "Malawi": [
+  "en",
+  "ny"
+ ],
+ "Malaysia": [
+  "ms"
+ ],
+ "Maldives": [
+  "dv"
+ ],
+ "Mali": [
+  "fr",
+  "bm"
+ ],
+ "Malta": [
+  "mt",
+  "en"
+ ],
+ "Marshall Islands": [
+  "en"
+ ],
+ "Mauritania": [
+  "ar"
+ ],
+ "Mauritius": [
+  "en",
+  "fr"
+ ],
+ "Mexico": [
+  "es"
+ ],
+ "Moldova": [
+  "ro"
+ ],
+ "Monaco": [
+  "fr"
+ ],
+ "Mongolia": [
+  "mn"
+ ],
+ "Montenegro": [
+  "sr"
+ ],
+ "Morocco": [
+  "ar"
+ ],
+ "Mozambique": [
+  "pt"
+ ],
+ "Myanmar": [
+  "my"
+ ],
+ "Namibia": [
+  "en"
+ ],
+ "Nauru": [
+  "en"
+ ],
+ "Nepal": [
+  "ne"
+ ],
+ "Netherlands": [
+  "nl"
+ ],
+ "New Zealand": [
+  "en",
+  "mi"
+ ],
+ "Nicaragua": [
+  "es"
+ ],
+ "Niger": [
+  "fr"
+ ],
+ "Nigeria": [
+  "en",
+  "ha",
+  "yo",
+  "ig"
+ ],
+ "North Macedonia": [
+  "mk"
+ ],
+ "Norway": [
+  "nb"
+ ],
+ "Oman": [
+  "ar"
+ ],
+ "Pakistan": [
+  "ur",
+  "en"
+ ],
+ "Palau": [
+  "en"
+ ],
+ "Palestine": [
+  "ar"
+ ],
+ "Panama": [
+  "es"
+ ],
+ "Papua New Guinea": [
+  "en",
+  "tpi"
+ ],
+ "Paraguay": [
+  "es"
+ ],
+ "Peru": [
+  "es"
+ ],
+ "Philippines": [
+  "fil",
+  "en"
+ ],
+ "Poland": [
+  "pl"
+ ],
+ "Portugal": [
+  "pt"
+ ],
+ "Qatar": [
+  "ar"
+ ],
+ "Republic of the Congo": [
+  "fr"
+ ],
+ "Romania": [
+  "ro"
+ ],
+ "Russia": [
+  "ru"
+ ],
+ "Rwanda": [
+  "rw",
+  "fr",
+  "en"
+ ],
+ "Saint Kitts and Nevis": [
+  "en"
+ ],
+ "Saint Lucia": [
+  "en"
+ ],
+ "Saint Vincent and the Grenadines": [
+  "en"
+ ],
+ "Samoa": [
+  "sm",
+  "en"
+ ],
+ "San Marino": [
+  "it"
+ ],
+ "Saudi Arabia": [
+  "ar"
+ ],
+ "Senegal": [
+  "fr",
+  "wo"
+ ],
+ "Serbia": [
+  "sr"
+ ],
+ "Seychelles": [
+  "fr",
+  "en"
+ ],
+ "Sierra Leone": [
+  "en"
+ ],
+ "Singapore": [
+  "en",
+  "ms",
+  "zh",
+  "ta"
+ ],
+ "Slovakia": [
+  "sk"
+ ],
+ "Slovenia": [
+  "sl"
+ ],
+ "Solomon Islands": [
+  "en"
+ ],
+ "Somalia": [
+  "so",
+  "ar"
+ ],
+ "South Africa": [
+  "en",
+  "af",
+  "zu",
+  "xh"
+ ],
+ "South Sudan": [
+  "en"
+ ],
+ "Spain": [
+  "es"
+ ],
+ "Sri Lanka": [
+  "si",
+  "ta"
+ ],
+ "Sudan": [
+  "ar",
+  "en"
+ ],
+ "Suriname": [
+  "nl"
+ ],
+ "Sweden": [
+  "sv"
+ ],
+ "Switzerland": [
+  "de",
+  "fr",
+  "it"
+ ],
+ "Syria": [
+  "ar"
+ ],
+ "Taiwan": [
+  "zh-Hant"
+ ],
+ "Tajikistan": [
+  "tg"
+ ],
+ "Tanzania": [
+  "sw",
+  "en"
+ ],
+ "Thailand": [
+  "th"
+ ],
+ "The Dominican Republic": [
+  "es"
+ ],
+ "The Gambia": [
+  "en"
+ ],
+ "The Philippines": [
+  "fil",
+  "en"
+ ],
+ "Timor-Leste": [
+  "tet",
+  "pt"
+ ],
+ "Togo": [
+  "fr"
+ ],
+ "Tonga": [
+  "en"
+ ],
+ "Trinidad and Tobago": [
+  "en"
+ ],
+ "Tunisia": [
+  "ar"
+ ],
+ "Turkmenistan": [
+  "tk"
+ ],
+ "Tuvalu": [
+  "en"
+ ],
+ "Türkiye": [
+  "tr"
+ ],
+ "Uganda": [
+  "en",
+  "sw"
+ ],
+ "Ukraine": [
+  "uk"
+ ],
+ "United Arab Emirates": [
+  "ar"
+ ],
+ "United Kingdom": [
+  "en"
+ ],
+ "United States": [
+  "en"
+ ],
+ "Uruguay": [
+  "es"
+ ],
+ "Uzbekistan": [
+  "uz"
+ ],
+ "Vanuatu": [
+  "en",
+  "fr"
+ ],
+ "Vatican City": [
+  "it"
+ ],
+ "Venezuela": [
+  "es"
+ ],
+ "Vietnam": [
+  "vi"
+ ],
+ "Yemen": [
+  "ar"
+ ],
+ "Zambia": [
+  "en"
+ ],
+ "Zimbabwe": [
+  "en",
+  "sn"
+ ]
+}

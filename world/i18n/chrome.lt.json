@@ -1,0 +1,40 @@
+{
+ "langName": "Lietuvių",
+ "dir": "ltr",
+ "yearFmt": "{y}",
+ "yearBCE": "{y} pr. m. e.",
+ "tagline": "Mūsų bendra praeitis ant vieno gaublio.",
+ "kicker": "{country} · tuo pačiu metu, apie {yr}",
+ "dek": "Metai, kai {country} tai patyrė, — ir ką tą pačią akimirką veikė likęs pasaulis.",
+ "lede": "Sustabdykite gaublį ties {anchor} metais ir pažvelkite visur iškart. Kiekviena akimirka žemiau yra tikra kortelė iš 1History.",
+ "connect": [
+  "Tuo tarpu kitur…",
+  "Tą pačią akimirką…",
+  "Visame pasaulyje…",
+  "Toje pačioje epochoje…",
+  "Ir toli…",
+  "Kitoje gaublio vietoje…"
+ ],
+ "datesNote": "Datos pateiktos pagal geriausią istorikų supratimą; kur data apytikslė ar ginčijama, tai nurodyta.",
+ "diffH2": "Pažiūrėkite ant gaublio",
+ "diff": [
+  [
+   "Jūsų istorija centre.",
+   "Pačios {country} akimirka, o ne Europos laiko juosta."
+  ],
+  [
+   "Visas gaublys vienu metu.",
+   "Slinkite iki {yr} ir stebėkite, kas vyko visur vienu metu."
+  ],
+  [
+   "Daugiau nei 200 kalbų, visiškai neprisijungus.",
+   "Jokių paskyrų, jokio sekimo, jokių serverių."
+  ]
+ ],
+ "ctaH2": "Tyrinėkite {yr} metus ant besisukančio gaublio",
+ "ctaP": "Pradėti nemokamai, neprisijungus visam laikui.",
+ "btnApp": "Atsisiųskite iš App Store",
+ "btnPlay": "Gaukite iš Google Play",
+ "btnSite": "Apsilankykite 1history.app",
+ "footerBy": "Autorius Paisarn Likhitpreechakul · Bankokas"
+}

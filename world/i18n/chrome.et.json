@@ -1,0 +1,40 @@
+{
+ "langName": "Eesti",
+ "dir": "ltr",
+ "yearFmt": "{y}",
+ "yearBCE": "{y} eKr",
+ "tagline": "Meie ühine minevik ühel maakeral.",
+ "kicker": "{country} · samal ajal, umbes {yr}",
+ "dek": "Aasta, mil {country} seda koges — ja mida tegi ülejäänud maailm samal hetkel.",
+ "lede": "Peatage maakera {anchor} aastal ja vaadake korraga igale poole. Iga hetk allpool on tõeline kaart rakendusest 1History.",
+ "connect": [
+  "Vahepeal mujal…",
+  "Samal hetkel…",
+  "Üle kogu maailma…",
+  "Samal ajastul…",
+  "Ja kaugel…",
+  "Mujal maakeral…"
+ ],
+ "datesNote": "Kuupäevad on esitatud ajaloolaste parima arusaama järgi; kus kuupäev on ligikaudne või vaieldav, on see märgitud.",
+ "diffH2": "Vaadake maakeral",
+ "diff": [
+  [
+   "Teie ajalugu keskmes.",
+   "{country} enda hetk, mitte Euroopa ajajoon."
+  ],
+  [
+   "Kogu maakera, ühe hetkega.",
+   "Kerige aastani {yr} ja vaadake, mis juhtus kõikjal korraga."
+  ],
+  [
+   "Üle 200 keele, täiesti võrguühenduseta.",
+   "Ei kontosid, ei jälgimist, ei servereid."
+  ]
+ ],
+ "ctaH2": "Uurige aastat {yr} pöörleval maakeral",
+ "ctaP": "Alustamine tasuta, võrguühenduseta igavesti.",
+ "btnApp": "Laadige alla App Store'ist",
+ "btnPlay": "Hankige Google Playst",
+ "btnSite": "Külastage 1history.app",
+ "footerBy": "Autor Paisarn Likhitpreechakul · Bangkok"
+}

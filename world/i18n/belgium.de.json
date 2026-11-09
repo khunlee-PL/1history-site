@@ -1,0 +1,39 @@
+{
+ "country": "Belgium",
+ "anchor": {
+  "title": "Ein föderales Königreich",
+  "text": "Verfassungsreformen, die 1993 in Kraft treten, machen Belgien förmlich zu einem Bundesstaat, der sich um Regionen und Sprachgemeinschaften gliedert. Das System verlagert erhebliche Befugnisse vom Bund weg, bewahrt aber nationale Einrichtungen für Bereiche wie Verteidigung, soziale Sicherheit und Teile der Besteuerung."
+ },
+ "meanwhile": [
+  {
+   "country": "Côte d'Ivoire",
+   "title": "Eine Nation betrauert ihren Gründer",
+   "text": "Félix Houphouët-Boigny, der das Land seit der Unabhängigkeit führte, stirbt nach Jahrzehnten im Amt und schließt eine prägende Ära ab. Sein Tod eröffnet eine Zeit umstrittener Nachfolge in der ivorischen Politik."
+  },
+  {
+   "country": "Mongolia",
+   "title": "Dschingis kehrt zurück",
+   "text": "Die neue Verfassung streicht das Wort sozialistisch, und der Mann, dessen Name siebzig Jahre lang unaussprechlich gewesen war, kommt auf das Geld, den Flughafen, den Wodka und ein vierzig Meter hohes Stahlpferd."
+  },
+  {
+   "country": "Afghanistan",
+   "title": "Sowjetisch-Afghanischer Krieg",
+   "text": "Die letzten sowjetischen Truppen verlassen Afghanistan im Februar 1989 nach mehr als neun Jahren Krieg. Etwa 15.000 sowjetische Militärangehörige kommen ums Leben, während die afghanischen militärischen und zivilen Verluste weit höher sind und Millionen Afghanen vertrieben werden."
+  },
+  {
+   "country": "Iran",
+   "title": "Iran-Irak-Krieg",
+   "text": "Iran nimmt 1988 die Resolution 598 des UN-Sicherheitsrates an und willigt in einen Waffenstillstand mit dem Irak ein, der acht Jahre Krieg beendet. Noch im selben Jahr führen iranische Behörden Massenhinrichtungen politischer Gefangener durch, eine gesonderte Episode, deren Ausmaß umstritten bleibt."
+  },
+  {
+   "country": "Mexico",
+   "title": "Der Templo Mayor wird wiederentdeckt",
+   "text": "1978 legen Elektroarbeiter im Zentrum von Mexiko-Stadt einen gewaltigen behauenen Stein frei, der die aztekische Göttin Coyolxauhqui darstellt. Der Fund führt zu großflächigen Ausgrabungen des Templo-Mayor-Bezirks, für die mehrere spätere Gebäude rund um die Stätte abgetragen werden müssen."
+  },
+  {
+   "country": "Tuvalu",
+   "title": "Tuvalu trennt sich von den Gilberts und wird unabhängig",
+   "text": "Nach der Trennung von den Gilbertinseln 1975 wird Tuvalu am 1. Oktober 1978 ein unabhängiger Staat innerhalb des Commonwealth und beendet seine Verwaltung als Teil der britischen Kolonie der Gilbert- und Elliceinseln."
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "country": "Republic of the Congo",
+ "anchor": {
+  "title": "Le royaume de Loango",
+  "text": "Sur la côte au nord du fleuve Congo, les Vili bâtissent le royaume de Loango, gouverné par le Maloango depuis une capitale enrichie par l'étoffe de palme. Ses forgerons travaillent le cuivre venu de l'intérieur, ses tisserands font une étoffe de raphia échangée comme monnaie, et ses ports font bientôt face à l'Atlantique."
+ },
+ "meanwhile": [
+  {
+   "country": "Mozambique",
+   "title": "Le Portugal remonte le Zambèze",
+   "text": "Les marchands et fonctionnaires portugais remontent le Zambèze au cours du XVIe siècle, cherchant à contrôler l'or, l'ivoire et le commerce régional. Avec le temps, le système des prazos crée des domaines semi-autonomes dont le pouvoir repose sur les alliances locales, les suites armées et le travail forcé."
+  },
+  {
+   "country": "Mali",
+   "title": "La caravane de sel de l'azalaï traverse le Sahara",
+   "text": "La caravane de sel de l'azalaï part de Tombouctou à travers le Sahara vers les mines de Taoudenni et en revient. De longues files de chameaux portent grain et marchandises vers le nord et reviennent chargées de dalles de sel."
+  },
+  {
+   "country": "Venezuela",
+   "title": "Christophe Colomb atteint le continent sud-américain",
+   "text": "Lors de son troisième voyage, Christophe Colomb atteint le golfe de Paria et le delta de l'Orénoque et met pied à terre, son premier débarquement sur le continent sud-américain."
+  },
+  {
+   "country": "Bolivia",
+   "title": "Potosí",
+   "text": "Potosí devient l'un des grands centres d'extraction d'argent de l'Empire espagnol. À partir de 1573, la mita coloniale oblige plus de 200 communautés autochtones à envoyer environ un septième de leurs hommes adultes au service de travail par roulement. L'extraction, l'exposition au mercure, la coercition et la maladie imposent de lourds coûts humains, mais les affirmations ultérieures de huit millions de morts ne constituent pas une estimation démographique fiable."
+  },
+  {
+   "country": "Benin",
+   "title": "Allada",
+   "text": "Allada est un royaume aja sur le plateau au nord des lagunes côtières et un acteur important du commerce régional et atlantique. Des traditions plus tardives rattachent sa dynastie régnante aux origines du Dahomey comme de Porto-Novo, bien que les détails de ces récits de fondation soient difficiles à vérifier."
+  },
+  {
+   "country": "Brazil",
+   "title": "Les moulins à sucre",
+   "text": "Les colons portugais plantent la canne à sucre de l'Ancien Monde sur les engenhos brésiliens, un pilier de l'échange colombien, exploités d'abord par une main-d'œuvre autochtone puis par des Africains réduits en esclavage."
+  }
+ ]
+}

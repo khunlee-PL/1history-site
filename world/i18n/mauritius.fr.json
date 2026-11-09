@@ -1,0 +1,39 @@
+{
+ "country": "Mauritius",
+ "anchor": {
+  "title": "Le désastre de Grand Port",
+  "text": "À la bataille de Grand Port, en 1810, une escadre britannique s'engage dans des eaux difficiles semées de récifs et subit la perte ou la capture de plusieurs frégates face aux forces françaises. C'est une importante victoire navale française, commémorée plus tard sur l'Arc de triomphe."
+ },
+ "meanwhile": [
+  {
+   "country": "Cuba",
+   "title": "La révolution haïtienne enrichit Cuba",
+   "text": "La révolution haïtienne désorganise l'économie de plantation de Saint-Domingue et envoie réfugiés, capitaux et savoir-faire agricole vers l'est de Cuba. Conjugués à la demande atlantique croissante et à l'esclavage, ces bouleversements contribuent à accélérer l'essor sucrier et caféier de Cuba au XIXe siècle."
+  },
+  {
+   "country": "Argentina",
+   "title": "La révolution de Mai",
+   "text": "En mai 1810, les dirigeants politiques de Buenos Aires destituent le vice-roi espagnol et établissent la Primera Junta. La révolution ne crée pas immédiatement un État argentin indépendant, mais elle amorce le processus politique qui mène à l'indépendance de l'Espagne en 1816."
+  },
+  {
+   "country": "Burkina Faso",
+   "title": "L'émirat du Liptako",
+   "text": "À Dori, les Peuls établissent l'émirat du Liptako, entraîné dans les plus vastes mouvements de réforme du Sahel. Les éleveurs et les commerçants font de la ville un centre des savanes septentrionales."
+  },
+  {
+   "country": "Chile",
+   "title": "Bernardo O'Higgins et l'indépendance",
+   "text": "Bernardo O'Higgins s'impose comme l'un des principaux dirigeants du mouvement d'indépendance du Chili et exerce plus tard la fonction de Directeur suprême. Son gouvernement poursuit une consolidation militaire et des réformes politiques avant que l'opposition ne le contraigne à quitter le pouvoir en 1823."
+  },
+  {
+   "country": "Colombia",
+   "title": "La déclaration d'indépendance colombienne",
+   "text": "Le 20 juillet 1810, les tensions politiques éclatent à Bogota après que des patriotes se servent d'un différend impliquant le marchand José González Llorente comme prétexte à une mobilisation populaire. Une junte locale évince l'autorité vice-royale, étape importante du long et âpre processus d'indépendance."
+  },
+  {
+   "country": "Mexico",
+   "title": "La guerre d'indépendance du Mexique",
+   "text": "Le mouvement d'indépendance qui commence en 1810 puise dans des symboles politiques catholiques, locaux et de plus en plus propres aux natifs d'Amérique. Au XIXe siècle, le nouvel État mexicain adopte ensuite l'imagerie mexica, dont l'emblème de l'aigle et du serpent, pour construire une identité nationale distincte de l'Espagne."
+  }
+ ]
+}

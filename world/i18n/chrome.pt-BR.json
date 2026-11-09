@@ -1,0 +1,40 @@
+{
+ "langName": "Português (Brasil)",
+ "dir": "ltr",
+ "yearFmt": "{y}",
+ "yearBCE": "{y} a.C.",
+ "tagline": "Nosso passado compartilhado em um só globo.",
+ "kicker": "{country} · ao mesmo tempo, por volta de {yr}",
+ "dek": "O ano em que {country} viu isto — e o que o resto do mundo fazia no mesmo momento.",
+ "lede": "Congele o globo no ano de {anchor} e olhe para todos os lugares ao mesmo tempo. Cada momento abaixo é um cartão real do 1History.",
+ "connect": [
+  "Enquanto isso, em outro lugar…",
+  "Ao mesmo tempo…",
+  "Pelo mundo todo…",
+  "Na mesma época…",
+  "E bem longe…",
+  "Em outro ponto do globo…"
+ ],
+ "datesNote": "As datas são dadas conforme o melhor entendimento dos historiadores; quando uma data é aproximada ou debatida, isso é indicado.",
+ "diffH2": "Veja no globo",
+ "diff": [
+  [
+   "Sua história no centro.",
+   "O momento do próprio {country}, não a cronologia da Europa."
+  ],
+  [
+   "O globo inteiro, num instante.",
+   "Deslize até {yr} e veja o que acontecia em todo lugar ao mesmo tempo."
+  ],
+  [
+   "Mais de 200 idiomas, totalmente off-line.",
+   "Sem contas, sem rastreamento, sem servidores."
+  ]
+ ],
+ "ctaH2": "Explore {yr} num globo que gira",
+ "ctaP": "Grátis para começar, off-line para sempre.",
+ "btnApp": "Baixar na App Store",
+ "btnPlay": "Disponível no Google Play",
+ "btnSite": "Visite 1history.app",
+ "footerBy": "Por Paisarn Likhitpreechakul · Bangkok"
+}

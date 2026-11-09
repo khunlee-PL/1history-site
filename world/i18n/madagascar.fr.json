@@ -1,0 +1,39 @@
+{
+ "country": "Madagascar",
+ "anchor": {
+  "title": "Radama Ier ouvre le royaume à l'Europe",
+  "text": "Radama Ier ouvre le royaume merina au contact européen, accueillant missionnaires et conseillers qui introduisent un alphabet latin pour le malgache et de nouvelles techniques."
+ },
+ "meanwhile": [
+  {
+   "country": "Argentina",
+   "title": "San Martín franchit les Andes",
+   "text": "En 1817, José de San Martín mène l'Armée des Andes depuis l'ouest de l'Argentine à travers de hauts cols montagneux jusqu'au Chili. La campagne contribue à y défaire les forces royalistes et devient une étape décisive des luttes d'indépendance du Chili puis du Pérou."
+  },
+  {
+   "country": "Marshall Islands",
+   "title": "Kotzebue cartographie les Ratak",
+   "text": "Le brick russe Rurik, sous le commandement d'Otto von Kotzebue, remonte vers le nord le long de la chaîne orientale, cartographiant atoll après atoll et notant le nom de Ratak. L'artiste Louis Choris peint les habitants et leurs pirogues sur le vif. Kotzebue échange du fer et se lie d'amitié avec le chef Kadu, qui poursuit la route avec lui, donnant à l'Europe son premier récit détaillé de la navigation marshallaise."
+  },
+  {
+   "country": "Sri Lanka",
+   "title": "La rébellion d'Uva",
+   "text": "Deux ans après la chute du royaume de Kandy, une révolte éclate dans la région d'Uva contre la domination britannique. Sa répression apporte de lourdes destructions aux districts des hautes terres."
+  },
+  {
+   "country": "Barbados",
+   "title": "La rébellion de Bussa",
+   "text": "En avril 1816, des milliers de personnes réduites en esclavage à la Barbade se soulèvent dans la plus grande révolte d'esclaves de l'histoire de l'île. La milice coloniale et les troupes écrasent la rébellion, tuant de nombreux participants et en exécutant ou déportant d'autres ; Bussa reste dans les mémoires comme l'un de ses principaux meneurs."
+  },
+  {
+   "country": "Benin",
+   "title": "Francisco Félix de Sousa",
+   "text": "Francisco Félix de Sousa, marchand né au Brésil et établi à Ouidah, devient l'un des négriers les plus influents de la côte au début du XIXe siècle. Il soutient l'accession de Ghézo au pouvoir et reçoit le titre de Chacha, liant étroitement le commerce atlantique à la politique dahoméenne."
+  },
+  {
+   "country": "Chile",
+   "title": "La bataille de Maipú",
+   "text": "La victoire patriote de Maipú en avril 1818 assure au mouvement d'indépendance le contrôle du Chili central, après que l'Armée des Andes de José de San Martín eut franchi la cordillère vers le Chili l'année précédente. La campagne contribue ensuite à ouvrir la voie à de nouvelles opérations contre la domination espagnole au Pérou."
+  }
+ ]
+}

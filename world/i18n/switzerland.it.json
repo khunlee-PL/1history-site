@@ -1,0 +1,39 @@
+{
+ "country": "Switzerland",
+ "anchor": {
+  "title": "L'antica Confederazione svizzera",
+  "text": "Lucerna si unisce alle tre valli, poi Zurigo, Glarona, Zugo e Berna. Una lega difensiva di contadini diventa una confederazione di città, e comincia a sembrare uno Stato."
+ },
+ "meanwhile": [
+  {
+   "country": "Antigua and Barbuda",
+   "title": "Island Caribs",
+   "text": "By the late pre-Columbian period, Kalinago-speaking communities are established across much of the Lesser Antilles, including Antigua. European accounts later emphasized warfare and raiding, but archaeology and ethnohistory also show regional travel, exchange, fishing and settlement."
+  },
+  {
+   "country": "Mauritania",
+   "title": "Salt from the sebkha",
+   "text": "Twice a year the camel caravans, the azalai, cross to the salt pans of Idjil, cutting bars of gray rock salt to trade south for millet and gold. Where the Sahel has no salt, a slab can weigh nearly against its own weight in gold."
+  },
+  {
+   "country": "Syria",
+   "title": "Timur sacks Damascus",
+   "text": "Timur captures and sacks Damascus in 1401 after defeating Mamluk forces. Contemporary accounts describe extensive destruction and the forced transfer of skilled artisans to Samarkand; the city later rebuilds under Mamluk rule."
+  },
+  {
+   "country": "Kenya",
+   "title": "Ibn Battuta at Mombasa",
+   "text": "Ibn Battuta visits Mombasa in 1331 and describes a prosperous Muslim Swahili town with mosques, trade and cultivated produce. His account is an important written source for the urban culture of the East African coast before Portuguese conquest."
+  },
+  {
+   "country": "Bahrain",
+   "title": "The Jarwanids take the islands",
+   "text": "The Jarwanids rule parts of eastern Arabia and Bahrain in the fourteenth century. Shia scholarship and communities remain important in the islands, but Bahrain's later sectarian landscape develops over a much longer period."
+  },
+  {
+   "country": "Kyrgyzstan",
+   "title": "The Gumbez of Manas",
+   "text": "In the Talas valley a domed brick mausoleum bears a dated inscription of 1334. Legend says it holds Manas, the giant hero of the Kyrgyz epic, and that his widow Kanikey had it disguised as a woman's tomb to foil grave robbers. The epic itself is unwritten, carried only in the memory of its reciters, but here it touches the ground."
+  }
+ ]
+}

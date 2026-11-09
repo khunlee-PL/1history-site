@@ -1,0 +1,39 @@
+{
+ "country": "Vanuatu",
+ "anchor": {
+  "title": "Walter Lini mène le mouvement indépendantiste",
+  "text": "Le prêtre anglican Walter Lini mène le parti Vanua'aku dans l'ultime poussée vers l'indépendance et devient le premier Premier ministre du Vanuatu lorsque le pays accède à l'indépendance en 1980. Son gouvernement promeut un « socialisme mélanésien » et une politique étrangère non alignée."
+ },
+ "meanwhile": [
+  {
+   "country": "Mexico",
+   "title": "Le Templo Mayor est redécouvert",
+   "text": "En 1978, des ouvriers de l'électricité du centre de Mexico mettent au jour une énorme pierre sculptée représentant la déesse aztèque Coyolxauhqui. La découverte conduit à des fouilles de grande ampleur du quartier du Templo Mayor, exigeant la démolition de plusieurs bâtiments plus récents autour du site."
+  },
+  {
+   "country": "Tuvalu",
+   "title": "Tuvalu se sépare des Gilbert et accède à l'indépendance",
+   "text": "Après s'être séparé des îles Gilbert en 1975, Tuvalu devient un État indépendant au sein du Commonwealth le 1er octobre 1978, mettant fin à son administration au sein de la colonie britannique des îles Gilbert et Ellice."
+  },
+  {
+   "country": "Iran",
+   "title": "La guerre Iran-Irak",
+   "text": "L'Iran accepte la résolution 598 du Conseil de sécurité de l'ONU et consent à un cessez-le-feu avec l'Irak en 1988, mettant fin à huit ans de guerre. Plus tard la même année, les autorités iraniennes mènent des exécutions massives de prisonniers politiques, un épisode distinct dont l'ampleur reste contestée."
+  },
+  {
+   "country": "Afghanistan",
+   "title": "La guerre soviéto-afghane",
+   "text": "Les derniers soldats soviétiques quittent l'Afghanistan en février 1989 après plus de neuf ans de guerre. Environ 15 000 militaires soviétiques sont tués, tandis que les pertes militaires et civiles afghanes sont bien plus élevées et que des millions d'Afghans sont déplacés."
+  },
+  {
+   "country": "Cuba",
+   "title": "L'offensive révolutionnaire",
+   "text": "En 1968, l'Offensive révolutionnaire nationalise des dizaines de milliers de petites entreprises privées restantes, dont boutiques, bars et ateliers. La campagne étend considérablement le contrôle direct de l'État sur l'économie urbaine."
+  },
+  {
+   "country": "Eswatini",
+   "title": "Le Swaziland accède à l'indépendance",
+   "text": "Le Royaume du Swaziland devient indépendant du Royaume-Uni sous le roi Sobhuza II. Le petit royaume enclavé se trouve entre l'Afrique du Sud de l'apartheid et le Mozambique, dont les territoires deviennent des arènes de conflit à l'époque de la guerre froide."
+  }
+ ]
+}

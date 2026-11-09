@@ -1,0 +1,39 @@
+{
+ "country": "Azerbaijan",
+ "anchor": {
+  "title": "\"Mavi\" planı Bakıya can atır",
+  "text": "Bakının neft yataqları sovet hərbi iqtisadiyyatı üçün strateji baxımdan həyati əhəmiyyət daşımaqda davam edir. 1942-ci ildə Almaniyanın \"Mavi\" planı Qafqaza doğru irəliləyir və \"Edelveys\" əməliyyatı bölgənin neft ehtiyatlarını ələ keçirməyi hədəfləyir, lakin mehvər qüvvələri heç vaxt Bakıya çatmır."
+ },
+ "meanwhile": [
+  {
+   "country": "Zambiya",
+   "title": "Şimali Rodeziyanın misi Müttəfiq hərbi sənayesini təchiz edir",
+   "text": "Şimali Rodeziyanın Mis qurşağının mədənləri Müttəfiq hərbi sənayesinə mis tədarükü üçün istehsalı artırır. Ərazi həmçinin Kralın Afrika Tüfəngçilərində xidmət edən əsgərlər yetişdirir."
+  },
+  {
+   "country": "Benin",
+   "title": "Dahomey öz adamlarını müharibəyə göndərir",
+   "text": "Dahomey 1942-ci ilin sonlarına, federasiyanın Müttəfiqlər tərəfinə keçməsinə qədər Fransız Qərbi Afrikasının Vişi ilə uyğun idarəçiliyi altında qalır. Koloniyanın kişiləri Fransız Afrika qüvvələrində xidmət edir, müharibə dövrü rekvizisiyaları və əmək tələbləri isə yerli icmalara əlavə yük salır."
+  },
+  {
+   "country": "Keniya",
+   "title": "Birma və geri",
+   "text": "İkinci Dünya Müharibəsi zamanı Kralın Afrika Tüfəngçilərinin üzvləri Efiopiyada, Somalilenddə və Birmada xidmət edir. 300.000-dən çox şərqi afrikalı iştirak edir, qayıdan veteranlar isə vətəndaşlıq və koloniya idarəçiliyi barədə yeni gözləntilər gətirir."
+  },
+  {
+   "country": "Lesoto",
+   "title": "Basutolend öz adamlarını dənizaşırı göndərir",
+   "text": "Basutolenddən minlərlə kişi Afrika Köməkçi Pioner Korpusunda və digər Britaniya müharibə birləşmələrində xaricdə xidmət edir. Onların işi Yaxın Şərqdə və Avropada Müttəfiq əməliyyatlarını dəstəkləyir, hərbi maaş və köçürmələr isə evdəki ailələrə təsir edir."
+  },
+  {
+   "country": "Ruanda",
+   "title": "Belçika idarəçiliyindəki Ruanda müharibə səylərini təchiz edir",
+   "text": "Belçikanın Ruanda-Urundi koloniya ərazisinin bir hissəsi kimi Ruanda Müttəfiqlər işinə əmək, ərzaq və resurslar verir, Konqo bölgəsində toplanan Belçika Force Publique isə 1941-ci ildə Şərqi Afrikada İtaliya qüvvələrinə qarşı vuruşur."
+  },
+  {
+   "country": "Kot-d'İvuar",
+   "title": "Məcburi əməyin sonu",
+   "text": "Plantasiya sahibi və həkim Feliks Ufue-Buanyi afrikalı əkinçiləri məcburi əməyə qarşı aparır və onun ləğvinə nail olur — sonra isə Fransız Qərbi Afrikasını müstəqilliyə aparan partiya qurur."
+  }
+ ]
+}

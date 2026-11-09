@@ -1,0 +1,40 @@
+{
+ "langName": "Português",
+ "dir": "ltr",
+ "yearFmt": "{y}",
+ "yearBCE": "{y} a.C.",
+ "tagline": "O nosso passado comum num só globo.",
+ "kicker": "{country} · ao mesmo tempo, por volta de {yr}",
+ "dek": "O ano em que {country} viveu isto — e o que o resto do mundo fazia no mesmo momento.",
+ "lede": "Pare o globo no ano de {anchor} e olhe para todo o lado ao mesmo tempo. Cada momento abaixo é um cartão real do 1History.",
+ "connect": [
+  "Entretanto, noutro lugar…",
+  "Ao mesmo tempo…",
+  "Por todo o mundo…",
+  "Na mesma época…",
+  "E ao longe…",
+  "Noutro ponto do globo…"
+ ],
+ "datesNote": "As datas são dadas segundo o melhor entendimento dos historiadores; quando uma data é aproximada ou debatida, isso é indicado.",
+ "diffH2": "Ver no globo",
+ "diff": [
+  [
+   "A tua história no centro.",
+   "O momento do próprio {country}, não a cronologia da Europa."
+  ],
+  [
+   "Todo o globo, num instante.",
+   "Deslize até {yr} e veja o que acontecia em todo o lado ao mesmo tempo."
+  ],
+  [
+   "Mais de 200 idiomas, totalmente offline.",
+   "Sem contas, sem rastreio, sem servidores."
+  ]
+ ],
+ "ctaH2": "Explore {yr} num globo que gira",
+ "ctaP": "Grátis para começar, offline para sempre.",
+ "btnApp": "Descarregar na App Store",
+ "btnPlay": "Obter no Google Play",
+ "btnSite": "Visitar 1history.app",
+ "footerBy": "Por Paisarn Likhitpreechakul · Banguecoque"
+}

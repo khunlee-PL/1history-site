@@ -1,0 +1,40 @@
+{
+ "langName": "Català",
+ "dir": "ltr",
+ "yearFmt": "{y}",
+ "yearBCE": "{y} aC",
+ "tagline": "El nostre passat compartit en un sol globus.",
+ "kicker": "{country} · al mateix temps, cap al {yr}",
+ "dek": "L'any que {country} va viure això — i què feia la resta del món en aquell mateix moment.",
+ "lede": "Atura el globus a l'any de {anchor} i mira a tot arreu alhora. Cada moment d'aquí sota és una targeta real de 1History.",
+ "connect": [
+  "Mentrestant, en un altre lloc…",
+  "En el mateix moment…",
+  "Arreu del món…",
+  "En la mateixa època…",
+  "I ben lluny…",
+  "En un altre punt del globus…"
+ ],
+ "datesNote": "Les dates es donen segons la millor comprensió dels historiadors; quan una data és aproximada o discutida, s'indica.",
+ "diffH2": "Mira-ho al globus",
+ "diff": [
+  [
+   "La teva història al centre.",
+   "El moment propi d'{country}, no la cronologia d'Europa."
+  ],
+  [
+   "Tot el globus, en un instant.",
+   "Desplaça't fins al {yr} i mira què passava arreu alhora."
+  ],
+  [
+   "Més de 200 llengües, totalment fora de línia.",
+   "Sense comptes, sense seguiment, sense servidors."
+  ]
+ ],
+ "ctaH2": "Explora el {yr} en un globus que gira",
+ "ctaP": "Gratis per començar, fora de línia per sempre.",
+ "btnApp": "Baixa-ho a l'App Store",
+ "btnPlay": "Aconsegueix-ho a Google Play",
+ "btnSite": "Visita 1history.app",
+ "footerBy": "Per Paisarn Likhitpreechakul · Bangkok"
+}

@@ -1,0 +1,39 @@
+{
+ "country": "Central African Republic",
+ "anchor": {
+  "title": "Les royaumes zandé s'élèvent à l'est",
+  "text": "Au sud-est, les nobles avongara soudent de nombreux clans en les royaumes des Zandé. Les chefs gouvernent par des gouverneurs nommés et une cour d'oracles ; l'oracle à poison benge décide de la culpabilité et de la guerre. Les Zandé absorbent leurs voisins par la conquête et l'alliance matrimoniale et tiennent les forêts claires de l'est jusqu'à l'arrivée des Européens."
+ },
+ "meanwhile": [
+  {
+   "country": "Saint Lucia",
+   "title": "Le sucre et la majorité asservie",
+   "text": "Les planteurs découpent les vallées en habitations sucrières travaillées par des Africains réduits en esclavage, amenés par le passage du milieu jusqu'à dépasser de loin le nombre des Blancs. La canne, le rhum et la mélasse enrichissent quelques familles. Le travail qui les enrichit est contraint, brutal et meurtrier, et la population de l'île descend très majoritairement des personnes asservies."
+  },
+  {
+   "country": "Grenada",
+   "title": "La noix de muscade fait l'île aux épices",
+   "text": "Les muscadiers, apportés des Indes orientales, prennent dans le sol volcanique de la Grenade. En l'espace d'une vie, l'île devient un grand producteur mondial de muscade, dont le fruit figurera plus tard sur son drapeau. La muscade fendue et sa dentelle rouge de macis sèchent encore dans les hangars de Gouyave, raison pour laquelle on appelle la Grenade l'île aux épices."
+  },
+  {
+   "country": "Algeria",
+   "title": "La conquête française de l'Algérie",
+   "text": "Pendant la conquête française, les troupes du colonel Aimable Pélissier enferment des membres des Ouled Riah dans des grottes du Dahra et en tuent des centaines par la fumée et le feu. La conquête plus large apporte guerre, déplacements, famine et maladie et cause de lourdes pertes de population."
+  },
+  {
+   "country": "Bolivia",
+   "title": "Potosí",
+   "text": "Potosí devient l'un des grands centres d'extraction d'argent de l'Empire espagnol. À partir de 1573, la mita coloniale oblige plus de 200 communautés autochtones à envoyer environ un septième de leurs hommes adultes au service de travail par roulement. L'extraction, l'exposition au mercure, la coercition et la maladie imposent de lourds coûts humains, mais les affirmations ultérieures de huit millions de morts ne constituent pas une estimation démographique fiable."
+  },
+  {
+   "country": "Benin",
+   "title": "Tegbessou et l'économie esclavagiste du Dahomey",
+   "text": "Sous le roi Tegbessou, les revenus de la traite atlantique deviennent une part importante de l'économie de la cour dahoméenne. La couronne taxe les ventes à Ouidah et s'appuie aussi sur l'agriculture, le tribut et le commerce régional."
+  },
+  {
+   "country": "Botswana",
+   "title": "L'essor des Bangwato",
+   "text": "Les Bangwato naissent d'une scission dynastique parmi les communautés de langue tswana et établissent des centres dans l'actuel centre du Botswana. Au XIXe siècle, ils contrôlent d'importantes routes de bétail, de chasse et de commerce autour de Shoshong, puis de Serowe."
+  }
+ ]
+}

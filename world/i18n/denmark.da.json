@@ -1,0 +1,39 @@
+{
+ "country": "Denmark",
+ "anchor": {
+  "title": "Imperiet, der svandt",
+  "text": "Danmark mister Skåne til Sverige, siden Norge til Sverige, siden Slesvig-Holsten til Preussen, siden Island. Over flere århundreder mister Danmark store landområder og udvikler sig fra en sammensat regional magt til en mindre nationalstat."
+ },
+ "meanwhile": [
+  {
+   "country": "Barbados",
+   "title": "Sukkerplantager i Caribien",
+   "text": "Barbados' sukkergodser kombinerer vind- eller dyredrevne møller med kogehuse, hvor sukkerrørssaften forarbejdes i opvarmede kobberkar. Slavegjorte arbejdere udsættes for lange timer, varme, maskineri og andre alvorlige farer gennem hele dyrkningen og sukkerfremstillingen."
+  },
+  {
+   "country": "Bolivia",
+   "title": "Potosí",
+   "text": "Potosí bliver et af Det Spanske Imperiums store sølvminecentre. Fra 1573 kræver den koloniale mita, at mere end 200 oprindelige samfund sender omkring en syvendedel af deres voksne mænd til roterende tvangsarbejde. Minedrift, kviksølvforgiftning, tvang og sygdom koster alvorligt menneskeligt; men senere påstande om otte millioner døde er ikke et pålideligt demografisk skøn."
+  },
+  {
+   "country": "Kap Verde",
+   "title": "Cassards flåde vender tilbage",
+   "text": "Den franske kaper Jacques Cassard stormer Ribeira Grande med en eskadre, plyndrer det, korsarerne efterlod, og stikker kirkerne i brand. Den engang store by kommer sig aldrig. Nybyggere og embedsmænd begynder at flytte til den sikrere højslette ved Praia oppe ad kysten, hvortil hovedstaden en dag følger."
+  },
+  {
+   "country": "Liechtenstein",
+   "title": "Vaduz fuldender samlingen",
+   "text": "Tretten år efter Schellenberg køber samme hus grevskabet Vaduz. Nu holder Liechtensteinerne to tilstødende kejserlige len ved Rhinen. Købet er en handel om status, ikke om jord: en familie, der kunne købe provinser, har brugt sine penge på en klippefuld dal netop fordi dalen kun skylder kejseren troskab."
+  },
+  {
+   "country": "Madagaskar",
+   "title": "Ratsimilaho danner betsimisaraka",
+   "text": "Ratsimilaho forener grupper langs østkysten til betsimisaraka-konføderationen, et rige der kontrollerer store dele af kysten og dens handel."
+  },
+  {
+   "country": "Montenegro",
+   "title": "Sejren ved Carev Laz",
+   "text": "En osmannisk hær marcherer mod Cetinje for at knuse stammerne. I passet ved Carev Laz lægger montenegrinerne under vladika Danilo baghold og spreder den. Sejren, genfortalt og forstørret i national erindring, bliver mønstret for bjergkrigen: en stor styrke knust i en snæver kløft, den aldrig burde være gået ind i."
+  }
+ ]
+}

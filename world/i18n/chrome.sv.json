@@ -1,0 +1,40 @@
+{
+ "langName": "Svenska",
+ "dir": "ltr",
+ "yearFmt": "{y}",
+ "yearBCE": "{y} f.Kr.",
+ "tagline": "Vårt gemensamma förflutna på en enda jordglob.",
+ "kicker": "{country} · samtidigt, omkring {yr}",
+ "dek": "Året då {country} upplevde detta — och vad resten av världen gjorde i samma stund.",
+ "lede": "Stanna jordgloben vid året för {anchor} och se överallt på en gång. Varje ögonblick nedan är ett verkligt kort från 1History.",
+ "connect": [
+  "Samtidigt, någon annanstans…",
+  "I samma stund…",
+  "Över hela världen…",
+  "Under samma tidsålder…",
+  "Och långt borta…",
+  "På en annan plats på jordgloben…"
+ ],
+ "datesNote": "Datum anges enligt historikernas bästa förståelse; när ett datum är ungefärligt eller omtvistat anges det.",
+ "diffH2": "Se det på jordgloben",
+ "diff": [
+  [
+   "Din historia i centrum.",
+   "{country}:s eget ögonblick, inte Europas tidslinje."
+  ],
+  [
+   "Hela jordgloben, i ett ögonblick.",
+   "Bläddra till {yr} och se vad som hände överallt samtidigt."
+  ],
+  [
+   "Över 200 språk, helt offline.",
+   "Inga konton, ingen spårning, inga servrar."
+  ]
+ ],
+ "ctaH2": "Utforska {yr} på en snurrande jordglob",
+ "ctaP": "Gratis att börja, offline för alltid.",
+ "btnApp": "Ladda ner i App Store",
+ "btnPlay": "Hämta på Google Play",
+ "btnSite": "Besök 1history.app",
+ "footerBy": "Av Paisarn Likhitpreechakul · Bangkok"
+}

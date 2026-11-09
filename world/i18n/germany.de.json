@@ -1,0 +1,39 @@
+{
+ "country": "Germany",
+ "anchor": {
+  "title": "Das Heilige Römische Reich",
+  "text": "962 wird Otto I. von Papst Johannes XII. zum Kaiser gekrönt, ein Ereignis, das herkömmlich als Beginn des später Heiliges Römisches Reich genannten Gemeinwesens gilt. Das Reich entwickelt sich als lockerer und wandelbarer Verbund von Territorien in Mitteleuropa und besteht bis zu seiner Auflösung 1806."
+ },
+ "meanwhile": [
+  {
+   "country": "Guatemala",
+   "title": "Der klassische Maya-Zusammenbruch",
+   "text": "Paläoklimatische Aufzeichnungen zeigen wiederkehrende Dürren während der Jahrhunderte des politischen Niedergangs im südlichen Maya-Tiefland. Die Wasserwirtschaft beeinflusste vermutlich die örtliche Widerstandsfähigkeit, doch die Entwicklung hing von Stadt zu Stadt ebenso von Politik, Handel, Umwelt und Konflikt ab wie vom Niederschlag."
+  },
+  {
+   "country": "Mali",
+   "title": "Das Reich Ghana erreicht den westlichen Sahel",
+   "text": "Im elften Jahrhundert kontrolliert das Reich Ghana einen Großteil des Gold- und Salzhandels des westlichen Sahel, und sein Netz reicht in die Länder des heutigen Westmali. Seine Kaufleute verbinden die südlichen Goldfelder mit den Karawanenrouten der Sahara."
+  },
+  {
+   "country": "Tuvalu",
+   "title": "Die Besiedlung Tuvalus",
+   "text": "Seefahrer aus Samoa und Tonga besiedeln Tuvalus flache Koralleninseln. Sie bringen Feldfrüchte, Tiere und Navigationstraditionen mit, und jede Insel bewahrt ihre Gründungsfahrten durch mündliche Genealogie."
+  },
+  {
+   "country": "Armenia",
+   "title": "Ani, Stadt der Kirchen",
+   "text": "Die bagratidischen Könige machen Ani im Jahr 961 zu ihrer Hauptstadt. Die Stadt wird zu einem bedeutenden mittelalterlichen Handels- und Religionszentrum, später erinnert durch den Beinamen „Stadt der tausendundein Kirchen“."
+  },
+  {
+   "country": "Türkiye",
+   "title": "Ani wird eine Königshauptstadt",
+   "text": "Der Bagratidenkönig macht Ani zu seiner Hauptstadt, und die Stadt wächst an der Achurjan-Schlucht zu einem ummauerten Zentrum, das so voller Kirchen ist, dass es als Stadt der tausendundeins Kirchen in Erinnerung bleibt."
+  },
+  {
+   "country": "Kyrgyzstan",
+   "title": "Die Karachaniden nehmen den Islam an",
+   "text": "Die karachanidischen Herrscher der Regionen Tschüi und Kaschgar nehmen den Islam an, traditionell mit Satuq Bughra Khan verbunden. Die Dynastie fördert eine aufkommende islamisch-türkische Literaturkultur mit Zentren in Balasagun und Kaschgar."
+  }
+ ]
+}

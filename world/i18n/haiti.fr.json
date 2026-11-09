@@ -1,0 +1,39 @@
+{
+ "country": "Haiti",
+ "anchor": {
+  "title": "La révolution haïtienne commence",
+  "text": "En août 1791, un vaste soulèvement de personnes réduites en esclavage commence dans la colonie française de Saint-Domingue. Après des années de guerre impliquant d'anciens esclaves, des personnes de couleur libres, la France, la Grande-Bretagne et l'Espagne, Haïti déclare son indépendance en 1804, devenant le premier État indépendant créé par une révolution d'esclaves réussie."
+ },
+ "meanwhile": [
+  {
+   "country": "Cuba",
+   "title": "La révolution haïtienne enrichit Cuba",
+   "text": "La révolution haïtienne désorganise l'économie de plantation de Saint-Domingue et envoie réfugiés, capitaux et savoir-faire agricole vers l'est de Cuba. Conjugués à la demande atlantique croissante et à l'esclavage, ces bouleversements contribuent à accélérer l'essor sucrier et caféier de Cuba au XIXe siècle."
+  },
+  {
+   "country": "Grenada",
+   "title": "La noix de muscade fait l'île aux épices",
+   "text": "Les muscadiers, apportés des Indes orientales, prennent dans le sol volcanique de la Grenade. En l'espace d'une vie, l'île devient un grand producteur mondial de muscade, dont le fruit figurera plus tard sur son drapeau. La muscade fendue et sa dentelle rouge de macis sèchent encore dans les hangars de Gouyave, raison pour laquelle on appelle la Grenade l'île aux épices."
+  },
+  {
+   "country": "Algeria",
+   "title": "La conquête française de l'Algérie",
+   "text": "Pendant la conquête française, les troupes du colonel Aimable Pélissier enferment des membres des Ouled Riah dans des grottes du Dahra et en tuent des centaines par la fumée et le feu. La conquête plus large apporte guerre, déplacements, famine et maladie et cause de lourdes pertes de population."
+  },
+  {
+   "country": "Malawi",
+   "title": "Livingstone atteint le lac Nyassa",
+   "text": "Lors de son expédition sur le Zambèze, le missionnaire et explorateur écossais David Livingstone remonte la rivière Shire et atteint le grand lac qu'il consigne sous le nom de lac Nyassa, faisant connaître la région en Grande-Bretagne."
+  },
+  {
+   "country": "Lesotho",
+   "title": "La Grande-Bretagne prend le Basutoland",
+   "text": "Face à la forte pression de l'État libre d'Orange, Moshoeshoe recherche la protection britannique. La Grande-Bretagne annexe le Basutoland en 1868, mettant fin à l'expansion de l'État libre tout en laissant hors de la nouvelle frontière une grande partie des terres de l'ouest perdues auparavant."
+  },
+  {
+   "country": "Egypt",
+   "title": "Les parts du canal de Suez",
+   "text": "Disraeli achète la participation de l'Égypte dans la Compagnie du canal de Suez avec un financement de la banque Rothschild, donnant à la Grande-Bretagne un intérêt financier majeur dans une route de plus en plus importante pour les liaisons impériales avec l'Inde."
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "country": "Romania",
+ "anchor": {
+  "title": "Carol I și Regatul României",
+  "text": "Carol I, principe din 1866, este încoronat primul rege al României, în vreme ce țara devine regat. Lunga lui domnie vede ridicarea instituțiilor moderne, a căilor ferate și a reședinței regale de la Sinaia."
+ },
+ "meanwhile": [
+  {
+   "country": "Lesotho",
+   "title": "Basutoland trece sub stăpânire britanică directă",
+   "text": "Basutoland trece de la administrația Coloniei Capului la stăpânirea imperială britanică directă în 1884, după o rezistență susținută a basotho față de politicile Capului. Teritoriul rămâne o posesiune britanică separată, în loc să fie absorbit în coloniile de coloniști vecine."
+  },
+  {
+   "country": "Burkina Faso",
+   "title": "Expansiunea franceză se apropie de regatele mossi",
+   "text": "Conferința de la Berlin nu atribuie Franței regatele mossi. În deceniul următor, forțele franceze înaintează din coloniile vecine și ocupă Ouagadougou în 1896, pe măsură ce Franța își construiește controlul în bazinul Volta."
+  },
+  {
+   "country": "Mozambic",
+   "title": "Portugalia înaintează din Mozambic spre interior",
+   "text": "Portugalia deține deja poziții de coastă bine stabilite în Mozambic la momentul Conferinței de la Berlin. După 1885, noul accent pe ocupația efectivă intensifică eforturile portugheze de a extinde controlul militar și administrativ în interior."
+  },
+  {
+   "country": "Niger",
+   "title": "Rivalitatea europeană ajunge pe Nigerul mijlociu",
+   "text": "Conferința de la Berlin garantează libertatea de navigație pe Niger, dar nu împarte hinterlandul fluviului între puterile coloniale. Marea Britanie și Franța negociază mai târziu sfere concurente, iar expansiunea militară franceză creează teritoriul care devine Niger."
+  },
+  {
+   "country": "Republica Congo",
+   "title": "Franța își consolidează malul drept al fluviului Congo",
+   "text": "Franța își întemeiază pretenția asupra malului drept al Congoului inferior pe tratate negociate de Pierre Savorgnan de Brazza cu conducătorii locali înainte de Conferința de la Berlin. Noile reguli ale conferinței întăresc nevoia de a administra aceste pretenții, iar Brazzaville devine principala bază franceză."
+  },
+  {
+   "country": "Zambia",
+   "title": "Interiorul Zambeziului intră în împărțeală",
+   "text": "În 1885, ținuturile de la nord de Zambezi rămân în afara stăpânirii coloniale europene directe. În anii următori, Compania Britanică Sud-Africană a lui Cecil Rhodes folosește tratate, concesiuni și expansiune armată pentru a stabili autoritatea asupra unor teritorii organizate ulterior ca Rhodesia de Nord."
+  }
+ ]
+}

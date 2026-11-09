@@ -1,0 +1,40 @@
+{
+ "langName": "Azərbaycan",
+ "dir": "ltr",
+ "yearFmt": "{y}",
+ "yearBCE": "e.ə. {y}",
+ "tagline": "Ortaq keçmişimiz bir qlobus üzərində.",
+ "kicker": "{country} · eyni vaxtda, təxminən {yr}",
+ "dek": "{country}-nın bunu yaşadığı il — və dünyanın qalan hissəsinin eyni anda nə etdiyi.",
+ "lede": "Qlobusu {anchor} ilində dayandırın və hər yerə eyni anda baxın. Aşağıdakı hər an 1History-dən real bir kartdır.",
+ "connect": [
+  "Bu arada, başqa yerdə…",
+  "Elə həmin anda…",
+  "Bütün dünyada…",
+  "Eyni dövrdə…",
+  "Və uzaqda…",
+  "Qlobusun başqa bir nöqtəsində…"
+ ],
+ "datesNote": "Tarixlər tarixçilərin ən yaxşı anlayışına görə verilir; tarix təxmini və ya mübahisəli olduqda bu qeyd olunur.",
+ "diffH2": "Qlobusda görün",
+ "diff": [
+  [
+   "Tarixiniz mərkəzdə.",
+   "Avropanın zaman xətti deyil, {country}-nın öz anı."
+  ],
+  [
+   "Bütün qlobus, bir anda.",
+   "{yr} ilinə sürüşdürün və hər yerdə eyni anda nə baş verdiyini izləyin."
+  ],
+  [
+   "200-dən çox dil, tam oflayn.",
+   "Hesab yoxdur, izləmə yoxdur, server yoxdur."
+  ]
+ ],
+ "ctaH2": "Fırlanan qlobusda {yr} ilini kəşf edin",
+ "ctaP": "Başlamaq pulsuz, əbədi oflayn.",
+ "btnApp": "App Store-dan yükləyin",
+ "btnPlay": "Google Play-dən əldə edin",
+ "btnSite": "1history.app saytına daxil olun",
+ "footerBy": "Müəllif Paisarn Likhitpreechakul · Banqkok"
+}

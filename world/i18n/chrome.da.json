@@ -1,0 +1,40 @@
+{
+ "langName": "Dansk",
+ "dir": "ltr",
+ "yearFmt": "{y}",
+ "yearBCE": "{y} f.Kr.",
+ "tagline": "Vores fælles fortid på én globus.",
+ "kicker": "{country} · på samme tid, omkring {yr}",
+ "dek": "Året hvor {country} oplevede dette — og hvad resten af verden gjorde i samme øjeblik.",
+ "lede": "Stop globussen ved året for {anchor}, og se alle steder på én gang. Hvert øjeblik nedenfor er et ægte kort fra 1History.",
+ "connect": [
+  "Imens, et andet sted…",
+  "I samme øjeblik…",
+  "Over hele verden…",
+  "I samme tidsalder…",
+  "Og langt borte…",
+  "Et andet sted på globussen…"
+ ],
+ "datesNote": "Datoer er angivet efter historikernes bedste forståelse; hvor en dato er omtrentlig eller omstridt, er det angivet.",
+ "diffH2": "Se det på globussen",
+ "diff": [
+  [
+   "Din historie i centrum.",
+   "{country}s eget øjeblik, ikke Europas tidslinje."
+  ],
+  [
+   "Hele globussen, i ét øjeblik.",
+   "Rul til {yr} og se, hvad der skete alle steder på én gang."
+  ],
+  [
+   "Over 200 sprog, helt offline.",
+   "Ingen konti, ingen sporing, ingen servere."
+  ]
+ ],
+ "ctaH2": "Udforsk {yr} på en roterende globus",
+ "ctaP": "Gratis at begynde, offline for altid.",
+ "btnApp": "Hent i App Store",
+ "btnPlay": "Hent på Google Play",
+ "btnSite": "Besøg 1history.app",
+ "footerBy": "Af Paisarn Likhitpreechakul · Bangkok"
+}

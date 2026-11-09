@@ -1,0 +1,39 @@
+{
+ "country": "Belgium",
+ "anchor": {
+  "title": "Un royaume fédéral",
+  "text": "Les réformes constitutionnelles entrant en vigueur en 1993 font officiellement de la Belgique un État fédéral bâti autour des régions et des communautés linguistiques. Le système disperse des pouvoirs substantiels hors du gouvernement fédéral tout en conservant des institutions nationales pour des domaines tels que la défense, la sécurité sociale et une partie de la fiscalité."
+ },
+ "meanwhile": [
+  {
+   "country": "Côte d'Ivoire",
+   "title": "Une nation pleure son fondateur",
+   "text": "Félix Houphouët-Boigny, qui mena le pays depuis l'indépendance, meurt après des décennies au pouvoir, clôturant une époque qui le définissait. Sa mort ouvre une période de succession disputée dans la politique ivoirienne."
+  },
+  {
+   "country": "Mongolia",
+   "title": "Gengis revient",
+   "text": "La nouvelle constitution abandonne le mot socialiste, et l'homme dont le nom avait été imprononçable pendant soixante-dix ans se retrouve sur la monnaie, l'aéroport, la vodka et un cheval d'acier de quarante mètres."
+  },
+  {
+   "country": "Afghanistan",
+   "title": "La guerre soviéto-afghane",
+   "text": "Les derniers soldats soviétiques quittent l'Afghanistan en février 1989 après plus de neuf ans de guerre. Environ 15 000 militaires soviétiques sont tués, tandis que les pertes militaires et civiles afghanes sont bien plus élevées et que des millions d'Afghans sont déplacés."
+  },
+  {
+   "country": "Iran",
+   "title": "La guerre Iran-Irak",
+   "text": "L'Iran accepte la résolution 598 du Conseil de sécurité de l'ONU et consent à un cessez-le-feu avec l'Irak en 1988, mettant fin à huit ans de guerre. Plus tard la même année, les autorités iraniennes mènent des exécutions massives de prisonniers politiques, un épisode distinct dont l'ampleur reste contestée."
+  },
+  {
+   "country": "Mexico",
+   "title": "Le Templo Mayor est redécouvert",
+   "text": "En 1978, des ouvriers de l'électricité du centre de Mexico mettent au jour une énorme pierre sculptée représentant la déesse aztèque Coyolxauhqui. La découverte conduit à des fouilles de grande ampleur du quartier du Templo Mayor, exigeant la démolition de plusieurs bâtiments plus récents autour du site."
+  },
+  {
+   "country": "Tuvalu",
+   "title": "Tuvalu se sépare des Gilbert et accède à l'indépendance",
+   "text": "Après s'être séparé des îles Gilbert en 1975, Tuvalu devient un État indépendant au sein du Commonwealth le 1er octobre 1978, mettant fin à son administration au sein de la colonie britannique des îles Gilbert et Ellice."
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "country": "Finland",
+ "anchor": {
+  "title": "Turun tuomiokirkko",
+  "text": "Turun tuomiokirkko vihitään Suomen hiippakunnan emäkirkoksi. Turku kasvaa Suomen johtavaksi kaupungiksi sekä kirkon ja oppineisuuden keskukseksi Ruotsin vallan alla."
+ },
+ "meanwhile": [
+  {
+   "country": "Antigua ja Barbuda",
+   "title": "Saari-karibit",
+   "text": "Esikolumbiaanisen kauden loppuun mennessä kalinago-kieltä puhuvia yhteisöjä oli asettunut suureen osaan Pieniä Antilleja, myös Antigualle. Eurooppalaiset kuvaukset korostivat myöhemmin sodankäyntiä ja ryöstöretkiä, mutta arkeologia ja etnohistoria osoittavat myös alueellista liikkumista, vaihdantaa, kalastusta ja asutusta."
+  },
+  {
+   "country": "Mauritania",
+   "title": "Suolaa sebkhasta",
+   "text": "Kahdesti vuodessa kamelikaravaanit, azalai, ylittävät aavikon Idjilin suola-altaille, joista lohkotaan harmaita kivisuolan tankoja vaihdettavaksi etelään hirssiin ja kultaan. Siellä missä Sahelissa ei ole suolaa, suolalohkare voi painaa lähes oman painonsa verran kultaa."
+  },
+  {
+   "country": "Syyria",
+   "title": "Timur ryöstää Damaskoksen",
+   "text": "Timur valtaa ja ryöstää Damaskoksen vuonna 1401 lyötyään mamelukkijoukot. Aikalaiskuvaukset kertovat laajasta tuhosta ja taitavien käsityöläisten pakkosiirrosta Samarkandiin; kaupunki rakentuu myöhemmin uudelleen mamelukkien vallan alla."
+  },
+  {
+   "country": "Botswana",
+   "title": "Domboshaban kivimuurit",
+   "text": "Domboshaban kuivamuuratut muurit ja terassit kuuluvat Zimbabwen kulttuuriperinteeseen ja kalanga-kielisten yhteisöjen historiaan. Säilynyt kivirakentaminen merkitsee tärkeää poliittista ja seremoniallista keskusta Koillis-Botswanassa."
+  },
+  {
+   "country": "Burkina Faso",
+   "title": "Mossi-kuningaskunnat",
+   "text": "Myöhäiskeskiajalta alkaen keskustasangolle kehittyi useita mossi-kuningaskuntia, muun muassa Ouagadougou, Yatenga ja Tenkodogo. Ne ylläpitivät ratsuväkeen nojaavia valtioita sekä omia poliittisia ja uskonnollisia instituutioita aina Ranskan valloitukseen asti 1800-luvun lopulla."
+  },
+  {
+   "country": "Tšad",
+   "title": "Orjakaravaanit ylittävät Saharan",
+   "text": "Kanemin markkinoilta kamelikaravaanit lähtivät Saharan halki keidasten, kuten Fayan, kautta kuljettaen suolaa, kangasta ja orjiksi otettuja vankeja pohjoiseen Tripoliin ja palaten hevosten, aseiden ja kirjojen kanssa. Aavikon ylitys kesti viikkoja; vankien ryöstäminen myytäväksi elätti tietä vartioivia kuninkaita."
+  }
+ ]
+}

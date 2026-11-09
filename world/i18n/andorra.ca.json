@@ -1,0 +1,39 @@
+{
+ "country": "Andorra",
+ "anchor": {
+  "title": "Andorra enters the record",
+  "text": "A document traditionally dated to 839 and associated with the consecration of La Seu d'Urgell lists Andorran parishes; historians debate the document's exact date and later transmission. The Bishop of Urgell's claim to the valleys, set down here, will outlast every kingdom around it and endure, in one form, to the present day."
+ },
+ "meanwhile": [
+  {
+   "country": "Guatemala",
+   "title": "La darrera data",
+   "text": "L'última estela datada coneguda de Tikal porta una data de compte llarg equivalent al 869 dC. Durant les dècades següents, les institucions reials i la població de la ciutat minven bruscament, part de la transformació política més àmplia de les terres baixes maies del sud; la sequera, la guerra, la pressió ambiental i la fragmentació política s'estudien com a factors que hi contribueixen."
+  },
+  {
+   "country": "Grenada",
+   "title": "Els caribs de les illes",
+   "text": "Les comunitats kalinago s'estableixen per Grenada i les Antilles Menors meridionals abans de la colonització europea sostinguda. Viatgen molt en canoa per pescar, comerciar i guerrejar, i resisteixen repetits intents europeus de colonitzar l'illa."
+  },
+  {
+   "country": "Tuvalu",
+   "title": "El poblament de Tuvalu",
+   "text": "Navegants de Samoa i Tonga poblen les baixes illes coral·lines de Tuvalu. Hi porten conreus, animals i tradicions de navegació, i cada illa conserva els viatges fundacionals mitjançant la genealogia oral."
+  },
+  {
+   "country": "Kirguizistan",
+   "title": "Els kirguisos del Ienissei",
+   "text": "L'any 840 els kirguisos del Ienissei derroten el khaganat uigur a Mongòlia i es converteixen breument en una gran potència de l'estepa. La seva relació amb les poblacions kirguises posteriors del Tian Xan és real però complexa, i implica migració, continuïtat política i etnogènesi posterior."
+  },
+  {
+   "country": "Uzbekistan",
+   "title": "Al-Bukharí compila el Sahih",
+   "text": "L'erudit Muhàmmad al-Bukharí, nascut a Bukharà, aplega la seva col·lecció de hadits després d'anys de viatges i de garbellar relats. L'obra esdevé un dels textos més estudiats de l'islam sunnita."
+  },
+  {
+   "country": "Djibouti",
+   "title": "Els àfars del Danakil",
+   "text": "Les comunitats pastorals de parla àfar fa temps que viuen per les terres àrides de l'actual Djibouti, Eritrea i Etiòpia. El pasturatge de bestiar, el comerç de sal i el control de pous i rutes de caravanes configuren els mitjans de vida regionals, mentre l'autoritat política s'organitza mitjançant estructures canviants de clans i sultanats."
+  }
+ ]
+}

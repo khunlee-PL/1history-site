@@ -1,0 +1,39 @@
+{
+ "country": "DR Congo",
+ "anchor": {
+  "title": "Le royaume luba",
+  "text": "À l'est des lacs de l'Upemba, la lignée de Kalala Ilunga bâtit un royaume sur une royauté sacrée appelée bulopwe, un sang qui seul confère le droit de régner. Sa cour, ses offices à titres et ses planches mnémoniques lukasa diffusent un modèle d'art de gouverner à travers la savane du sud."
+ },
+ "meanwhile": [
+  {
+   "country": "Mali",
+   "title": "La caravane de sel de l'azalaï traverse le Sahara",
+   "text": "La caravane de sel de l'azalaï part de Tombouctou à travers le Sahara vers les mines de Taoudenni et en revient. De longues files de chameaux portent grain et marchandises vers le nord et reviennent chargées de dalles de sel."
+  },
+  {
+   "country": "Mozambique",
+   "title": "Le Portugal remonte le Zambèze",
+   "text": "Les marchands et fonctionnaires portugais remontent le Zambèze au cours du XVIe siècle, cherchant à contrôler l'or, l'ivoire et le commerce régional. Avec le temps, le système des prazos crée des domaines semi-autonomes dont le pouvoir repose sur les alliances locales, les suites armées et le travail forcé."
+  },
+  {
+   "country": "Bolivia",
+   "title": "Potosí",
+   "text": "Potosí devient l'un des grands centres d'extraction d'argent de l'Empire espagnol. À partir de 1573, la mita coloniale oblige plus de 200 communautés autochtones à envoyer environ un septième de leurs hommes adultes au service de travail par roulement. L'extraction, l'exposition au mercure, la coercition et la maladie imposent de lourds coûts humains, mais les affirmations ultérieures de huit millions de morts ne constituent pas une estimation démographique fiable."
+  },
+  {
+   "country": "Barbados",
+   "title": "Les plantations sucrières des Caraïbes",
+   "text": "Les domaines sucriers barbadiens associent des moulins à vent ou à traction animale à des sucreries où le jus de canne est traité dans des chaudrons de cuivre chauffés. Les travailleurs réduits en esclavage affrontent de longues heures, la chaleur, les machines et d'autres dangers graves tout au long de la culture de la canne et de la fabrication du sucre."
+  },
+  {
+   "country": "Venezuela",
+   "title": "Christophe Colomb atteint le continent sud-américain",
+   "text": "Lors de son troisième voyage, Christophe Colomb atteint le golfe de Paria et le delta de l'Orénoque et met pied à terre, son premier débarquement sur le continent sud-américain."
+  },
+  {
+   "country": "Cabo Verde",
+   "title": "Drake incendie Ribeira Grande",
+   "text": "Francis Drake débarque mille hommes et prend Ribeira Grande sans combat ; les habitants ont fui vers l'intérieur. Sa flotte tient la ville vide deux semaines, exige une rançon qui ne vient jamais, puis l'incendie avant de faire voile vers les Caraïbes. Le sac révèle à quel point le riche port négrier est devenu sans défense."
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "country": "Rwanda",
+ "anchor": {
+  "title": "Le Royaume du Rwanda",
+  "text": "Au début de l'époque moderne, le Rwanda a développé une monarchie centralisée dirigée par le mwami et une cour aristocratique. Les identités hutu, tutsi et twa existent avant le pouvoir colonial, mais sont façonnées par la région, le statut, l'occupation et la politique plutôt que par les catégories raciales rigides imposées plus tard par les Européens."
+ },
+ "meanwhile": [
+  {
+   "country": "Barbados",
+   "title": "Les plantations sucrières des Caraïbes",
+   "text": "Les domaines sucriers barbadiens associent des moulins à vent ou à traction animale à des sucreries où le jus de canne est traité dans des chaudrons de cuivre chauffés. Les travailleurs réduits en esclavage affrontent de longues heures, la chaleur, les machines et d'autres dangers graves tout au long de la culture de la canne et de la fabrication du sucre."
+  },
+  {
+   "country": "Bolivia",
+   "title": "Potosí",
+   "text": "Potosí devient l'un des grands centres d'extraction d'argent de l'Empire espagnol. À partir de 1573, la mita coloniale oblige plus de 200 communautés autochtones à envoyer environ un septième de leurs hommes adultes au service de travail par roulement. L'extraction, l'exposition au mercure, la coercition et la maladie imposent de lourds coûts humains, mais les affirmations ultérieures de huit millions de morts ne constituent pas une estimation démographique fiable."
+  },
+  {
+   "country": "Mali",
+   "title": "La caravane de sel de l'azalaï traverse le Sahara",
+   "text": "La caravane de sel de l'azalaï part de Tombouctou à travers le Sahara vers les mines de Taoudenni et en revient. De longues files de chameaux portent grain et marchandises vers le nord et reviennent chargées de dalles de sel."
+  },
+  {
+   "country": "Angola",
+   "title": "Les Ovimbundu du plateau de Bié",
+   "text": "Les Ovimbundu bâtissent un ensemble de royaumes sur le plateau de Bié, dans les hautes terres centrales, cultivant les plateaux et commerçant vers la côte. Ils deviennent l'un des peuples les plus nombreux de la région."
+  },
+  {
+   "country": "Antigua and Barbuda",
+   "title": "Barbuda, la terre de ravitaillement",
+   "text": "Barbuda nourrit la machine sucrière des Codrington : sa communauté asservie élève le bétail, cultive la nourriture et récupère les épaves pour les domaines d'Antigua. Une légende tenace la qualifie de ferme « d'élevage d'esclaves » ; les historiens ne trouvent aucun programme d'élevage, mais ses habitants sont bel et bien maintenus comme réserve de main-d'œuvre à expédier là où la canne a besoin de bras."
+  },
+  {
+   "country": "Argentina",
+   "title": "Les Mapuches des plaines du sud",
+   "text": "À partir du XVIIe siècle, des groupes de langue mapuche se déplacent et commercent de plus en plus à l'est des Andes, dans le nord de la Patagonie et la Pampa. La culture du cheval, l'échange et la guerre refaçonnent les identités et les réseaux politiques dans un processus plus tard appelé l'araucanisation de la Pampa."
+  }
+ ]
+}

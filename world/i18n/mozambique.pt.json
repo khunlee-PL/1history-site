@@ -1,0 +1,39 @@
+{
+ "country": "Mozambique",
+ "anchor": {
+  "title": "O Sultanato de Angoche",
+  "text": "Colonos ligados a Quíloa estabelecem a povoação comercial de Angoche na costa norte. O sultanato torna-se um porto suaíli que exporta ouro e marfim do interior do Zambeze pelo oceano Índico."
+ },
+ "meanwhile": [
+  {
+   "country": "Venezuela",
+   "title": "Columbus reaches the South American mainland",
+   "text": "On his third voyage, Christopher Columbus reaches the Gulf of Paria and the Orinoco delta and steps ashore, his first landing on the South American mainland."
+  },
+  {
+   "country": "Niger",
+   "title": "The azalai crosses the Ténéré",
+   "text": "Great camel caravans, the azalai, cross the Ténéré between Agadez and the salt pans of Bilma. They carry salt, dates and millet along one of the Sahara's hardest routes."
+  },
+  {
+   "country": "Syria",
+   "title": "Timur sacks Damascus",
+   "text": "Timur captures and sacks Damascus in 1401 after defeating Mamluk forces. Contemporary accounts describe extensive destruction and the forced transfer of skilled artisans to Samarkand; the city later rebuilds under Mamluk rule."
+  },
+  {
+   "country": "Montenegro",
+   "title": "Cetinje Monastery is raised",
+   "text": "Ivan Crnojević endows a monastery to the Mother of God beside his Cetinje court and moves the metropolitan see there. Burned and rebuilt more than once under Ottoman pressure, it becomes the spiritual heart of Montenegro, guarding relics said to include the right hand of John the Baptist."
+  },
+  {
+   "country": "Namibia",
+   "title": "Diogo Cão reaches Cape Cross",
+   "text": "Portuguese navigator Diogo Cão reaches the Namibian coast in 1486 and erects a stone padrão at Cape Cross as a marker of Portuguese exploration and royal claim. It does not lead to permanent Portuguese occupation of the coast."
+  },
+  {
+   "country": "Angola",
+   "title": "Diogo Cão alcança a foz do Congo",
+   "text": "O navegador português Diogo Cão alcança a foz do rio Congo na década de 1480 e ergue padrões de pedra durante as viagens ao longo da costa. As expedições iniciam um contacto diplomático continuado entre Portugal e o Reino do Congo."
+  }
+ ]
+}

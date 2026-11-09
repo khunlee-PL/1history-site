@@ -1,0 +1,39 @@
+{
+ "country": "Liechtenstein",
+ "anchor": {
+  "title": "Rom nimmt die Rheinstraße",
+  "text": "Die Stiefsöhne des Augustus, Drusus und Tiberius, erobern die Alpenstämme, und Rom richtet die Provinz Raetien ein. Eine gepflasterte Straße führt das Rheintal hinauf durch das spätere Fürstentum und verbindet Italien mit der Donau. Vier Jahrhunderte lang ist die Straße der Legionen, nicht irgendein ortsansässiger Herr, der Grund, warum dieser schmale Landstreifen überhaupt jemanden kümmert."
+ },
+ "meanwhile": [
+  {
+   "country": "Saint Kitts and Nevis",
+   "title": "Igneri-Töpfer überqueren das Meer",
+   "text": "Arawaksprachige Igneri arbeiten sich in Einbaumkanus den Inselbogen hinauf und pflanzen Dörfer an die Leeküsten. Sie brennen feine, weiß-auf-rot bemalte Keramik, bauen Maniok an und befischen das Riff. Ihre Fundstätten auf Nevis und entlang des Basseterre-Tals hinterlassen die ersten Gärten und die erste Keramik auf Inseln, die nur das Meer gekannt hatten."
+  },
+  {
+   "country": "Saint Vincent and the Grenadines",
+   "title": "Kanus vom Orinoco",
+   "text": "Keramikherstellende Gemeinschaften, die mit der weiteren saladoiden Kulturtradition verbunden sind, besiedeln St. Vincent am Übergang vom ersten Jahrtausend v. Chr. zum ersten n. Chr. Sie betreiben Gartenbau, Fischfang und inselübergreifenden Austausch und hinterlassen an Küstenfundstätten unverwechselbare Keramik."
+  },
+  {
+   "country": "North Macedonia",
+   "title": "Scupi, Kolonie am Vardar",
+   "text": "Rom siedelt Heeresveteranen in Scupi an, auf einem Hügel über dem Vardar, wo heute Skopje steht. Die Colonia Flavia Scupi lässt ein Forum, ein Theater und Thermen wachsen; ihr Gebiet reicht bis zur Kosovo-Ebene. Ein Erdbeben ebnet sie 518 ein, und die Überlebenden ziehen hinab an den Fluss — der Keim der späteren Stadt."
+  },
+  {
+   "country": "Angola",
+   "title": "Der Kwanza-Fluss",
+   "text": "Der Kwanza-Fluss verläuft rund tausend Kilometer vom zentralen Hochland bis zum Atlantik, der längste ganz innerhalb Angolas gelegene Fluss. Sein Tal trägt Ackerbau, Handel und später große Staudämme."
+  },
+  {
+   "country": "Lesotho",
+   "title": "Thabana Ntlenyana, Dach des Südens",
+   "text": "Thabana Ntlenyana erhebt sich im Maloti-Gebirge im Osten Lesothos auf 3.482 Meter und ist damit der höchste Gipfel Afrikas südlich des Kilimandscharo. Sein Name bedeutet „schöner kleiner Berg“, und Basaltströme der Drakensberge krönen seinen Gipfel."
+  },
+  {
+   "country": "Malawi",
+   "title": "Malawisee",
+   "text": "Der Malawisee ist ein alter Grabenbruchsee und einer der tiefsten Afrikas. Er trägt außergewöhnlich vielfältige Fischgemeinschaften, besonders Buntbarsche, deren rasche Evolution den See für die biologische Forschung ebenso bedeutsam gemacht hat wie für die örtliche Fischerei."
+  }
+ ]
+}

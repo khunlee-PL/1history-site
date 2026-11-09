@@ -1,0 +1,39 @@
+{
+ "country": "Niger",
+ "anchor": {
+  "title": "Le sultanat de l'Aïr",
+  "text": "Des nomades touaregs fondent le sultanat de l'Aïr autour de la cité caravanière d'Agadez — un carrefour désertique où le commerce transsaharien du sel, de l'or et des esclaves rencontre le Sahel, son minaret de terre servant de repère pendant des siècles."
+ },
+ "meanwhile": [
+  {
+   "country": "Syria",
+   "title": "Tamerlan met Damas à sac",
+   "text": "Tamerlan prend et met à sac Damas en 1401 après avoir défait les forces mameloukes. Des récits contemporains décrivent des destructions considérables et le transfert forcé d'artisans qualifiés vers Samarcande ; la ville se reconstruit plus tard sous la domination mamelouke."
+  },
+  {
+   "country": "Venezuela",
+   "title": "Christophe Colomb atteint le continent sud-américain",
+   "text": "Lors de son troisième voyage, Christophe Colomb atteint le golfe de Paria et le delta de l'Orénoque et met pied à terre, son premier débarquement sur le continent sud-américain."
+  },
+  {
+   "country": "Mozambique",
+   "title": "Le Portugal s'implante sur la côte du Mozambique",
+   "text": "Le Portugal établit des positions fortifiées sur la côte du Mozambique dès le début du XVIe siècle et étend progressivement son influence le long du Zambèze. Le système de domaines des prazos se développe plus tard dans l'intérieur, combinant concessions de terres, commerce, pouvoir armé et travail forcé."
+  },
+  {
+   "country": "Bhutan",
+   "title": "Pema Lingpa le tertön",
+   "text": "Le révélateur de trésors Pema Lingpa plonge dans un lac de Bumthang en tenant une lampe à beurre allumée et remonte avec elle encore ardente et une écriture cachée à la main. Le bassin est nommé Mebartsho, le Lac ardent. Ses danses sacrées et son orfèvrerie perdurent, et la famille royale fait remonter son sang jusqu'à lui."
+  },
+  {
+   "country": "Bosnia and Herzegovina",
+   "title": "L'Herzégovine, terre du duc",
+   "text": "Le grand-duc Stjepan Vukčić Kosača, gouvernant le sud depuis Blagaj, se fait appeler « herceg » — duc — de Saint-Sava. Son titre survit à son État : les Ottomans nomment le pays qu'ils lui prennent le sandjak d'Herzégovine, et « la terre du duc » reste le nom de la région."
+  },
+  {
+   "country": "Dominica",
+   "title": "Le bastion kalinago",
+   "text": "Les communautés kalinago utilisent le relief accidenté et la côte orientale de la Dominique comme part d'un vaste réseau de peuplement, d'échange et de guerre des Petites Antilles. Une forte résistance et un terrain difficile aident à préserver une présence autochtone substantielle à la Dominique, plus longtemps que sur bien des îles voisines."
+  }
+ ]
+}

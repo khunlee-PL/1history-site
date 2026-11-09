@@ -1,0 +1,39 @@
+{
+ "country": "Guinea-Bissau",
+ "anchor": {
+  "title": "The fall of Kansala",
+  "text": "In 1867 forces linked to Futa Jallon and Fuladu besiege Kansala, the capital of Kaabu. The city's fall marks the end of Kaabu as a major regional power; later accounts describe an explosion in the capital, but details differ across traditions."
+ },
+ "meanwhile": [
+  {
+   "country": "Lesotho",
+   "title": "Britain takes Basutoland",
+   "text": "Facing severe pressure from the Orange Free State, Moshoeshoe seeks British protection. Britain annexes Basutoland in 1868, halting further Free State expansion while leaving much previously lost western territory outside the new boundary."
+  },
+  {
+   "country": "Zambia",
+   "title": "Livingstone dies near Lake Bangweulu",
+   "text": "The Scottish missionary and explorer David Livingstone dies at the village of Chief Chitambo, near the swamps of Lake Bangweulu, worn down by illness. His followers bury his heart there and carry his body to the coast for return to Britain."
+  },
+  {
+   "country": "Egypt",
+   "title": "As ações do Suez",
+   "text": "Disraeli compra a participação do Egito na Companhia do Canal do Suez com financiamento da casa bancária Rothschild, dando à Grã-Bretanha um grande interesse financeiro numa rota cada vez mais importante para as ligações imperiais com a Índia."
+  },
+  {
+   "country": "Uganda",
+   "title": "Henry Morton Stanley reaches Buganda",
+   "text": "The journalist and explorer Henry Morton Stanley reaches the court of Buganda and meets Kabaka Muteesa I. His published appeal for missionaries draws European churches toward the kingdom."
+  },
+  {
+   "country": "Burkina Faso",
+   "title": "French expansion approaches the Mossi kingdoms",
+   "text": "The Berlin Conference does not assign the Mossi kingdoms to France. During the following decade French forces advance from neighboring colonies, and they occupy Ouagadougou in 1896 as France builds control across the Volta basin."
+  },
+  {
+   "country": "Mozambique",
+   "title": "Portugal avança para o interior a partir de Moçambique",
+   "text": "Portugal já detém posições costeiras de longa data em Moçambique quando a Conferência de Berlim se reúne. Depois de 1885, a nova ênfase na ocupação efetiva intensifica os esforços portugueses para estender o controlo militar e administrativo ao interior."
+  }
+ ]
+}

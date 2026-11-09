@@ -1,0 +1,39 @@
+{
+ "country": "Equatorial Guinea",
+ "anchor": {
+  "title": "Portugal cede las islas",
+  "text": "Por el Tratado de El Pardo, Portugal entrega a España las islas de Fernando Poo y Annobón y el derecho a comerciar con esclavos en la costa africana, a cambio de tierras en Sudamérica. España gana un punto de apoyo que apenas quiere: los hombres del primer gobernador mueren de fiebre en pocos meses, y la empresa se abandona durante décadas."
+ },
+ "meanwhile": [
+  {
+   "country": "Cuba",
+   "title": "La revolución de Haití enriquece a Cuba",
+   "text": "La Revolución haitiana trastorna la economía de plantación de Saint-Domingue y envía refugiados, capital y conocimientos agrícolas al oriente de Cuba. Combinados con la creciente demanda atlántica y la esclavitud, estos cambios ayudan a acelerar el auge cubano del azúcar y el café en el siglo XIX."
+  },
+  {
+   "country": "Grenada",
+   "title": "La nuez moscada hace la Isla de la Especia",
+   "text": "Los árboles de nuez moscada, traídos de las Indias Orientales, prenden en el suelo volcánico de Granada. En el curso de una vida la isla se convierte en una gran productora mundial de nuez moscada, cuyo fruto luego se estampa en su bandera. La nuez moscada partida y su red roja de macis aún se secan en los cobertizos de Gouyave, la razón por la que a Granada se la llama la Isla de la Especia."
+  },
+  {
+   "country": "Algeria",
+   "title": "La conquista francesa de Argelia",
+   "text": "Durante la conquista francesa, las tropas al mando del coronel Aimable Pélissier encierran a miembros de los Ouled Riah en cuevas del Dahra y matan a cientos con humo y fuego. La conquista en su conjunto trae guerra, desplazamiento, hambruna y enfermedad y causa una grave pérdida de población."
+  },
+  {
+   "country": "Malawi",
+   "title": "Livingstone llega al lago Nyasa",
+   "text": "En su expedición al Zambeze, el misionero y explorador escocés David Livingstone remonta el río Shire y llega al gran lago que registra como lago Nyasa, con lo que da a conocer la región en Gran Bretaña."
+  },
+  {
+   "country": "Lesotho",
+   "title": "Gran Bretaña se queda con Basutolandia",
+   "text": "Ante la fuerte presión del Estado Libre de Orange, Moshoeshoe busca la protección británica. Gran Bretaña anexiona Basutolandia en 1868, deteniendo una nueva expansión del Estado Libre, aunque deja fuera de la nueva frontera buena parte del territorio occidental ya perdido."
+  },
+  {
+   "country": "Egypt",
+   "title": "Las acciones del canal de Suez",
+   "text": "Disraeli compra la participación de Egipto en la Compañía del Canal de Suez con financiación de la casa bancaria Rothschild, lo que da a Gran Bretaña un importante interés financiero en una ruta cada vez más importante para las conexiones imperiales con la India."
+  }
+ ]
+}

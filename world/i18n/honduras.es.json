@@ -1,0 +1,39 @@
+{
+ "country": "Honduras",
+ "anchor": {
+  "title": "Cuyamel y el imperio bananero",
+  "text": "La compra de Cuyamel por parte de la United Fruit consolida el control corporativo extranjero sobre grandes plantaciones de banano, ferrocarriles e instalaciones portuarias en Honduras. Las compañías bananeras ejercen una notable influencia económica y política, aunque el grado de control directo varía según los gobiernos y las regiones."
+ },
+ "meanwhile": [
+  {
+   "country": "Burkina Faso",
+   "title": "El Alto Volta es dividido",
+   "text": "Francia disuelve la colonia del Alto Volta y reparte su territorio entre Costa de Marfil, el Sudán Francés y Níger. El corazón mossi se gobierna desde la costa durante los quince años siguientes."
+  },
+  {
+   "country": "Burundi",
+   "title": "Ruanda-Urundi",
+   "text": "Bélgica gobierna Burundi junto con la vecina Ruanda como el territorio de Ruanda-Urundi, que mantiene bajo un mandato de la Sociedad de Naciones. Desde 1925 los dos reinos se administran junto al vecino Congo Belga."
+  },
+  {
+   "country": "Mozambique",
+   "title": "El régimen del algodón forzado",
+   "text": "Las autoridades portuguesas obligan a los campesinos africanos de todo el norte de Mozambique a cultivar algodón para venderlo a precios fijos a las compañías concesionarias coloniales. El sistema moldea la vida rural durante décadas y se convierte en un agravio duradero contra el dominio colonial."
+  },
+  {
+   "country": "Mali",
+   "title": "El Sudán Francés envía tiradores a la Gran Guerra",
+   "text": "Francia recluta y conscribe a hombres del Sudán Francés en unidades comúnmente agrupadas bajo el nombre de tiradores senegaleses. Los soldados de la colonia sirven en Francia, el Mediterráneo y otros frentes durante la Primera Guerra Mundial."
+  },
+  {
+   "country": "Zambia",
+   "title": "El cobre de Rodesia del Norte abastece las industrias de guerra aliadas",
+   "text": "Las minas del Cinturón del Cobre de Rodesia del Norte amplían la producción para suministrar cobre a las industrias de guerra aliadas. El territorio también recluta tropas que sirven en los King's African Rifles."
+  },
+  {
+   "country": "Kenya",
+   "title": "Birmania y vuelta",
+   "text": "Durante la Segunda Guerra Mundial, miembros de los King's African Rifles sirven en Etiopía, Somalilandia y Birmania. Más de 300 000 africanos orientales participan, y los veteranos que regresan traen nuevas expectativas sobre la ciudadanía y el gobierno colonial."
+  }
+ ]
+}

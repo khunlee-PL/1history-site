@@ -1,0 +1,39 @@
+{
+ "country": "Croatia",
+ "anchor": {
+  "title": "Kraljevstvo Petra Krešimira IV.",
+  "text": "Pod kraljem Petrom Krešimirom IV. hrvatsko kraljevstvo doseže velik opseg, a kraljevske povelje opisuju Jadran kao kraljevo vlastito more. Isprave se izdaju iz obalnih gradova poput Biograda."
+ },
+ "meanwhile": [
+  {
+   "country": "Mali",
+   "title": "Carstvo Gane doseže zapadni Sahel",
+   "text": "Do jedanaestog stoljeća Carstvo Gane nadzire velik dio trgovine zlatom i soli u zapadnom Sahelu, a njegova mreža doseže zemlje današnjeg zapadnog Malija. Njegovi trgovci povezuju južna zlatna polja sa saharskim karavanskim putovima."
+  },
+  {
+   "country": "Kirgistan",
+   "title": "Kutadgu Bilig",
+   "text": "Jusuf iz Balasaguna dovršava Kutadgu Bilig, Mudrost kraljevske slave, i predaje ga svojem karahanidskom knezu. U oko 6.500 dvostiha četiri lika, koji predstavljaju Pravdu, Sreću, Razum i Zadovoljstvo, raspravljaju o tome kako vladar treba živjeti. To je najstarije sačuvano veliko djelo islamske turkijske književnosti, napisano ovdje u dolini Čuja."
+  },
+  {
+   "country": "Šri Lanka",
+   "title": "Vijayabahu I. obnavlja kraljevstvo",
+   "text": "Nakon razdoblja čolske vlasti iz južne Indije, Vijayabahu I. protjeruje osvajače i biva okrunjen, učinivši Polonnaruwu svojom prijestolnicom. Sinhalsko kraljevstvo otoka ponovno je uspostavljeno."
+  },
+  {
+   "country": "Tadžikistan",
+   "title": "Nasir Husrav u Badahšanu",
+   "text": "Pjesnik, filozof i ismailijski misionar Nasir Husrav u svojoj Safarnami bilježi sedmogodišnje putovanje u Meku i Kairo, a potom, progonjen kao heretik, završava dane u pamirskim dolinama. Planinski ismailiji Badahšana još ga štuju kao utemeljitelja svoje vjere."
+  },
+  {
+   "country": "Bjelorusija",
+   "title": "Prvi spomen Minska",
+   "text": "Vseslav Polocki sukobljava se sa sinovima Jaroslava na zaleđenoj rijeci Nemigi. Ljetopis bilježi pokolj i pritom prvi put imenuje Menesk — najraniji pisani spomen grada koji postaje Minsk, buduća prijestolnica."
+  },
+  {
+   "country": "Čad",
+   "title": "Hummay donosi islam u Kanem",
+   "text": "Mai Hummay, prvi muslimanski kralj loze Sayfawa, prihvaća islam i povezuje svoj dvor u Njimiju sa širim muslimanskim svijetom. Arapska pismenost, pravo i učenjaci putuju trgovačkim putovima u Kanem; njegova dinastija kasnije drži svratište u Kairu za hodočasnike na dugom putu u Meku."
+  }
+ ]
+}

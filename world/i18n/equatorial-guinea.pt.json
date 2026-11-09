@@ -1,0 +1,39 @@
+{
+ "country": "Equatorial Guinea",
+ "anchor": {
+  "title": "Portugal cedes the islands",
+  "text": "By the Treaty of El Pardo, Portugal hands Spain the islands of Fernando Pó and Annobón and the right to trade slaves on the African coast, in return for land in South America. Spain gains a foothold it barely wants: the first governor's men die of fever within months, and the venture is dropped for decades."
+ },
+ "meanwhile": [
+  {
+   "country": "Cuba",
+   "title": "Haiti's revolution makes Cuba rich",
+   "text": "The Haitian Revolution disrupts Saint-Domingue's plantation economy and sends refugees, capital and agricultural knowledge into eastern Cuba. Combined with expanding Atlantic demand and slavery, these shifts help accelerate Cuba's nineteenth-century sugar and coffee boom."
+  },
+  {
+   "country": "Grenada",
+   "title": "Nutmeg makes the Isle of Spice",
+   "text": "Nutmeg trees, carried from the East Indies, take to Grenada's volcanic soil. Within a lifetime the island becomes a major global nutmeg producer, the fruit later stamped on its flag. Split nutmeg and its red lace of mace still dry in the Gouyave sheds, the reason Grenada is called the Isle of Spice."
+  },
+  {
+   "country": "Algeria",
+   "title": "French conquest of Algeria",
+   "text": "During the French conquest, troops under Colonel Aimable Pélissier seal members of the Ouled Riah inside caves in the Dahra and kill hundreds by smoke and fire. The wider conquest brings warfare, displacement, famine and disease and causes severe population loss."
+  },
+  {
+   "country": "Malawi",
+   "title": "Livingstone reaches Lake Nyasa",
+   "text": "On his Zambezi expedition the Scottish missionary and explorer David Livingstone travels up the Shire River and reaches the great lake he records as Lake Nyasa, publicising the region in Britain."
+  },
+  {
+   "country": "Lesotho",
+   "title": "Britain takes Basutoland",
+   "text": "Facing severe pressure from the Orange Free State, Moshoeshoe seeks British protection. Britain annexes Basutoland in 1868, halting further Free State expansion while leaving much previously lost western territory outside the new boundary."
+  },
+  {
+   "country": "Egypt",
+   "title": "As ações do Suez",
+   "text": "Disraeli compra a participação do Egito na Companhia do Canal do Suez com financiamento da casa bancária Rothschild, dando à Grã-Bretanha um grande interesse financeiro numa rota cada vez mais importante para as ligações imperiais com a Índia."
+  }
+ ]
+}

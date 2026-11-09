@@ -1,0 +1,39 @@
+{
+ "country": "Guinea",
+ "anchor": {
+  "title": "Sous le Mali et le Songhaï",
+  "text": "Des parties de l'actuelle Guinée s'inscrivent dans les mondes politiques et commerciaux de l'Empire du Mali, puis du Songhaï. Les traditions mandingues rattachent fortement la région à Soundiata Keïta, tandis que l'or et d'autres marchandises la relient à de plus vastes réseaux ouest-africains."
+ },
+ "meanwhile": [
+  {
+   "country": "Antigua and Barbuda",
+   "title": "Caraïbes insulaires",
+   "text": "À la fin de la période précolombienne, des communautés de langue kalinago sont établies dans une grande partie des Petites Antilles, dont Antigua. Les récits européens ont plus tard mis en avant la guerre et les raids, mais l'archéologie et l'ethnohistoire montrent aussi les déplacements régionaux, les échanges, la pêche et le peuplement."
+  },
+  {
+   "country": "Mauritania",
+   "title": "Le sel de la sebkha",
+   "text": "Deux fois l'an, les caravanes de chameaux, les azalaï, gagnent les salines d'Idjil, taillant des barres de sel gemme gris à échanger vers le sud contre du mil et de l'or. Là où le Sahel manque de sel, une dalle peut peser presque son propre poids en or."
+  },
+  {
+   "country": "The Gambia",
+   "title": "Tiramakhan vient à l'ouest",
+   "text": "Le général de Soundiata, Tiramakhan Traoré, pousse la puissance du Mali jusqu'à l'Atlantique, établissant des clans mandingues le long de la Gambie. Sa campagne implante la province du Kaabu et la langue mandé, l'agriculture et la structure clanique qui façonnent encore les peuples du fleuve sept siècles plus tard. Les liens entre ces communautés historiques et les identités ethniques modernes sont reconstitués à partir d'indices linguistiques, oraux et archéologiques ultérieurs plutôt que d'une seule lignée de filiation documentée."
+  },
+  {
+   "country": "Mongolia",
+   "title": "La lettre au pape",
+   "text": "Güyük répond à une exigence papale de cesser de tuer les chrétiens en demandant comment le pape sait que Dieu ne le veut pas de lui. La lettre nous est parvenue, en persan, dans les archives du Vatican."
+  },
+  {
+   "country": "Georgia",
+   "title": "Les Mongols atteignent la Géorgie",
+   "text": "Les armées mongoles placent la Géorgie sous leur domination au XIIIe siècle. Les souverains géorgiens paient tribut et fournissent des troupes pour les campagnes mongoles, tandis que le royaume se fragmente politiquement et perd une grande partie de la puissance accumulée durant l'âge d'or du XIIe siècle."
+  },
+  {
+   "country": "Kazakhstan",
+   "title": "La Horde d'or",
+   "text": "Après les conquêtes mongoles, une grande partie de la steppe occidentale passe sous le royaume djotchide, plus tard connu sous le nom de Horde d'or. Sa fragmentation politique au quinzième siècle contribue à créer le cadre d'où émergent des États successeurs, dont le khanat kazakh."
+  }
+ ]
+}

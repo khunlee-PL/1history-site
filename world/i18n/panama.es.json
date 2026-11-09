@@ -1,0 +1,39 @@
+{
+ "country": "Panama",
+ "anchor": {
+  "title": "Se funda la Ciudad de Panamá",
+  "text": "Pedrarias Dávila funda la Ciudad de Panamá en la costa pacífica en 1519. Se convierte en el principal puerto español que conecta las rutas del Pacífico de Sudamérica con el transporte terrestre a través del istmo hasta el Caribe."
+ },
+ "meanwhile": [
+  {
+   "country": "Mozambique",
+   "title": "Portugal establece su dominio en la costa de Mozambique",
+   "text": "Portugal establece posiciones fortificadas en la costa de Mozambique desde comienzos del siglo XVI y amplía gradualmente su influencia a lo largo del Zambeze. El sistema de haciendas prazo se desarrolla más tarde en el interior, combinando concesiones de tierras, comercio, poder armado y trabajo forzado."
+  },
+  {
+   "country": "Venezuela",
+   "title": "Colón llega a tierra firme de Sudamérica",
+   "text": "En su tercer viaje, Cristóbal Colón llega al golfo de Paria y al delta del Orinoco y desembarca, su primer pie en tierra firme de Sudamérica."
+  },
+  {
+   "country": "Mali",
+   "title": "La caravana de sal del Azalai cruza el Sáhara",
+   "text": "La caravana de sal del Azalai parte de Tombuctú cruzando el Sáhara hacia las minas de Taoudenni y regresa. Largas filas de camellos llevan grano y mercancías al norte y vuelven cargados de losas de sal."
+  },
+  {
+   "country": "Barbados",
+   "title": "Los mapas europeos recogen el nombre Barbados",
+   "text": "Hacia 1519 los mapas europeos recogen la isla bajo un nombre derivado de palabras portuguesas o españolas que significan 'los barbados'. El origen exacto del nombre es incierto, y no se forma ninguna colonia europea permanente hasta que empieza el asentamiento inglés en 1627."
+  },
+  {
+   "country": "Cuba",
+   "title": "Se funda La Habana",
+   "text": "Fundada en un puerto capaz de albergar la flota del tesoro española. Durante tres siglos todo barco que lleva la plata americana a España espera aquí al convoy, y La Habana se convierte en la llave del Nuevo Mundo."
+  },
+  {
+   "country": "The Dominican Republic",
+   "title": "La revuelta de Enriquillo",
+   "text": "El líder taíno Enriquillo mantiene una prolongada revuelta desde las montañas del Bahoruco contra los colonos españoles. El conflicto termina en una paz negociada que concede a sus seguidores cierta libertad."
+  }
+ ]
+}

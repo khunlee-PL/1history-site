@@ -1,0 +1,39 @@
+{
+ "country": "Cameroon",
+ "anchor": {
+  "title": "Le royaume bamoun",
+  "text": "À Foumban, le royaume bamoun est fondé sous Nchare Yen et devient l'un des États les plus puissants des grassfields, gouverné par une longue lignée de sultans."
+ },
+ "meanwhile": [
+  {
+   "country": "Niger",
+   "title": "L'azalaï traverse le Ténéré",
+   "text": "De grandes caravanes de chameaux, les azalaï, traversent le Ténéré entre Agadez et les salines de Bilma. Elles portent sel, dattes et mil sur l'une des routes les plus dures du Sahara."
+  },
+  {
+   "country": "Syria",
+   "title": "Tamerlan met Damas à sac",
+   "text": "Tamerlan prend et met à sac Damas en 1401 après avoir défait les forces mameloukes. Des récits contemporains décrivent des destructions considérables et le transfert forcé d'artisans qualifiés vers Samarcande ; la ville se reconstruit plus tard sous la domination mamelouke."
+  },
+  {
+   "country": "Antigua and Barbuda",
+   "title": "Caraïbes insulaires",
+   "text": "À la fin de la période précolombienne, des communautés de langue kalinago sont établies dans une grande partie des Petites Antilles, dont Antigua. Les récits européens ont plus tard mis en avant la guerre et les raids, mais l'archéologie et l'ethnohistoire montrent aussi les déplacements régionaux, les échanges, la pêche et le peuplement."
+  },
+  {
+   "country": "Korea",
+   "title": "Le sanctuaire royal de Jongmyo",
+   "text": "La nouvelle dynastie Joseon fonde dans sa capitale un sanctuaire royal pour abriter les tablettes des esprits des rois et reines du passé. Des rites commémoratifs mis en musique sur d'anciennes compositions de cour sont célébrés dans ses longues salles de bois."
+  },
+  {
+   "country": "Belarus",
+   "title": "Vytautas",
+   "text": "Vytautas dirige le grand-duché à son apogée, l'étendant de la Baltique à la mer Noire. Il contient les chevaliers Teutoniques, gouverne un grand-duché qui englobe une grande partie de l'actuelle Biélorussie et accueille des Tatars et des Juifs qui s'y établissent pour des siècles."
+  },
+  {
+   "country": "North Macedonia",
+   "title": "Les Ottomans prennent le Vardar",
+   "text": "Après la défaite serbe sur la Maritsa en 1371, les armées ottomanes remontent les vallées et prennent Skopje en 1392. Au cours des décennies suivantes, toute la région tombe sous le sultan. Des timars sont répartis entre cavaliers, et les villes commencent à se garnir de mosquées, de hans et de marchés couverts."
+  }
+ ]
+}

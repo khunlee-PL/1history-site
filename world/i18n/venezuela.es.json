@@ -1,0 +1,39 @@
+{
+ "country": "Venezuela",
+ "anchor": {
+  "title": "Se funda Coro",
+  "text": "Juan de Ampíes funda Santa Ana de Coro en la árida costa occidental; sirve como primera capital de la provincia y temprana sede de la administración española en Venezuela."
+ },
+ "meanwhile": [
+  {
+   "country": "Mozambique",
+   "title": "Portugal remonta el Zambeze",
+   "text": "Comerciantes y funcionarios portugueses se expanden río arriba por el Zambeze durante el siglo XVI, en busca del control del oro, el marfil y el comercio regional. Con el tiempo, el sistema prazo crea haciendas semiautónomas cuyo poder depende de alianzas locales, séquitos armados y trabajo forzado."
+  },
+  {
+   "country": "Mali",
+   "title": "La caravana de sal del Azalai cruza el Sáhara",
+   "text": "La caravana de sal del Azalai parte de Tombuctú cruzando el Sáhara hacia las minas de Taoudenni y regresa. Largas filas de camellos llevan grano y mercancías al norte y vuelven cargados de losas de sal."
+  },
+  {
+   "country": "Ecuador",
+   "title": "El reino norteño de Huayna Cápac",
+   "text": "El soberano inca Huayna Cápac gobierna las provincias del norte desde Quito y Tomebamba, y muere allí, dejando su dominio en disputa entre sus hijos."
+  },
+  {
+   "country": "Vatican City",
+   "title": "El saqueo y la resistencia de la Guardia",
+   "text": "El 6 de mayo de 1527 el ejército amotinado y sin paga de Carlos V asalta Roma. En las gradas ante San Pedro, 147 de los 189 Guardias Suizos mueren cubriendo la huida de Clemente VII por el Passetto, un corredor elevado, hasta la fortaleza de Castel Sant'Angelo. La ciudad es saqueada durante meses. La Guardia aún jura a sus nuevos reclutas cada 6 de mayo, en memoria de los caídos."
+  },
+  {
+   "country": "El Salvador",
+   "title": "La caída de Cuzcatlán",
+   "text": "Tras años de resistencia, las fuerzas españolas establecen su control sobre Cuzcatlán e imponen el trabajo de la encomienda y el dominio colonial. La guerra, el trabajo forzado, los desplazamientos y las epidemias del Viejo Mundo provocan en conjunto un grave descenso de la población entre las comunidades indígenas durante el siglo XVI."
+  },
+  {
+   "country": "Marshall Islands",
+   "title": "Salazar avista los atolones",
+   "text": "El barco español de Alonso de Salazar, desviado de la ruta a las Molucas, avista un atolón bajo y verde de la cadena septentrional y lo llama San Bartolomé. Es el primer avistamiento europeo de las Marshall. Los españoles no desembarcan ni regresan; durante tres siglos los atolones quedan fuera de las cartas, demasiado llanos y demasiado pobres para interesar a un imperio que persigue especias y plata."
+  }
+ ]
+}

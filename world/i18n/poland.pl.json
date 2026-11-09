@@ -1,0 +1,39 @@
+{
+ "country": "Poland",
+ "anchor": {
+  "title": "Chrzest Polski",
+  "text": "Pogański książę przyjmuje chrześcijaństwo z Czech, a nie z Niemiec, i czyniąc tak, zapewnia swojemu państwu przyszłość inną niż niemieckiej marchii. Polska datuje się od tego wydarzenia."
+ },
+ "meanwhile": [
+  {
+   "country": "Gwatemala",
+   "title": "Upadek klasycznych Majów",
+   "text": "Zapisy paleoklimatyczne wskazują na powtarzające się susze w stuleciach politycznego upadku na południowych nizinach Majów. Gospodarka wodna zapewne wpływała na lokalną odporność, lecz losy poszczególnych miast zależały także od polityki, handlu, środowiska i konfliktów, nie tylko od opadów."
+  },
+  {
+   "country": "Mali",
+   "title": "Imperium Ghany sięga zachodniego Sahelu",
+   "text": "Do XI wieku imperium Ghany kontroluje znaczną część handlu złotem i solą w zachodnim Sahelu, a jego sieć sięga ziem dzisiejszego zachodniego Mali. Jego kupcy łączą południowe pola złotonośne z saharyjskimi szlakami karawan."
+  },
+  {
+   "country": "Tuvalu",
+   "title": "Zasiedlenie Tuvalu",
+   "text": "Żeglarze z Samoa i Tonga zasiedlają niskie, koralowe wyspy Tuvalu. Przywożą uprawy, zwierzęta i tradycje nawigacyjne, a każda wyspa zachowuje opowieści o założycielskich wyprawach w ustnych genealogiach."
+  },
+  {
+   "country": "Egipt",
+   "title": "Założenie Kairu",
+   "text": "Fatymidzi zakładają Kair w 969 roku jako nowe miasto-pałac obok starszego Fustatu. Wkrótce potem powstaje meczet Al-Azhar, który rozwija się w ważny ośrodek nauki islamskiej."
+  },
+  {
+   "country": "Oman",
+   "title": "Faladż nawadnia pustynię",
+   "text": "Omańskie systemy aflaj grawitacyjnie prowadzą wody gruntowe i źródlane do pól i osad. Niektóre sieci mają starożytne pochodzenie i wciąż działają dzięki starannie przydzielanym wspólnotowym prawom do wody."
+  },
+  {
+   "country": "Armenia",
+   "title": "Ani, miasto kościołów",
+   "text": "Królowie z dynastii Bagratydów czynią Ani swą stolicą w 961 roku. Miasto staje się ważnym średniowiecznym ośrodkiem handlowym i religijnym, później wspominanym przydomkiem „miasto tysiąca i jednego kościoła”."
+  }
+ ]
+}

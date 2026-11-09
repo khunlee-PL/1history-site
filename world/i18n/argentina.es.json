@@ -1,0 +1,39 @@
+{
+ "country": "Argentina",
+ "anchor": {
+  "title": "La Revolución de Mayo",
+  "text": "En mayo de 1810, los dirigentes políticos de Buenos Aires deponen al virrey español y establecen la Primera Junta. La revolución no crea de inmediato un Estado argentino independiente, pero inicia el proceso político que conduce a la independencia de España en 1816."
+ },
+ "meanwhile": [
+  {
+   "country": "Cuba",
+   "title": "La revolución de Haití enriquece a Cuba",
+   "text": "La Revolución haitiana trastorna la economía de plantación de Saint-Domingue y envía refugiados, capital y conocimientos agrícolas al oriente de Cuba. Combinados con la creciente demanda atlántica y la esclavitud, estos cambios ayudan a acelerar el auge cubano del azúcar y el café en el siglo XIX."
+  },
+  {
+   "country": "Burkina Faso",
+   "title": "El emirato de Liptako",
+   "text": "En Dori los fulani establecen el emirato de Liptako, atraídos por los movimientos de reforma más amplios del Sahel. Pastores y comerciantes hacen de la villa un centro de las praderas septentrionales."
+  },
+  {
+   "country": "Chile",
+   "title": "Bernardo O'Higgins y la independencia",
+   "text": "Bernardo O'Higgins se perfila como uno de los principales líderes del movimiento independentista chileno y más tarde ejerce como Director Supremo. Su gobierno impulsa la consolidación militar y reformas políticas antes de que la oposición lo obligue a dejar el cargo en 1823."
+  },
+  {
+   "country": "Colombia",
+   "title": "Acta de Independencia de Colombia",
+   "text": "El 20 de julio de 1810, las tensiones políticas en Bogotá estallan después de que los patriotas usen una disputa en torno al comerciante José González Llorente como pretexto para la movilización popular. Una junta local desplaza a la autoridad virreinal, un paso importante en el largo y disputado proceso de independencia."
+  },
+  {
+   "country": "Mauritius",
+   "title": "El desastre de Grand Port",
+   "text": "En la batalla de Grand Port, en 1810, una escuadra británica penetra en las difíciles aguas de los arrecifes y sufre la pérdida o la captura de varias fragatas a manos de las fuerzas francesas. Es una importante victoria naval francesa, conmemorada más tarde en el Arco de Triunfo."
+  },
+  {
+   "country": "Mexico",
+   "title": "La guerra de Independencia de México",
+   "text": "El movimiento de independencia que comienza en 1810 se nutre de símbolos políticos católicos, locales y cada vez más de nacidos en América. En el siglo XIX, el nuevo Estado mexicano adopta más tarde la iconografía mexica, incluido el emblema del águila y la serpiente, como parte de la construcción de una identidad nacional distinta de España."
+  }
+ ]
+}

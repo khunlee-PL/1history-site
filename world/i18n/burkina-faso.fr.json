@@ -1,0 +1,39 @@
+{
+ "country": "Burkina Faso",
+ "anchor": {
+  "title": "Le royaume du Yatenga",
+  "text": "Le royaume du Yatenga s'élève dans le nord-ouest autour de Ouahigouya, rivalisant avec Ouagadougou parmi les États mossis. Sa cavalerie et ses chefs gardent les marches septentrionales contre les pillards venus du Sahel."
+ },
+ "meanwhile": [
+  {
+   "country": "Mozambique",
+   "title": "Le Portugal remonte le Zambèze",
+   "text": "Les marchands et fonctionnaires portugais remontent le Zambèze au cours du XVIe siècle, cherchant à contrôler l'or, l'ivoire et le commerce régional. Avec le temps, le système des prazos crée des domaines semi-autonomes dont le pouvoir repose sur les alliances locales, les suites armées et le travail forcé."
+  },
+  {
+   "country": "Venezuela",
+   "title": "Christophe Colomb atteint le continent sud-américain",
+   "text": "Lors de son troisième voyage, Christophe Colomb atteint le golfe de Paria et le delta de l'Orénoque et met pied à terre, son premier débarquement sur le continent sud-américain."
+  },
+  {
+   "country": "Mali",
+   "title": "La caravane de sel de l'azalaï traverse le Sahara",
+   "text": "La caravane de sel de l'azalaï part de Tombouctou à travers le Sahara vers les mines de Taoudenni et en revient. De longues files de chameaux portent grain et marchandises vers le nord et reviennent chargées de dalles de sel."
+  },
+  {
+   "country": "The Dominican Republic",
+   "title": "La première cathédrale de Saint-Domingue",
+   "text": "La construction de la cathédrale Santa María la Menor commence au début du XVIe siècle à Saint-Domingue. L'église est traditionnellement reconnue comme la première cathédrale établie dans les Amériques, bien que sa construction s'étende sur plusieurs décennies."
+  },
+  {
+   "country": "Liberia",
+   "title": "Les invasions mane",
+   "text": "Les guerriers mane, bandes de guerre descendant de l'intérieur du Mali, déferlent le long de la côte au XVIe siècle. Armés et organisés pour la conquête, ils submergent les communautés anciennes, absorbent les survivants et redessinent la carte des peuples de la Sierra Leone au rivage bassa. De nouvelles lignées dirigeantes et l'agencement des chefferies côtières datent de leur passage."
+  },
+  {
+   "country": "Peru",
+   "title": "La fondation d'Arequipa",
+   "text": "Des colons espagnols fondent la ville d'Arequipa dans une vallée fertile au pied du volcan Misti. Bâtie en grande partie de sillar, pierre volcanique blanche, la cité coloniale devient plus tard la Ville blanche."
+  }
+ ]
+}

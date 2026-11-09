@@ -1,0 +1,40 @@
+{
+ "langName": "Slovenščina",
+ "dir": "ltr",
+ "yearFmt": "{y}",
+ "yearBCE": "{y} pr. n. št.",
+ "tagline": "Naša skupna preteklost na enem globusu.",
+ "kicker": "{country} · ob istem času, okoli {yr}",
+ "dek": "Leto, ko je {country} to doživela — in kaj je ostali svet počel v istem trenutku.",
+ "lede": "Ustavite globus na letu {anchor} in poglejte povsod hkrati. Vsak trenutek spodaj je resnična kartica iz 1History.",
+ "connect": [
+  "Medtem drugje…",
+  "V istem trenutku…",
+  "Po vsem svetu…",
+  "V isti dobi…",
+  "In daleč stran…",
+  "Na drugem mestu na globusu…"
+ ],
+ "datesNote": "Datumi so navedeni po najboljšem razumevanju zgodovinarjev; kjer je datum približen ali sporen, je to navedeno.",
+ "diffH2": "Poglejte na globusu",
+ "diff": [
+  [
+   "Vaša zgodovina v središču.",
+   "Lastni trenutek države {country}, ne evropska časovnica."
+  ],
+  [
+   "Ves globus, v enem trenutku.",
+   "Pomaknite se do {yr} in glejte, kaj se je povsod dogajalo hkrati."
+  ],
+  [
+   "Več kot 200 jezikov, povsem brez povezave.",
+   "Brez računov, brez sledenja, brez strežnikov."
+  ]
+ ],
+ "ctaH2": "Raziščite {yr} na vrtečem se globusu",
+ "ctaP": "Brezplačen začetek, brez povezave za vedno.",
+ "btnApp": "Prenesite v App Store",
+ "btnPlay": "Dobite v Google Play",
+ "btnSite": "Obiščite 1history.app",
+ "footerBy": "Avtor Paisarn Likhitpreechakul · Bangkok"
+}

@@ -1,0 +1,39 @@
+{
+ "country": "Spain",
+ "anchor": {
+  "title": "La Alhambra",
+  "text": "Una fortaleza de agua, sombra y geometría, y el lema nazarí, no hay vencedor sino Dios, grabado en ella una y otra vez."
+ },
+ "meanwhile": [
+  {
+   "country": "Niger",
+   "title": "El azalai cruza el Ténéré",
+   "text": "Grandes caravanas de camellos, los azalai, cruzan el Ténéré entre Agadez y las salinas de Bilma. Transportan sal, dátiles y mijo por una de las rutas más duras del Sáhara."
+  },
+  {
+   "country": "Syria",
+   "title": "Tamerlán saquea Damasco",
+   "text": "Tamerlán captura y saquea Damasco en 1401 tras derrotar a las fuerzas mamelucas. Los relatos contemporáneos describen una destrucción extensa y el traslado forzoso de artesanos cualificados a Samarcanda; la ciudad se reconstruye después bajo el dominio mameluco."
+  },
+  {
+   "country": "Antigua and Barbuda",
+   "title": "Caribes insulares",
+   "text": "Hacia el final del periodo precolombino, comunidades de habla kalinago están establecidas en buena parte de las Antillas Menores, Antigua incluida. Los relatos europeos destacaron después la guerra y las incursiones, pero la arqueología y la etnohistoria muestran también desplazamientos regionales, intercambios, pesca y asentamiento."
+  },
+  {
+   "country": "Bangladesh",
+   "title": "El Sultanato de Bengala",
+   "text": "Entre los siglos XIV y XVI, un Sultanato de Bengala independiente gobierna gran parte del delta de Bengala, acuña su propia moneda y sostiene una economía próspera basada en la agricultura, los textiles y el comercio. Sus contactos diplomáticos llegan hasta la China Ming, con embajadas que intercambian regalos insólitos como jirafas."
+  },
+  {
+   "country": "Guinea",
+   "title": "Los jeli guardan la palabra",
+   "text": "En las tierras mandinga, los griots conocidos como jeli custodian las genealogías, la historia y el canto de alabanza, y los transmiten de generación en generación mediante la memoria y la interpretación. Hereditarios y muy formados, sirven de consejeros, mediadores y guardianes de la costumbre."
+  },
+  {
+   "country": "Belize",
+   "title": "Santa Rita pinta Chetumal",
+   "text": "En Santa Rita, capital de la provincia posclásica de Chetumal, los muros lucen frisos pintados en el estilo internacional compartido desde Yucatán hasta Oaxaca. La provincia cultiva el cacao usado como moneda por toda Mesoamérica y controla la ruta comercial que rodea la base de la península."
+  }
+ ]
+}

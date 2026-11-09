@@ -1,0 +1,40 @@
+{
+ "langName": "Slovenčina",
+ "dir": "ltr",
+ "yearFmt": "{y}",
+ "yearBCE": "{y} pred n. l.",
+ "tagline": "Naša spoločná minulosť na jednom glóbuse.",
+ "kicker": "{country} · v tom istom čase, okolo {yr}",
+ "dek": "Rok, keď {country} toto zažila — a čo v tej istej chvíli robil zvyšok sveta.",
+ "lede": "Zastavte glóbus na roku {anchor} a pozrite sa všade naraz. Každý okamih nižšie je skutočná karta z 1History.",
+ "connect": [
+  "Medzitým inde…",
+  "V tej istej chvíli…",
+  "Po celom svete…",
+  "V tej istej dobe…",
+  "A ďaleko odtiaľ…",
+  "Na inom mieste glóbusu…"
+ ],
+ "datesNote": "Dátumy sú uvedené podľa najlepšieho porozumenia historikov; kde je dátum približný alebo sporný, je to uvedené.",
+ "diffH2": "Pozrite sa na glóbuse",
+ "diff": [
+  [
+   "Vaše dejiny v strede.",
+   "Vlastný okamih krajiny {country}, nie európska časová os."
+  ],
+  [
+   "Celý glóbus, v jedinom okamihu.",
+   "Posuňte sa na rok {yr} a sledujte, čo sa dialo všade naraz."
+  ],
+  [
+   "Vyše 200 jazykov, úplne offline.",
+   "Žiadne účty, žiadne sledovanie, žiadne servery."
+  ]
+ ],
+ "ctaH2": "Preskúmajte rok {yr} na otáčajúcom sa glóbuse",
+ "ctaP": "Zadarmo na začiatok, offline navždy.",
+ "btnApp": "Stiahnuť z App Store",
+ "btnPlay": "Získať na Google Play",
+ "btnSite": "Navštívte 1history.app",
+ "footerBy": "Autor Paisarn Likhitpreechakul · Bangkok"
+}

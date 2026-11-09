@@ -1,0 +1,39 @@
+{
+ "country": "El Salvador",
+ "anchor": {
+  "title": "Alvarado en Acajutla",
+  "text": "En 1524, la expedición de Pedro de Alvarado se enfrenta a una gran fuerza indígena cerca de Acajutla. Alvarado relata haber resultado gravemente herido en una pierna durante los combates; las fuerzas españolas mantienen el campo de batalla, pero afrontan una resistencia continua a medida que avanza la conquista."
+ },
+ "meanwhile": [
+  {
+   "country": "Mozambique",
+   "title": "Portugal establece su dominio en la costa de Mozambique",
+   "text": "Portugal establece posiciones fortificadas en la costa de Mozambique desde comienzos del siglo XVI y amplía gradualmente su influencia a lo largo del Zambeze. El sistema de haciendas prazo se desarrolla más tarde en el interior, combinando concesiones de tierras, comercio, poder armado y trabajo forzado."
+  },
+  {
+   "country": "Venezuela",
+   "title": "Colón llega a tierra firme de Sudamérica",
+   "text": "En su tercer viaje, Cristóbal Colón llega al golfo de Paria y al delta del Orinoco y desembarca, su primer pie en tierra firme de Sudamérica."
+  },
+  {
+   "country": "Mali",
+   "title": "La caravana de sal del Azalai cruza el Sáhara",
+   "text": "La caravana de sal del Azalai parte de Tombuctú cruzando el Sáhara hacia las minas de Taoudenni y regresa. Largas filas de camellos llevan grano y mercancías al norte y vuelven cargados de losas de sal."
+  },
+  {
+   "country": "Guatemala",
+   "title": "Alvarado ataca el reino k'iche'",
+   "text": "En 1524, Pedro de Alvarado conduce a las fuerzas españolas y a sus aliados indígenas hacia el altiplano guatemalteco, derrotando a los ejércitos k'iche' y ejecutando a los líderes k'iche' tras entrar en Q'umarkaj. La guerra de conquista, los sistemas coloniales de trabajo, los desplazamientos y las epidemias provocan después una grave pérdida de población en toda la región."
+  },
+  {
+   "country": "Honduras",
+   "title": "Olid inicia la conquista",
+   "text": "En 1524, Cristóbal de Olid desembarca en la costa norte para reclamar Honduras en nombre de Cortés, pero luego rompe con su patrón e intenta establecer su propia autoridad. Facciones españolas rivales derrotan y matan a Olid antes de que Cortés llegue a Honduras, lo que muestra que la conquista temprana también implicó una violenta competencia entre conquistadores."
+  },
+  {
+   "country": "Monaco",
+   "title": "Mónaco cedido a España",
+   "text": "Atrapado entre Francia y el emperador, el señor Agustín Grimaldi pone a Mónaco bajo la protección de Carlos V de España. Durante más de un siglo, guarniciones españolas ocupan el Peñón y subsidios españoles lo pagan, mientras los señores se proclaman soberanos: una independencia arrendada a una gran potencia, la pauta de toda la supervivencia de Mónaco."
+  }
+ ]
+}

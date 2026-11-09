@@ -1,0 +1,39 @@
+{
+ "country": "Moldova",
+ "anchor": {
+  "title": "Biruința de la Vaslui",
+  "text": "La Vaslui, în 1475, Ștefan cel Mare învinge o oaste otomană mai numeroasă condusă de Hadâm Suleiman Pașa. Biruința este una dintre cele mai însemnate izbânzi moldovenești ale perioadei și îi aduce lui Ștefan o largă recunoaștere în Europa creștină."
+ },
+ "meanwhile": [
+  {
+   "title": "Columbus reaches the South American mainland",
+   "text": "On his third voyage, Christopher Columbus reaches the Gulf of Paria and the Orinoco delta and steps ashore, his first landing on the South American mainland.",
+   "country": "Venezuela"
+  },
+  {
+   "title": "Portugal establishes rule on the Mozambique coast",
+   "text": "Portugal establishes fortified positions on the Mozambique coast from the early sixteenth century and gradually expands influence along the Zambezi. The prazo estate system develops later in the interior, combining land grants, trade, armed power and coerced labor.",
+   "country": "Mozambique"
+  },
+  {
+   "title": "The azalai crosses the Ténéré",
+   "text": "Great camel caravans, the azalai, cross the Ténéré between Agadez and the salt pans of Bilma. They carry salt, dates and millet along one of the Sahara's hardest routes.",
+   "country": "Niger"
+  },
+  {
+   "title": "Timur sacks Damascus",
+   "text": "Timur captures and sacks Damascus in 1401 after defeating Mamluk forces. Contemporary accounts describe extensive destruction and the forced transfer of skilled artisans to Samarkand; the city later rebuilds under Mamluk rule.",
+   "country": "Syria"
+  },
+  {
+   "title": "Vatican Apostolic Library",
+   "text": "Pope Sixtus IV formally establishes the Vatican Library and appoints Bartolomeo Platina as its first librarian. The collection begins with about 2,500 Greek and Latin manuscripts and later expands into one of the world's major research libraries.",
+   "country": "Vatican City"
+  },
+  {
+   "title": "Cameroon",
+   "text": "Portuguese sailors reach the Wouri estuary in the fifteenth century and call it Rio dos Camarões, 'river of prawns.' The name later evolves into Kamerun and Cameroon, while the coast becomes part of expanding Atlantic trading networks.",
+   "country": "Cameroon"
+  }
+ ]
+}

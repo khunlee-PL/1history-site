@@ -1,0 +1,40 @@
+{
+ "langName": "Magyar",
+ "dir": "ltr",
+ "yearFmt": "{y}",
+ "yearBCE": "i. e. {y}",
+ "tagline": "Közös múltunk egyetlen földgömbön.",
+ "kicker": "{country} · ugyanabban az időben, {yr} körül",
+ "dek": "Az év, amikor {country} ezt átélte — és mit csinált a világ többi része ugyanabban a pillanatban.",
+ "lede": "Állítsa meg a földgömböt {anchor} événél, és nézzen mindenhová egyszerre. Lent minden pillanat egy valódi kártya a 1History-ból.",
+ "connect": [
+  "Eközben másutt…",
+  "Ugyanabban a pillanatban…",
+  "Világszerte…",
+  "Ugyanabban a korban…",
+  "És messze…",
+  "A földgömb egy másik pontján…"
+ ],
+ "datesNote": "A dátumokat a történészek legjobb tudása szerint adjuk meg; ahol egy dátum hozzávetőleges vagy vitatott, ott ezt jelezzük.",
+ "diffH2": "Nézd meg a földgömbön",
+ "diff": [
+  [
+   "A te történelmed a középpontban.",
+   "{country} saját pillanata, nem Európa idővonala."
+  ],
+  [
+   "Az egész földgömb, egyetlen pillanatban.",
+   "Görgess {yr}-ig, és nézd, mi történt mindenhol egyszerre."
+  ],
+  [
+   "Több mint 200 nyelv, teljesen offline.",
+   "Nincs fiók, nincs követés, nincs szerver."
+  ]
+ ],
+ "ctaH2": "Fedezd fel {yr}-t egy forgó földgömbön",
+ "ctaP": "Ingyenes a kezdéshez, örökre offline.",
+ "btnApp": "Töltsd le az App Store-ból",
+ "btnPlay": "Szerezd meg a Google Playen",
+ "btnSite": "Látogasd meg: 1history.app",
+ "footerBy": "Szerző: Paisarn Likhitpreechakul · Bangkok"
+}

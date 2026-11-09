@@ -1,0 +1,39 @@
+{
+ "country": "Benin",
+ "anchor": {
+  "title": "L'indépendance sous le nom de Dahomey",
+  "text": "Le 1er août 1960, la République du Dahomey prend son indépendance de la France, nommée d'après l'ancien royaume dont elle ne contient même pas le cœur. Elle hérite de frontières coloniales rassemblant Fon, Yoruba, Bariba, Adja et Somba, de trois chefs régionaux rivaux et d'une économie reposant sur l'huile de palme et la subvention française. Le drapeau se lève à Porto-Novo."
+ },
+ "meanwhile": [
+  {
+   "country": "Côte d'Ivoire",
+   "title": "Félix Houphouët-Boigny",
+   "text": "Félix Houphouët-Boigny conduit la Côte d'Ivoire à l'indépendance en 1960 et reste président jusqu'en 1993. Son règne associe des liens étroits avec la France, une croissance rapide tirée par les exportations pendant une grande partie de la période et des limites strictes à l'opposition politique."
+  },
+  {
+   "country": "Republic of the Congo",
+   "title": "Le Moyen-Congo devient indépendant",
+   "text": "L'ancien territoire français du Moyen-Congo devient la République du Congo indépendante le 15 août 1960, avec Brazzaville pour capitale. Fulbert Youlou est le premier président du nouvel État."
+  },
+  {
+   "country": "Cuba",
+   "title": "L'attaque de la caserne Moncada",
+   "text": "Cent trente-cinq jeunes hommes attaquent une caserne de l'armée et c'est un fiasco. Castro est capturé, déclare à son procès que l'histoire l'absoudra, et ressort en moins de deux ans à la faveur d'une amnistie. La pire erreur de Batista."
+  },
+  {
+   "country": "Eswatini",
+   "title": "Le Swaziland accède à l'indépendance",
+   "text": "Le Royaume du Swaziland devient indépendant du Royaume-Uni sous le roi Sobhuza II. Le petit royaume enclavé se trouve entre l'Afrique du Sud de l'apartheid et le Mozambique, dont les territoires deviennent des arènes de conflit à l'époque de la guerre froide."
+  },
+  {
+   "country": "Burkina Faso",
+   "title": "La Haute-Volta est rétablie",
+   "text": "La France rétablit la Haute-Volta dans ses anciennes limites, répondant aux appels mossis à restaurer le territoire. Ouagadougou redevient le siège d'une colonie unique."
+  },
+  {
+   "country": "Kiribati",
+   "title": "Les îles Ellice font sécession",
+   "text": "Les Ellicois polynésiens, minorité dans une colonie majoritairement micronésienne, votent à neuf contre un pour partir. En 1975, ils se séparent et prennent le nom de Tuvalu, accédant à la pleine indépendance en 1978. La séparation est pacifique et quasi unanime, un rare divorce colonial réglé proprement par référendum, et elle laisse les Gilbert poursuivre seules vers la souveraineté."
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "langName": "Latviešu",
+ "dir": "ltr",
+ "yearFmt": "{y}",
+ "yearBCE": "{y} p.m.ē.",
+ "tagline": "Mūsu kopīgā pagātne uz vienas zemeslodes.",
+ "kicker": "{country} · tajā pašā laikā, ap {yr}",
+ "dek": "Gads, kad {country} to piedzīvoja, — un ko tajā pašā brīdī darīja pārējā pasaule.",
+ "lede": "Apturiet zemeslodi pie {anchor} gada un paskatieties visur uzreiz. Katrs mirklis zemāk ir īsta kartīte no 1History.",
+ "connect": [
+  "Tikmēr citur…",
+  "Tajā pašā brīdī…",
+  "Visā pasaulē…",
+  "Tajā pašā laikmetā…",
+  "Un tālu prom…",
+  "Citviet uz zemeslodes…"
+ ],
+ "datesNote": "Datumi norādīti atbilstoši vēsturnieku labākajai izpratnei; ja datums ir aptuvens vai apstrīdēts, tas ir norādīts.",
+ "diffH2": "Skatiet uz zemeslodes",
+ "diff": [
+  [
+   "Jūsu vēsture centrā.",
+   "{country} pašas mirklis, nevis Eiropas laika līnija."
+  ],
+  [
+   "Visa zemeslode vienā mirklī.",
+   "Ritiniet līdz {yr} un vērojiet, kas notika visur vienlaikus."
+  ],
+  [
+   "Vairāk nekā 200 valodu, pilnīgi bezsaistē.",
+   "Bez kontiem, bez izsekošanas, bez serveriem."
+  ]
+ ],
+ "ctaH2": "Izpētiet {yr} uz griežošās zemeslodes",
+ "ctaP": "Bezmaksas sākums, bezsaistē mūžīgi.",
+ "btnApp": "Lejupielādējiet App Store",
+ "btnPlay": "Iegūstiet Google Play",
+ "btnSite": "Apmeklējiet 1history.app",
+ "footerBy": "Autors Paisarn Likhitpreechakul · Bangkoka"
+}

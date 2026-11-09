@@ -1,0 +1,39 @@
+{
+ "country": "Hungary",
+ "anchor": {
+  "title": "Király nélküli királyság",
+  "text": "Horthy, egy tengerpart nélküli ország admirálisa, kormányzóként uralkodik egy monarchia helyett, amelynek nincs uralkodója, huszonnégy éven át."
+ },
+ "meanwhile": [
+  {
+   "country": "Ruanda",
+   "title": "Ruanda-Urundi",
+   "text": "Belgium 1922-től népszövetségi mandátum alatt igazgatja Ruanda-Urundit, és Ruandát a monarchián és a főnöki hierarchián keresztül kormányozza. A gyarmati faji elméletek és közigazgatási intézkedések megszilárdítják a hutu–tuszi megkülönböztetést, és a mandátum nagy részében a tuszi elitet részesítik előnyben."
+  },
+  {
+   "country": "Mali",
+   "title": "Francia Szudán tirailleur-öket küld a nagy háborúba",
+   "text": "Franciaország Francia Szudánból toboroz és soroz be férfiakat a többnyire a szenegáli tirailleur-ök közé sorolt alakulatokba. A gyarmat katonái az első világháború idején Franciaországban, a Földközi-tengeren és más hadszíntereken szolgálnak."
+  },
+  {
+   "country": "Zambia",
+   "title": "Észak-Rhodesia",
+   "text": "Észak-Rhodesiát 1911-ben a Brit Dél-afrikai Társaság által igazgatott területként hozzák létre. A társasági uralom a bányászatot, az adózást és a munkaerő-toborzást helyezi előtérbe, mielőtt Nagy-Britannia 1924-ben átvenné a közvetlen gyarmati igazgatást."
+  },
+  {
+   "country": "Burkina Faso",
+   "title": "Felső-Voltát felosztják",
+   "text": "Franciaország feloszlatja Felső-Volta gyarmatát, és területét Elefántcsontpart, Francia Szudán és Niger között osztja fel. A moszi szívvidéket a következő tizenöt évben a partvidékről kormányozzák."
+  },
+  {
+   "country": "Mozambik",
+   "title": "A kényszerített gyapotrendszer",
+   "text": "A portugál hatóságok Észak-Mozambik-szerte arra kötelezik az afrikai gazdákat, hogy gyapotot termesszenek, és azt rögzített áron adják el a gyarmati koncessziós társaságoknak. A rendszer évtizedekig alakítja a vidéki életet, és a gyarmati uralom elleni tartós sérelemmé válik."
+  },
+  {
+   "country": "Azerbajdzsán",
+   "title": "Szovjet-Azerbajdzsán",
+   "text": "Az Azerbajdzsáni Szovjet Szocialista Köztársaság a Vörös Hadsereg Bakuba való bevonulásával jön létre. A köztársaság a Szovjetunió részévé válik, olajmezői pedig a szovjet gazdaság központi elemei lesznek."
+  }
+ ]
+}

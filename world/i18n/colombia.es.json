@@ -1,0 +1,39 @@
+{
+ "country": "Colombia",
+ "anchor": {
+  "title": "Gran Colombia",
+  "text": "El Congreso de Cúcuta de 1821 adopta una constitución para la República de Colombia, luego llamada Gran Colombia, que une a las actuales Colombia, Venezuela, Ecuador y Panamá bajo un gobierno republicano centralizado encabezado por Simón Bolívar y Francisco de Paula Santander."
+ },
+ "meanwhile": [
+  {
+   "country": "Costa Rica",
+   "title": "La noticia de la independencia llega a Costa Rica",
+   "text": "La noticia de la declaración de independencia centroamericana del 15 de septiembre llega a Cartago el 13 de octubre de 1821. Las autoridades costarricenses debaten entonces el futuro político de la provincia, y el 29 de octubre los representantes reunidos en Cartago declaran la independencia de España."
+  },
+  {
+   "country": "The Dominican Republic",
+   "title": "Independencia efímera",
+   "text": "José Núñez de Cáceres proclama el Estado independiente de Haití Español y pone fin al dominio colonial español en el este de la isla. El efímero Estado busca la unión con la Gran Colombia antes de verse superado por los acontecimientos."
+  },
+  {
+   "country": "Guatemala",
+   "title": "Acta de Independencia de Centroamérica",
+   "text": "Representantes reunidos en Ciudad de Guatemala firman una declaración que libera a las provincias de Centroamérica del dominio español, una fecha que aún se celebra en toda la región."
+  },
+  {
+   "country": "Honduras",
+   "title": "Del Valle redacta la independencia",
+   "text": "A José Cecilio del Valle, erudito y funcionario nacido en Honduras, se le atribuye tradicionalmente la redacción del Acta de Independencia de 1821 firmada en Ciudad de Guatemala. Honduras se independiza de España junto con las demás provincias centroamericanas, se une brevemente al Imperio mexicano y luego entra en la nueva federación centroamericana."
+  },
+  {
+   "country": "New Zealand",
+   "title": "Hongi Hika consigue mosquetes",
+   "text": "El jefe ngāpuhi Hongi Hika navega a Inglaterra, es agasajado y, de camino a casa, cambia los regalos por mosquetes en Sídney. Armado como ningún rival lo está, cae sobre las tribus del sur. Las Guerras de los Mosquetes que desencadena matan quizá a veinte mil personas y redibujan el mapa de la Nueva Zelanda maorí."
+  },
+  {
+   "country": "Nicaragua",
+   "title": "La independencia de España",
+   "text": "El 15 de septiembre de 1821, representantes reunidos en Ciudad de Guatemala declaran independientes de España a las provincias centroamericanas, y la Provincia de Nicaragua se independiza junto con ellas. Nicaragua se incorpora brevemente al Imperio mexicano y, tras el colapso de ese imperio, se une a la nueva federación centroamericana."
+  }
+ ]
+}

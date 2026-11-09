@@ -1,0 +1,39 @@
+{
+ "country": "Senegal",
+ "anchor": {
+  "title": "Gorée et le commerce atlantique",
+  "text": "Des marchands néerlandais occupent la petite île au large du Cap-Vert et y établissent un comptoir fortifié pour le commerce atlantique. Au cours des siècles suivants, l'île passe entre plusieurs puissances européennes et sert d'escale dans le commerce de la côte sénégalaise, dont la traite des personnes réduites en esclavage."
+ },
+ "meanwhile": [
+  {
+   "country": "Bolivia",
+   "title": "Potosí",
+   "text": "Potosí devient l'un des grands centres d'extraction d'argent de l'Empire espagnol. À partir de 1573, la mita coloniale oblige plus de 200 communautés autochtones à envoyer environ un septième de leurs hommes adultes au service de travail par roulement. L'extraction, l'exposition au mercure, la coercition et la maladie imposent de lourds coûts humains, mais les affirmations ultérieures de huit millions de morts ne constituent pas une estimation démographique fiable."
+  },
+  {
+   "country": "Mali",
+   "title": "La caravane de sel de l'azalaï traverse le Sahara",
+   "text": "La caravane de sel de l'azalaï part de Tombouctou à travers le Sahara vers les mines de Taoudenni et en revient. De longues files de chameaux portent grain et marchandises vers le nord et reviennent chargées de dalles de sel."
+  },
+  {
+   "country": "Barbados",
+   "title": "Les plantations sucrières des Caraïbes",
+   "text": "Les domaines sucriers barbadiens associent des moulins à vent ou à traction animale à des sucreries où le jus de canne est traité dans des chaudrons de cuivre chauffés. Les travailleurs réduits en esclavage affrontent de longues heures, la chaleur, les machines et d'autres dangers graves tout au long de la culture de la canne et de la fabrication du sucre."
+  },
+  {
+   "country": "Mozambique",
+   "title": "Le Portugal remonte le Zambèze",
+   "text": "Les marchands et fonctionnaires portugais remontent le Zambèze au cours du XVIe siècle, cherchant à contrôler l'or, l'ivoire et le commerce régional. Avec le temps, le système des prazos crée des domaines semi-autonomes dont le pouvoir repose sur les alliances locales, les suites armées et le travail forcé."
+  },
+  {
+   "country": "Guyana",
+   "title": "Berbice, une colonie à part",
+   "text": "Berbice se développe comme colonie néerlandaise distincte le long de la rivière Berbice. L'expansion des plantations s'est ensuite fortement appuyée sur le travail des Africains asservis, tandis que digues, canaux et écluses transformaient les basses zones humides côtières pour l'agriculture."
+  },
+  {
+   "country": "Federated States of Micronesia",
+   "title": "Isokelekel brise les Saudeleur",
+   "text": "Un guerrier nommé Isokelekel débarque à Pohnpei avec 333 combattants et fait la guerre au dernier seigneur Saudeleur, dont le règne est devenu cruel. Nan Madol tombe. Il abolit le trône unique et répartit Pohnpei entre des chefs suprêmes, les Nahnmwarki, dont l'île garde encore les titres. La tradition orale compte depuis lui vingt-deux générations de chefs."
+  }
+ ]
+}

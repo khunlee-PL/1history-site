@@ -1,0 +1,39 @@
+{
+ "country": "Peru",
+ "anchor": {
+  "title": "Se construye Machu Picchu",
+  "text": "Los incas construyen Machu Picchu a mediados del siglo XV sobre una cresta que domina el valle del Urubamba. Interpretado a menudo como una hacienda real con funciones ceremoniales, su propósito exacto sigue debatiéndose; se abandona durante la época de la conquista española."
+ },
+ "meanwhile": [
+  {
+   "country": "Venezuela",
+   "title": "Colón llega a tierra firme de Sudamérica",
+   "text": "En su tercer viaje, Cristóbal Colón llega al golfo de Paria y al delta del Orinoco y desembarca, su primer pie en tierra firme de Sudamérica."
+  },
+  {
+   "country": "Niger",
+   "title": "El azalai cruza el Ténéré",
+   "text": "Grandes caravanas de camellos, los azalai, cruzan el Ténéré entre Agadez y las salinas de Bilma. Transportan sal, dátiles y mijo por una de las rutas más duras del Sáhara."
+  },
+  {
+   "country": "Syria",
+   "title": "Tamerlán saquea Damasco",
+   "text": "Tamerlán captura y saquea Damasco en 1401 tras derrotar a las fuerzas mamelucas. Los relatos contemporáneos describen una destrucción extensa y el traslado forzoso de artesanos cualificados a Samarcanda; la ciudad se reconstruye después bajo el dominio mameluco."
+  },
+  {
+   "country": "Mozambique",
+   "title": "Portugal establece su dominio en la costa de Mozambique",
+   "text": "Portugal establece posiciones fortificadas en la costa de Mozambique desde comienzos del siglo XVI y amplía gradualmente su influencia a lo largo del Zambeze. El sistema de haciendas prazo se desarrolla más tarde en el interior, combinando concesiones de tierras, comercio, poder armado y trabajo forzado."
+  },
+  {
+   "country": "Bhutan",
+   "title": "Pema Lingpa, el tertön",
+   "text": "El revelador de tesoros Pema Lingpa se sumerge en un lago de Bumthang sosteniendo una lámpara de mantequilla encendida y emerge con ella todavía ardiendo y una escritura oculta en la mano. El estanque se llama Mebartsho, el Lago Ardiente. Sus danzas sagradas y su orfebrería perduran, y la familia real hace remontar su sangre hasta él."
+  },
+  {
+   "country": "Dominica",
+   "title": "El bastión kalinago",
+   "text": "Las comunidades kalinago usan el terreno abrupto y la costa oriental de Dominica como parte de una red más amplia de asentamiento, intercambio y guerra en las Antillas Menores. Una resistencia tenaz y un terreno difícil ayudan a preservar en Dominica una presencia indígena considerable durante más tiempo que en muchas islas vecinas."
+  }
+ ]
+}

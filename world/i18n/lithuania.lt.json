@@ -1,0 +1,39 @@
+{
+ "country": "Lithuania",
+ "anchor": {
+  "title": "Vilnius užimamas 1655 m.",
+  "text": "Rusų ir kazokų pajėgos užima Vilnių septynioliktojo amžiaus vidurio karų metu ir keletą metų laiko sostinę. Miestas konflikto metu kenčia nuo gaisrų ir didelių nuostolių."
+ },
+ "meanwhile": [
+  {
+   "country": "Barbadosas",
+   "title": "Cukraus plantacijos Karibuose",
+   "text": "Barbadoso cukraus dvarai jungia vėjo ar gyvulių varomus malūnus su virimo namais, kuriuose cukranendrių sultys apdorojamos kaitinamuose variniuose induose. Pavergti darbininkai per visą cukranendrių auginimą ir cukraus gamybą susiduria su ilgomis valandomis, karščiu, mechanizmais ir kitais rimtais pavojais."
+  },
+  {
+   "country": "Bolivija",
+   "title": "Potosi",
+   "text": "Potosi tampa vienu didžiųjų Ispanijos imperijos sidabro kasybos centrų. Nuo 1573 m. kolonijinė mita reikalauja, kad daugiau nei 200 vietinių bendruomenių siųstų maždaug vieną iš septynių suaugusių vyrų rotacinei priverstinio darbo tarnybai. Kasyba, apsinuodijimas gyvsidabriu, prievarta ir ligos atneša sunkių žmonių aukų; tačiau vėlesni teiginiai apie aštuonis milijonus mirčių nėra patikimas demografinis vertinimas."
+  },
+  {
+   "country": "Malis",
+   "title": "Druskos karavanas azalai kerta Sacharą",
+   "text": "Druskos karavanas azalai leidžiasi iš Timbuktu per Sacharą į Taudenio kasyklas ir atgal. Ilgos kupranugarių virtinės neša grūdus ir prekes į šiaurę ir grįžta prikrautos druskos plokščių."
+  },
+  {
+   "country": "Antigva ir Barbuda",
+   "title": "Cukrus užvaldo salą",
+   "text": "Vėlyvajame septynioliktame amžiuje cukranendrės išstumia didžią dalį ankstesnio Antigvos tabako ir maisto ūkio. Didelės plantacijos plečiasi ir vis labiau remiasi pavergtų afrikiečių darbu, sukurdamos gyventojus, kuriuose pavergtieji gerokai viršija laisvus europiečius."
+  },
+  {
+   "country": "Baltarusija",
+   "title": "Tvanas nusiaubia kraštą",
+   "text": "Kare su Maskva Baltarusijos miestai šturmuojami ir deginami. Mstislavlyje caro kariuomenė išžudo miestiečius – tai baltarusiai mena kaip Trubeckojaus tvaną. Vidurio amžiaus karai sukelia katastrofiškus gyventojų nuostolius ir sunaikinimą; demografinio nuosmukio vertinimai labai skiriasi."
+  },
+  {
+   "country": "Jamaika",
+   "title": "Anglai užima Jamaiką",
+   "text": "1655 m. Oliverio Kromvelio pasiųsta anglų ekspedicija nepajėgia paimti Santo Domingo, bet vietoj to užgrobia ispanų Jamaiką. Anglų okupacija pradeda didelę politinę ir ekonominę salos pertvarką ir ilgainiui plačiu mastu išplečia plantacinę vergovę."
+  }
+ ]
+}

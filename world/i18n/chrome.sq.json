@@ -1,0 +1,40 @@
+{
+ "langName": "Shqip",
+ "dir": "ltr",
+ "yearFmt": "{y}",
+ "yearBCE": "{y} p.e.s.",
+ "tagline": "E kaluara jonë e përbashkët në një glob të vetëm.",
+ "kicker": "{country} · në të njëjtën kohë, rreth {yr}",
+ "dek": "Viti kur {country} e përjetoi këtë — dhe çfarë po bënte pjesa tjetër e botës në të njëjtin çast.",
+ "lede": "Ndaloje globin te viti i {anchor} dhe shiko kudo njëherësh. Çdo çast më poshtë është një kartë e vërtetë nga 1History.",
+ "connect": [
+  "Ndërkohë, diku tjetër…",
+  "Në të njëjtin çast…",
+  "Anembanë botës…",
+  "Në të njëjtën epokë…",
+  "Dhe larg…",
+  "Në një pikë tjetër të globit…"
+ ],
+ "datesNote": "Datat jepen sipas kuptimit më të mirë të historianëve; aty ku një datë është e përafërt ose e diskutueshme, kjo tregohet.",
+ "diffH2": "Shihe në glob",
+ "diff": [
+  [
+   "Historia jote në qendër.",
+   "Çasti i vetë {country}, jo kronologjia e Evropës."
+  ],
+  [
+   "I gjithë globi, në një çast.",
+   "Rrëshqit deri te {yr} dhe shiko se ç'po ndodhte kudo njëkohësisht."
+  ],
+  [
+   "Mbi 200 gjuhë, plotësisht pa internet.",
+   "Pa llogari, pa gjurmim, pa serverë."
+  ]
+ ],
+ "ctaH2": "Eksploro {yr} në një glob që rrotullohet",
+ "ctaP": "Falas për të nisur, pa internet përgjithmonë.",
+ "btnApp": "Shkarkoje në App Store",
+ "btnPlay": "Merre në Google Play",
+ "btnSite": "Vizito 1history.app",
+ "footerBy": "Nga Paisarn Likhitpreechakul · Bangkok"
+}

@@ -1,0 +1,40 @@
+{
+ "langName": "Bahasa Indonesia",
+ "dir": "ltr",
+ "yearFmt": "{y}",
+ "yearBCE": "{y} SM",
+ "tagline": "Masa lalu bersama kita di atas satu bola dunia.",
+ "kicker": "{country} · pada saat yang sama, sekitar {yr}",
+ "dek": "Tahun ketika {country} menyaksikan ini — dan apa yang sedang dilakukan dunia selebihnya pada saat yang sama.",
+ "lede": "Bekukan bola dunia pada tahun {anchor}, lalu pandangi segala penjuru sekaligus. Tiap momen di bawah ini adalah kartu nyata dari 1History.",
+ "connect": [
+  "Pada saat yang sama, di tempat lain…",
+  "Di saat yang bersamaan…",
+  "Di seluruh penjuru dunia…",
+  "Pada zaman yang sama…",
+  "Dan jauh di sana…",
+  "Di tempat lain di bumi ini…"
+ ],
+ "datesNote": "Penanggalan diberikan sebagaimana paling dipahami para sejarawan; bila suatu tanggal bersifat perkiraan atau diperdebatkan, hal itu dinyatakan.",
+ "diffH2": "Lihat di bola dunia",
+ "diff": [
+  [
+   "Sejarahmu di pusatnya.",
+   "Momen milik {country} sendiri, bukan lini masa Eropa."
+  ],
+  [
+   "Seluruh bola dunia, dalam satu saat.",
+   "Geser ke {yr} dan saksikan apa yang terjadi di mana-mana sekaligus."
+  ],
+  [
+   "200+ bahasa, sepenuhnya luring.",
+   "Tanpa akun, tanpa pelacakan, tanpa server."
+  ]
+ ],
+ "ctaH2": "Jelajahi {yr} pada satu bola dunia yang berputar",
+ "ctaP": "Gratis untuk memulai, luring selamanya.",
+ "btnApp": "Unduh di App Store",
+ "btnPlay": "Dapatkan di Google Play",
+ "btnSite": "Kunjungi 1history.app",
+ "footerBy": "Oleh Paisarn Likhitpreechakul · Bangkok"
+}

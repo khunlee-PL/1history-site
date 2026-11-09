@@ -1,0 +1,39 @@
+{
+ "country": "Montenegro",
+ "anchor": {
+  "title": "Почиње династија Петровић-Његош",
+  "text": "Данило Шћепчевић из Његуша постаје владика цетињски, и столица владике се устаљује у његовом братству, прелазећи са стрица на синовца јер епископи не узимају жене. Лоза Петровић-Његош влада Црном Гором до 1918. Данило усмерава планинска племена ка Русији и даље од Истанбула."
+ },
+ "meanwhile": [
+  {
+   "title": "Sugar plantations in the Caribbean",
+   "text": "Barbadian sugar estates combine wind- or animal-powered mills with boiling houses where cane juice is processed through heated copper vessels. Enslaved workers face long hours, heat, machinery and other serious hazards throughout cane cultivation and sugar processing.",
+   "country": "Barbados"
+  },
+  {
+   "title": "Potosí",
+   "text": "Potosí becomes one of the Spanish Empire's great silver-mining centers. From 1573 the colonial mita requires more than 200 Indigenous communities to send roughly one-seventh of their adult men for rotating labor service. Mining, mercury exposure, coercion and disease impose severe human costs, but later claims of eight million deaths are not a reliable demographic estimate.",
+   "country": "Bolivia"
+  },
+  {
+   "title": "The Azalai salt caravan crosses the Sahara",
+   "text": "The Azalai salt caravan sets out from Timbuktu across the Sahara to the mines of Taoudenni and back. Long files of camels carry grain and goods north and return laden with slabs of salt.",
+   "country": "Mali"
+  },
+  {
+   "title": "The French west",
+   "text": "Under the Treaty of Ryswick, Spain and France end a wider European war and France's hold over the western part of Hispaniola is recognised. The island is gradually divided between the Spanish east and the French colony of Saint-Domingue.",
+   "country": "The Dominican Republic"
+  },
+  {
+   "title": "The last Maya kingdom",
+   "text": "In 1697 Spanish forces capture Nojpetén, the island capital of the Itza on Lake Petén Itzá. The conquest ends the independence of the last major Maya kingdom to remain outside sustained Spanish rule, more than 170 years after Cortés passed through the region.",
+   "country": "Guatemala"
+  },
+  {
+   "title": "Jacmel",
+   "text": "On the southern coast the town of Jacmel grows as a port shipping coffee and other produce. In later centuries it becomes known for its architecture, its carnival and its artists.",
+   "country": "Haiti"
+  }
+ ]
+}

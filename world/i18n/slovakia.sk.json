@@ -1,0 +1,39 @@
+{
+ "country": "Slovakia",
+ "anchor": {
+  "title": "Samuel Mikovíni mapuje kráľovstvo",
+  "text": "Polyhistor Samuel Mikovíni učí na banskej škole v Banskej Štiavnici a zameriava Uhorské kráľovstvo, pričom kreslí jedny z jeho prvých presných máp."
+ },
+ "meanwhile": [
+  {
+   "country": "Svätá Lucia",
+   "title": "Cukor a zotročená väčšina",
+   "text": "Plantážnici menia údolia na cukrové majetky, na ktorých pracujú zotročení Afričania privážaní cez Stredný priechod, až mnohonásobne prevyšujú počet belochov. Trstina, rum a melasa obohacujú zopár rodín. Práca, ktorá ich obohacuje, je vynútená, brutálna a smrteľná, a obyvateľstvo ostrova tvoria prevažne potomkovia zotročených."
+  },
+  {
+   "country": "Bolívia",
+   "title": "Potosí",
+   "text": "Potosí sa stáva jedným z veľkých centier ťažby striebra Španielskej ríše. Od roku 1573 koloniálna mita vyžaduje, aby viac než 200 pôvodných spoločenstiev posielalo približne jedného zo siedmich dospelých mužov na rotujúcu nútenú prácu. Ťažba, otrava ortuťou, nátlak a choroby prinášajú ťažké ľudské straty; neskoršie tvrdenia o ôsmich miliónoch mŕtvych však nie sú spoľahlivým demografickým odhadom."
+  },
+  {
+   "country": "Maurícius",
+   "title": "Bertrand-François Mahé de La Bourdonnais",
+   "text": "Energický guvernér Mahé de La Bourdonnais rozvíja Bourbon a susedný Île de France. Buduje prístavy a cesty a spája ostrovy do strategickej základne v Indickom oceáne."
+  },
+  {
+   "country": "Antigua a Barbuda",
+   "title": "Princ Klaas",
+   "text": "Roku 1736 koloniálne úrady obviňujú zotročeného muža známeho ako princ Klaas, čiže Court, a ďalších z prípravy povstania proti plantážnickej vláde Antiguy. Úrady reagujú hromadnými procesmi, popravami a deportáciami. Historici naďalej diskutujú, do akej miery údajné sprisahanie zodpovedalo plánu, ktorý opísali koloniálni žalobcovia."
+  },
+  {
+   "country": "Ekvádor",
+   "title": "Meranie tvaru Zeme",
+   "text": "Výprava Francúzskej akadémie vied pod vedením Charlesa Marieho de La Condamine meria oblúk poludníka pri rovníku, aby pomohla určiť tvar Zeme."
+  },
+  {
+   "country": "Irán",
+   "title": "Nádir Šáh",
+   "text": "Nádir Šáh sa roku 1736 vyšvihne z vojenského velenia na iránsky trón, porazí afganské a osmanské sily a vybuduje krátko trvajúcu ríšu siahajúcu do Kaukazu, Strednej Ázie a Indie."
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "country": "Cyprus",
+ "anchor": {
+  "title": "Το βασίλειο-πόλη της Σαλαμίνας",
+  "text": "Κοντά στις εκβολές του ποταμού Πεδιαίου, άποικοι ιδρύουν τη Σαλαμίνα, που εξελίσσεται στο σπουδαιότερο από τα βασίλεια-πόλεις του νησιού. Το λιμάνι της, οι αγορές και το μεταγενέστερο ρωμαϊκό γυμνάσιο την καθιστούν κέντρο της κυπριακής ζωής για σχεδόν δύο χιλιάδες χρόνια."
+ },
+ "meanwhile": [
+  {
+   "title": "The alphabet goes out",
+   "text": "Phoenician traders carry a 22-letter writing system around the Mediterranean. Greek communities adapt it, and related scripts later influence many alphabets across Europe and western Asia.",
+   "country": "Lebanon"
+  },
+  {
+   "title": "Late Bronze Age collapse",
+   "text": "Ugarit is destroyed around the end of the Late Bronze Age, amid the wider collapse of eastern Mediterranean palace societies. Letters from the city's final decades describe military danger and disrupted shipping; alphabetic writing survives elsewhere after Ugarit's fall.",
+   "country": "Syria"
+  },
+  {
+   "title": "Cuello, the first villages",
+   "text": "Cuello preserves early village occupation in the Maya lowlands, with houses, burials and pottery dating back well into the first millennium BCE and perhaps earlier. Its long sequence is important for understanding the emergence of settled farming communities in northern Belize.",
+   "country": "Belize"
+  },
+  {
+   "title": "Zoroaster",
+   "text": "Zoroaster, whose date and homeland remain debated, teaches a religion centered on Ahura Mazda, moral choice, and judgment after death. Zoroastrian ideas later developed in conversation with the religious worlds of Judaism, Christianity, and Islam, but direct lines of influence are debated.",
+   "country": "Afghanistan"
+  },
+  {
+   "title": "Madriu-Perafita-Claror Valley",
+   "text": "In the glacial valley of Madriu-Perafita-Claror, herders drive sheep and cattle to the summer grass, raise dry-stone huts and smelt iron from the rock. Seasonal pastoralism and later ironworking help shape the cultural landscape that UNESCO now recognizes as World Heritage.",
+   "country": "Andorra"
+  },
+  {
+   "title": "Ubangian speakers take root",
+   "text": "Ubangian languages have long been spoken across parts of the central African savanna. Archaeology and historical linguistics indicate deep population movements in the region, but modern Banda, Gbaya, Zande and Ngbaka identities cannot be traced to a single population at a precise date.",
+   "country": "Central African Republic"
+  }
+ ]
+}

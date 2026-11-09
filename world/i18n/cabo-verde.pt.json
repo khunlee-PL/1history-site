@@ -1,0 +1,39 @@
+{
+ "country": "Cabo Verde",
+ "anchor": {
+  "title": "Ribeira Grande is founded",
+  "text": "Portuguese settlers establish Ribeira Grande on Santiago in the 1460s. The town becomes an important early Atlantic colonial port, closely tied to commerce with West Africa and to the trafficking and forced labor of enslaved Africans."
+ },
+ "meanwhile": [
+  {
+   "country": "Venezuela",
+   "title": "Columbus reaches the South American mainland",
+   "text": "On his third voyage, Christopher Columbus reaches the Gulf of Paria and the Orinoco delta and steps ashore, his first landing on the South American mainland."
+  },
+  {
+   "country": "Mozambique",
+   "title": "Portugal estabelece o domínio na costa de Moçambique",
+   "text": "Portugal estabelece posições fortificadas na costa de Moçambique a partir do início do século XVI e expande gradualmente a influência ao longo do Zambeze. O sistema de prazos desenvolve-se mais tarde no interior, combinando concessões de terra, comércio, poder armado e trabalho forçado."
+  },
+  {
+   "country": "Niger",
+   "title": "The azalai crosses the Ténéré",
+   "text": "Great camel caravans, the azalai, cross the Ténéré between Agadez and the salt pans of Bilma. They carry salt, dates and millet along one of the Sahara's hardest routes."
+  },
+  {
+   "country": "Syria",
+   "title": "Timur sacks Damascus",
+   "text": "Timur captures and sacks Damascus in 1401 after defeating Mamluk forces. Contemporary accounts describe extensive destruction and the forced transfer of skilled artisans to Samarkand; the city later rebuilds under Mamluk rule."
+  },
+  {
+   "country": "Sierra Leone",
+   "title": "Pedro de Sintra names Sierra Leone",
+   "text": "The Portuguese captain Pedro de Sintra sails past a range of thunder-wreathed peaks above a great harbor and names them Serra Lyoa, the Lion Mountains. Whether for their shape or the growl of storms breaking on them, the name sticks, and becomes a country."
+  },
+  {
+   "country": "Bosnia and Herzegovina",
+   "title": "The kingdom falls to the Ottomans",
+   "text": "Mehmed the Conqueror storms into Bosnia and takes fortress after fortress. The last king, Stephen Tomašević, surrenders at Ključ on a promise of safe conduct; the sultan's jurist voids it, and Stephen is beheaded. In one summer the medieval kingdom ends and Ottoman Bosnia begins."
+  }
+ ]
+}

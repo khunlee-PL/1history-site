@@ -1,0 +1,39 @@
+{
+ "country": "Uruguay",
+ "anchor": {
+  "title": "Se funda Montevideo",
+  "text": "Para frenar a los portugueses, España fortifica una bahía con la única colina de esa costa y asienta tras sus murallas a familias llegadas de Canarias. Montevideo se convierte en el gran puerto natural del Plata y, con el tiempo, en la capital de la nación."
+ },
+ "meanwhile": [
+  {
+   "country": "Saint Lucia",
+   "title": "El azúcar y la mayoría esclavizada",
+   "text": "Los hacendados tallan los valles en plantaciones de azúcar trabajadas por africanos esclavizados, traídos por el Paso del Atlántico hasta superar con mucho en número a los blancos. La caña, el ron y la melaza enriquecen a unas pocas familias. El trabajo que las enriquece es forzado, brutal y letal, y la población de la isla desciende en su inmensa mayoría de las personas esclavizadas."
+  },
+  {
+   "country": "Bolivia",
+   "title": "Potosí",
+   "text": "Potosí se convierte en uno de los grandes centros mineros de plata del Imperio español. Desde 1573 la mita colonial obliga a más de 200 comunidades indígenas a enviar alrededor de un séptimo de sus hombres adultos para un servicio laboral rotatorio. La minería, la exposición al mercurio, la coacción y la enfermedad imponen un coste humano gravísimo, pero las afirmaciones posteriores de ocho millones de muertes no son una estimación demográfica fiable."
+  },
+  {
+   "country": "Azerbaijan",
+   "title": "Rusia llega a la costa del Caspio",
+   "text": "Las fuerzas rusas al mando de Pedro el Grande hacen campaña por la orilla del Caspio y toman Bakú. La guerra termina con un tratado que cede la costa occidental a Rusia, aunque las conquistas resultan efímeras."
+  },
+  {
+   "country": "Guinea",
+   "title": "El Imamato de Futa Yallon",
+   "text": "En el siglo XVIII dirigentes fulani musulmanes establecen el Imamato de Futa Yallon en las tierras altas de la actual Guinea. El Estado se gobierna mediante una federación de provincias e instituciones islámicas y se sostiene con la agricultura, el comercio y un extenso trabajo esclavo hasta la conquista francesa de finales del siglo XIX."
+  },
+  {
+   "country": "Kazakhstan",
+   "title": "La Gran Catástrofe",
+   "text": "Los ejércitos dzúngaros arrollan a los zhuz kazajos en una catástrofe recordada como el Aqtaban Shubyryndy, la «Gran Catástrofe». Muchos kazajos huyen de sus pastos hacia el oeste antes de reagruparse para resistir."
+  },
+  {
+   "country": "Iran",
+   "title": "Los afganos saquean Isfahán",
+   "text": "Las fuerzas afganas asedian y toman Isfahán en 1722, poniendo fin al gobierno safávida en la capital. El colapso abre un periodo prolongado de guerra y fragmentación política."
+  }
+ ]
+}

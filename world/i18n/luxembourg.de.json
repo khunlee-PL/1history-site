@@ -1,0 +1,39 @@
+{
+ "country": "Luxembourg",
+ "anchor": {
+  "title": "Die Kirche, die zur Kathedrale wird",
+  "text": "Jesuiten beginnen im Herzen der Festungsstadt eine Kirche, erbaut im spätgotischen und Renaissance-Stil. Sie wird später zur Kathedrale Notre-Dame und zur Grablege der großherzoglichen Familie."
+ },
+ "meanwhile": [
+  {
+   "country": "Mali",
+   "title": "Die Azalai-Salzkarawane durchquert die Sahara",
+   "text": "Die Azalai-Salzkarawane bricht von Timbuktu aus durch die Sahara zu den Minen von Taoudenni und zurück auf. Lange Reihen von Kamelen tragen Getreide und Waren nach Norden und kehren mit Salzplatten beladen zurück."
+  },
+  {
+   "country": "Bolivia",
+   "title": "Potosí",
+   "text": "Potosí wird zu einem der großen Silberbergbauzentren des spanischen Imperiums. Ab 1573 verpflichtet die koloniale Mita mehr als 200 indigene Gemeinschaften, etwa ein Siebtel ihrer erwachsenen Männer für rotierenden Arbeitsdienst zu entsenden. Bergbau, Quecksilberbelastung, Zwang und Krankheit fordern schwere menschliche Opfer, doch spätere Behauptungen von acht Millionen Toten sind keine verlässliche demografische Schätzung."
+  },
+  {
+   "country": "Barbados",
+   "title": "Zuckerplantagen in der Karibik",
+   "text": "Die Zuckergüter von Barbados verbinden wind- oder tiergetriebene Mühlen mit Siedehäusern, in denen Zuckerrohrsaft in erhitzten Kupferkesseln verarbeitet wird. Versklavte Arbeiter sind beim Anbau des Rohrs und bei der Zuckerverarbeitung langen Arbeitszeiten, Hitze, Maschinen und weiteren schweren Gefahren ausgesetzt."
+  },
+  {
+   "country": "Mozambique",
+   "title": "Portugal zieht den Sambesi hinauf",
+   "text": "Portugiesische Händler und Beamte dehnen sich im sechzehnten Jahrhundert den Sambesi hinauf aus und streben nach Kontrolle über Gold, Elfenbein und den regionalen Handel. Mit der Zeit schafft das Prazo-System halbautonome Güter, deren Macht auf lokalen Bündnissen, bewaffnetem Gefolge und Zwangsarbeit beruht."
+  },
+  {
+   "country": "Argentina",
+   "title": "In Córdoba entsteht eine Universität",
+   "text": "Das Jesuitenkolleg in Córdoba erhält 1613 Universitätsrang und schafft damit die Einrichtung, aus der die Nationale Universität Córdoba wird. Sie ist die älteste Universität Argentiniens und eine der frühesten Südamerikas."
+  },
+  {
+   "country": "Uruguay",
+   "title": "Hernandarias bringt das Vieh",
+   "text": "Der Gouverneur Hernando Arias de Saavedra lässt Rinder- und Pferdeherden auf dem leeren Grasland der Banda Oriental frei. Ohne Hirten vermehren sie sich zu den wilden Herden, die das Land umkämpft machen und dem Gaucho seinen Lebensunterhalt geben."
+  }
+ ]
+}

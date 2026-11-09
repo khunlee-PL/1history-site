@@ -1,0 +1,40 @@
+{
+ "langName": "Türkçe",
+ "dir": "ltr",
+ "yearFmt": "{y}",
+ "yearBCE": "MÖ {y}",
+ "tagline": "Tek bir küre üzerinde ortak geçmişimiz.",
+ "kicker": "{country} · aynı anda, yaklaşık {yr}",
+ "dek": "{country}'nin bunu yaşadığı yıl — ve dünyanın geri kalanının aynı anda ne yaptığı.",
+ "lede": "Küreyi {anchor} yılında durdurun ve her yere aynı anda bakın. Aşağıdaki her an, 1History'den gerçek bir karttır.",
+ "connect": [
+  "Bu sırada, başka bir yerde…",
+  "Tam o anda…",
+  "Dünyanın dört bir yanında…",
+  "Aynı çağda…",
+  "Ve çok uzaklarda…",
+  "Kürenin başka bir ucunda…"
+ ],
+ "datesNote": "Tarihler, tarihçilerin en iyi anlayışına göre verilmiştir; bir tarih yaklaşık ya da tartışmalı olduğunda bu belirtilir.",
+ "diffH2": "Küre üzerinde görün",
+ "diff": [
+  [
+   "Tarihiniz merkezde.",
+   "Avrupa'nın zaman çizelgesi değil, {country}'nin kendi anı."
+  ],
+  [
+   "Tüm küre, tek bir anda.",
+   "{yr} yılına kaydırın ve her yerde aynı anda olup biteni izleyin."
+  ],
+  [
+   "200'den fazla dil, tamamen çevrimdışı.",
+   "Hesap yok, takip yok, sunucu yok."
+  ]
+ ],
+ "ctaH2": "Dönen bir küre üzerinde {yr} yılını keşfedin",
+ "ctaP": "Başlaması ücretsiz, sonsuza dek çevrimdışı.",
+ "btnApp": "App Store'dan indirin",
+ "btnPlay": "Google Play'den alın",
+ "btnSite": "1history.app'i ziyaret edin",
+ "footerBy": "Yazan Paisarn Likhitpreechakul · Bangkok"
+}

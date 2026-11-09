@@ -1,0 +1,39 @@
+{
+ "country": "Albania",
+ "anchor": {
+  "title": "The Kingdom of Albania",
+  "text": "Charles of Anjou, king of Naples, has himself proclaimed King of Albania at Durrës, ruling the coast as a Latin realm aimed at Constantinople. It is an early use of the name Albania for a kingdom on the map."
+ },
+ "meanwhile": [
+  {
+   "country": "Antigua dhe Barbuda",
+   "title": "Karibët e ishujve",
+   "text": "Deri në fund të periudhës parakolumbiane, komunitetet që flasin kalinago janë vendosur në pjesën më të madhe të Antileve të Vogla, përfshirë Antiguan. Rrëfimet evropiane më vonë theksuan luftën dhe plaçkitjet, por arkeologjia dhe etnohistoria tregojnë edhe udhëtime rajonale, shkëmbim, peshkim dhe banim."
+  },
+  {
+   "country": "Mauritani",
+   "title": "Kripa nga sebkha",
+   "text": "Dy herë në vit karvanet e deveve, azalai, kalojnë drejt pellgjeve të kripës së Idjilit, duke prerë shufra kripe guri gri për t'i shkëmbyer në jug me mel dhe ar. Aty ku Saheli nuk ka kripë, një pllakë mund të vlejë thuajse sa pesha e vet në ar."
+  },
+  {
+   "country": "Mongoli",
+   "title": "Perandoria Mongole ndahet",
+   "text": "Nga fundi i shekullit të trembëdhjetë Perandoria Mongole ndahet gjithnjë e më shumë midis kanateve kryesore, sundimtarët e të cilëve rivalizojnë edhe pse ndajnë legjitimitetin çingizid. Mbretëria Yuan e Kublait në Kinë është një prej këtyre shteteve pasardhëse, krahas zotërimeve të Çagatait, Ilkanatit dhe Hordhisë së Artë."
+  },
+  {
+   "country": "Etiopi",
+   "title": "Rivendosja solomonike",
+   "text": "Në vitin 1270 Yekuno Amlak themelon dinastinë solomonike, sundimtarët e së cilës pretendojnë prejardhje nga Solomoni biblik dhe Mbretëresha e Shebës. Variante të dinastisë e mbajtën fronin etiopian deri te revolucioni i vitit 1974."
+  },
+  {
+   "country": "Tunizi",
+   "title": "Kryqëzata e Tetë",
+   "text": "Luigji IX i Francës zbarkon pranë Kartagjenës në vitin 1270 gjatë Kryqëzatës së Tetë, me shpresën të ushtrojë trysni ose të lidhet me sundimtarin hafsid të Tunizit. Sëmundja përhapet në kampin kryqtar dhe Luigji vdes aty; ekspedita shpejt mbaron pa i arritur synimet."
+  },
+  {
+   "country": "Marok",
+   "title": "Marinidët",
+   "text": "Dinastia marinide sundon Marokun nga shekulli i trembëdhjetë deri në të pesëmbëdhjetin, me Fezin si qendër të madhe politike dhe intelektuale. Sundimtarët marinidë ndërtojnë medrese të njohura dhe ndërhyjnë vazhdimisht në politikën iberike, ndërsa ruajnë lidhje të forta përtej Ngushticës së Gjibraltarit."
+  }
+ ]
+}

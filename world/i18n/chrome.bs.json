@@ -1,0 +1,40 @@
+{
+ "langName": "Bosanski",
+ "dir": "ltr",
+ "yearFmt": "{y}",
+ "yearBCE": "{y} p. n. e.",
+ "tagline": "Naša zajednička prošlost na jednom globusu.",
+ "kicker": "{country} · u isto vrijeme, oko {yr}",
+ "dek": "Godina kada je {country} ovo doživjela — i šta je ostatak svijeta radio u istom trenutku.",
+ "lede": "Zaustavite globus na godini {anchor} i pogledajte svuda odjednom. Svaki trenutak ispod stvarna je kartica iz 1Historyja.",
+ "connect": [
+  "U međuvremenu, drugdje…",
+  "U istom trenutku…",
+  "Širom svijeta…",
+  "U istom razdoblju…",
+  "I daleko…",
+  "Na drugom mjestu na globusu…"
+ ],
+ "datesNote": "Datumi su navedeni prema najboljem razumijevanju historičara; gdje je datum približan ili sporan, to je naznačeno.",
+ "diffH2": "Pogledajte na globusu",
+ "diff": [
+  [
+   "Vaša historija u središtu.",
+   "Vlastiti trenutak zemlje {country}, a ne evropska vremenska linija."
+  ],
+  [
+   "Cijeli globus, u jednom trenutku.",
+   "Pomjerite se do {yr} i gledajte šta se svuda dešavalo istovremeno."
+  ],
+  [
+   "Više od 200 jezika, potpuno van mreže.",
+   "Bez računa, bez praćenja, bez servera."
+  ]
+ ],
+ "ctaH2": "Istražite {yr} na globusu koji se okreće",
+ "ctaP": "Besplatno za početak, van mreže zauvijek.",
+ "btnApp": "Preuzmite u App Storeu",
+ "btnPlay": "Nabavite na Google Playu",
+ "btnSite": "Posjetite 1history.app",
+ "footerBy": "Autor Paisarn Likhitpreechakul · Bangkok"
+}

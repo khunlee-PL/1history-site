@@ -1,0 +1,39 @@
+{
+ "country": "Czechia",
+ "anchor": {
+  "title": "Bitva u Lipan končí husitské války",
+  "text": "Umírněné husitské a katolické síly drtí radikální tábority v Čechách, čímž se fakticky ukončují desetiletí náboženské války."
+ },
+ "meanwhile": [
+  {
+   "country": "Niger",
+   "title": "Azalai přechází Ténéré",
+   "text": "Velké velbloudí karavany, azalai, přecházejí Ténéré mezi Agadezem a solnými pánvemi Bilmy. Po jedné z nejtěžších saharských cest vezou sůl, datle a proso."
+  },
+  {
+   "country": "Sýrie",
+   "title": "Tímúr vyplení Damašek",
+   "text": "Tímúr roku 1401 dobyje a vyplení Damašek poté, co porazí mamlúcké síly. Dobové zprávy líčí rozsáhlé ničení a násilné přesídlení zručných řemeslníků do Samarkandu; město se později obnovuje pod mamlúckou vládou."
+  },
+  {
+   "country": "Venezuela",
+   "title": "Kolumbus dosáhne jihoamerické pevniny",
+   "text": "Na své třetí plavbě dosáhne Kryštof Kolumbus zálivu Paria a delty Orinoka a vystoupí na břeh; je to jeho první přistání na jihoamerické pevnině."
+  },
+  {
+   "country": "Mosambik",
+   "title": "Portugalsko se usazuje na mosambickém pobřeží",
+   "text": "Portugalsko od počátku šestnáctého století zřizuje opevněné pozice na mosambickém pobřeží a postupně rozšiřuje vliv podél Zambezi. Statkový systém prazo se ve vnitrozemí rozvíjí později a spojuje pozemkové dary, obchod, ozbrojenou moc a nucenou práci."
+  },
+  {
+   "country": "Benin",
+   "title": "Nikki a Baribové z Borgu",
+   "text": "Nikki se stává významným politickým centrem v Borgu, skupině států hovořících jazykem bariba na území dnešního Beninu a Nigérie. Region utvářejí jízda, obchod a dynastické instituce, zatímco vztahy se sousedními mocnostmi kolísají mezi válkou, tributem a spojenectvím."
+  },
+  {
+   "country": "Uzbekistán",
+   "title": "Nekropole Šáhi Zinda",
+   "text": "Na okraji Samarkandu se Šáhi Zinda rozrůstá v ulici kachlíkovaných hrobek a svatyní budovaných po generace. Její modře glazovaná mauzolea tvoří jeden z nejkrásnějších souborů timurovské keramické výzdoby."
+  }
+ ]
+}

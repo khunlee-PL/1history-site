@@ -1,0 +1,39 @@
+{
+ "country": "Estonia",
+ "anchor": {
+  "title": "The Treaty of Nystad",
+  "text": "The Great Northern War ends with the Treaty of Nystad, under which Estonia passes from Sweden to the Russian Empire and becomes a Baltic province of Russia."
+ },
+ "meanwhile": [
+  {
+   "country": "Saint Lucia",
+   "title": "Suhkur ja orjastatud enamus",
+   "text": "Istandusomanikud raiuvad orud suhkruistandusteks, kus töötavad orjastatud aafriklased, keda tuuakse sisse Kesktee kaudu, kuni nad ületavad valgete arvu kaugelt. Suhkruroog, rumm ja melass teevad mõned perekonnad rikkaks. Töö, mis neid rikkaks teeb, on sunnitud, jõhker ja surmav, ning saare rahvas on valdavalt orjastatute järeltulijad."
+  },
+  {
+   "country": "Boliivia",
+   "title": "Potosí",
+   "text": "Potosíst saab üks Hispaania impeeriumi suuri hõbedakaevanduskeskusi. Alates 1573. aastast nõuab koloniaalne mita, et enam kui 200 põlisrahva kogukonda saadaks umbes ühe seitsmendiku oma täiskasvanud meestest rotatsioonilisele sunnitööle. Kaevandamine, elavhõbedamürgitus, sund ja haigused põhjustavad raskeid inimkaotusi; hilisemad väited kaheksa miljoni surma kohta pole aga usaldusväärne demograafiline hinnang."
+  },
+  {
+   "country": "Paraguay",
+   "title": "Comunero mäss",
+   "text": "Asuncióni asukad, pahased, et jesuiidid monopoliseerivad guaraníde tööjõu ja kaubanduse, ajavad välja kuningliku kuberneri ja valitsevad ise comúni, kogukonna nimel. Mäss krooni ja kompanii vastu venib aastaid, kuni kuninglikud väed selle maha suruvad. Seda mäletatakse kui varast koloniaalse trotsi ärkamist Río de la Platas."
+  },
+  {
+   "country": "Iraan",
+   "title": "Afgaanid rüüstavad Isfahani",
+   "text": "Afgaani väed piiravad ja vallutavad Isfahani 1722. aastal, tehes lõpu safaviidide võimule pealinnas. Kokkuvarisemine avab pikaajalise sõja ja poliitilise killustatuse perioodi."
+  },
+  {
+   "country": "Samoa",
+   "title": "Jacob Roggeveen",
+   "text": "Hollandi meresõitja Jacob Roggeveenist sai esimene eurooplane, kes kohtas Rapa Nuid, nimetades selle saabumispäeva järgi."
+  },
+  {
+   "country": "Togo",
+   "title": "Ewede väljaränd Notsést",
+   "text": "Karmi kuninga Agokoli all plaanivad ewed põgenemist. Pärimus ütleb, et nad pehmendavad üht müürilõiku pesuveega, murravad öösel läbi ja hajuvad läände ja lõunasse, kõndides tagurpidi, et oma jälgi varjata. Sellest hajumisest sünnivad Togo ja Volta ewe linnad, mida seob siiani mälestus ühest väravast."
+  }
+ ]
+}

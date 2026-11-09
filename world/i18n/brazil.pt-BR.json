@@ -1,0 +1,39 @@
+{
+ "country": "Brazil",
+ "anchor": {
+  "title": "Dom Pedro I abdica",
+  "text": "O imperador Dom Pedro I abdica do trono brasileiro em 1831, em meio a conflitos políticos, e retorna à Europa. Seu filho de cinco anos, Dom Pedro II, continua imperador sob uma regência até ser declarado maior de idade em 1840."
+ },
+ "meanwhile": [
+  {
+   "country": "Grenada",
+   "title": "A noz-moscada faz a Ilha das Especiarias",
+   "text": "Árvores de noz-moscada, trazidas das Índias Orientais, adaptam-se ao solo vulcânico de Granada. Em uma geração, a ilha torna-se uma grande produtora mundial de noz-moscada, fruto mais tarde estampado em sua bandeira. A noz-moscada partida e sua renda vermelha de macis ainda secam nos galpões de Gouyave, a razão pela qual Granada é chamada de Ilha das Especiarias."
+  },
+  {
+   "country": "Algeria",
+   "title": "A conquista francesa da Argélia",
+   "text": "Durante a conquista francesa, tropas sob o coronel Aimable Pélissier fecham membros dos Ouled Riah dentro de cavernas no Dahra e matam centenas pela fumaça e pelo fogo. A conquista mais ampla traz guerra, deslocamento, fome e doença e causa grave perda populacional."
+  },
+  {
+   "country": "Barbados",
+   "title": "O Grande Furacão de Barbados de 1831",
+   "text": "Uma tempestade feroz rasga Barbados, arrancando o telhado de quase todos os edifícios de Bridgetown, quebrando os mastros dos navios no Careenage e matando cerca de mil e quinhentas pessoas. Arruína a safra de açúcar e deixa a ilha reconstruindo-se às vésperas da emancipação."
+  },
+  {
+   "country": "Bosnia and Herzegovina",
+   "title": "O Dragão da Bósnia",
+   "text": "O capitão Husein Gradaščević conduz os senhores da Bósnia em revolta contra as reformas centralizadoras do sultão, exigindo autonomia para a província. Seu exército bate uma força otomana em campo antes que nobres bósnios rivais e tropas imperiais quebrem a revolta. O 'Dragão da Bósnia' morre no exílio aos trinta anos."
+  },
+  {
+   "country": "Guyana",
+   "title": "Guiana Britânica",
+   "text": "Em 1831, a Grã-Bretanha combina as colônias de Essequibo, Demerara e Berbice na Guiana Britânica. Georgetown torna-se a capital, enquanto os legados jurídicos, hidráulicos e toponímicos holandeses permanecem importantes sob o domínio britânico."
+  },
+  {
+   "country": "Jamaica",
+   "title": "A Guerra Batista",
+   "text": "A Guerra Batista começa em dezembro de 1831 como uma greve liderada pelo diácono batista Samuel Sharpe e evolui para o maior levante de pessoas escravizadas da Jamaica. Dezenas de milhares participam ou são afetados, plantações são danificadas pelas paróquias ocidentais, e a repressão colonial é severa."
+  }
+ ]
+}

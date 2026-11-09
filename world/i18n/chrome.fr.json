@@ -1,0 +1,40 @@
+{
+ "langName": "Français",
+ "dir": "ltr",
+ "yearFmt": "{y}",
+ "yearBCE": "{y} av. J.-C.",
+ "tagline": "Notre passé commun sur un seul globe.",
+ "kicker": "{country} · au même moment, vers {yr}",
+ "dek": "L'année où {country} a connu cela — et ce que faisait le reste du monde au même instant.",
+ "lede": "Arrêtez le globe sur l'année de {anchor}, et regardez partout à la fois. Chaque moment ci-dessous est une carte réelle de 1History.",
+ "connect": [
+  "Pendant ce temps, ailleurs…",
+  "Au même moment…",
+  "Partout dans le monde…",
+  "À la même époque…",
+  "Et au loin…",
+  "Ailleurs sur le globe…"
+ ],
+ "datesNote": "Les dates sont données selon la meilleure compréhension des historiens ; lorsqu'une date est approximative ou débattue, cela est indiqué.",
+ "diffH2": "Le voir sur le globe",
+ "diff": [
+  [
+   "Votre histoire au centre.",
+   "Le moment propre à {country}, non la chronologie de l'Europe."
+  ],
+  [
+   "Tout le globe, en un instant.",
+   "Faites défiler jusqu'à {yr} et voyez ce qui se passait partout à la fois."
+  ],
+  [
+   "Plus de 200 langues, entièrement hors ligne.",
+   "Pas de compte, pas de pistage, pas de serveur."
+  ]
+ ],
+ "ctaH2": "Explorez {yr} sur un globe qui tourne",
+ "ctaP": "Gratuit pour commencer, hors ligne pour toujours.",
+ "btnApp": "Télécharger sur l'App Store",
+ "btnPlay": "Disponible sur Google Play",
+ "btnSite": "Visiter 1history.app",
+ "footerBy": "Par Paisarn Likhitpreechakul · Bangkok"
+}

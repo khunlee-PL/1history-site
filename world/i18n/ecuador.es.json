@@ -1,0 +1,39 @@
+{
+ "country": "Ecuador",
+ "anchor": {
+  "title": "El Primer Grito de Independencia",
+  "text": "En Quito, una junta local depone al gobernador colonial, un episodio recordado como uno de los primeros llamamientos a la independencia en la América española."
+ },
+ "meanwhile": [
+  {
+   "country": "Cuba",
+   "title": "La revolución de Haití enriquece a Cuba",
+   "text": "La Revolución haitiana trastorna la economía de plantación de Saint-Domingue y envía refugiados, capital y conocimientos agrícolas al oriente de Cuba. Combinados con la creciente demanda atlántica y la esclavitud, estos cambios ayudan a acelerar el auge cubano del azúcar y el café en el siglo XIX."
+  },
+  {
+   "country": "Cameroon",
+   "title": "El emirato de Adamawa",
+   "text": "Durante la yihad fulani encabezada desde el norte, Modibbo Adama establece el emirato de Adamawa por la meseta que lleva su nombre, fundando lamidatos como Ngaoundéré."
+  },
+  {
+   "country": "New Zealand",
+   "title": "El Boyd es incendiado",
+   "text": "Los maoríes de Whangaroa matan y devoran a la mayor parte de la tripulación del bergantín Boyd, en utu por el azotamiento del hijo de un jefe a bordo; mueren unos sesenta y seis. La represalia —tripulaciones europeas que queman una aldea y matan quizá a sesenta a cambio— envenena el contacto en el norte durante años."
+  },
+  {
+   "country": "United Arab Emirates",
+   "title": "La expedición británica contra Ras al-Jaima",
+   "text": "En 1809 una expedición de la Compañía de las Indias Orientales ataca Ras al-Jaima y otras posiciones de los Qawasim, y destruye embarcaciones y fortificaciones en un esfuerzo por frenar los ataques contra el tráfico marítimo vinculado a los británicos. El poder marítimo de los Qawasim se recupera lo suficiente como para que Gran Bretaña lance una campaña mayor una década después."
+  },
+  {
+   "country": "Argentina",
+   "title": "La Revolución de Mayo",
+   "text": "En mayo de 1810, los dirigentes políticos de Buenos Aires deponen al virrey español y establecen la Primera Junta. La revolución no crea de inmediato un Estado argentino independiente, pero inicia el proceso político que conduce a la independencia de España en 1816."
+  },
+  {
+   "country": "Brazil",
+   "title": "Se abren los puertos",
+   "text": "Tras la llegada de la corte real portuguesa a Brasil en 1808, el príncipe regente Juan abre los puertos brasileños al comercio con las naciones amigas, poniendo fin al monopolio comercial colonial formal. La decisión acelera el crecimiento de Río de Janeiro y la separación económica de Brasil del viejo sistema colonial."
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "country": "Luxembourg",
+ "anchor": {
+  "title": "L'église devenue cathédrale",
+  "text": "Les jésuites entreprennent une église au cœur de la ville forteresse, bâtie dans un style gothique tardif et Renaissance. Elle devient plus tard la cathédrale Notre-Dame et le lieu de sépulture de la famille grand-ducale."
+ },
+ "meanwhile": [
+  {
+   "country": "Mali",
+   "title": "La caravane de sel de l'azalaï traverse le Sahara",
+   "text": "La caravane de sel de l'azalaï part de Tombouctou à travers le Sahara vers les mines de Taoudenni et en revient. De longues files de chameaux portent grain et marchandises vers le nord et reviennent chargées de dalles de sel."
+  },
+  {
+   "country": "Bolivia",
+   "title": "Potosí",
+   "text": "Potosí devient l'un des grands centres d'extraction d'argent de l'Empire espagnol. À partir de 1573, la mita coloniale oblige plus de 200 communautés autochtones à envoyer environ un septième de leurs hommes adultes au service de travail par roulement. L'extraction, l'exposition au mercure, la coercition et la maladie imposent de lourds coûts humains, mais les affirmations ultérieures de huit millions de morts ne constituent pas une estimation démographique fiable."
+  },
+  {
+   "country": "Barbados",
+   "title": "Les plantations sucrières des Caraïbes",
+   "text": "Les domaines sucriers barbadiens associent des moulins à vent ou à traction animale à des sucreries où le jus de canne est traité dans des chaudrons de cuivre chauffés. Les travailleurs réduits en esclavage affrontent de longues heures, la chaleur, les machines et d'autres dangers graves tout au long de la culture de la canne et de la fabrication du sucre."
+  },
+  {
+   "country": "Mozambique",
+   "title": "Le Portugal remonte le Zambèze",
+   "text": "Les marchands et fonctionnaires portugais remontent le Zambèze au cours du XVIe siècle, cherchant à contrôler l'or, l'ivoire et le commerce régional. Avec le temps, le système des prazos crée des domaines semi-autonomes dont le pouvoir repose sur les alliances locales, les suites armées et le travail forcé."
+  },
+  {
+   "country": "Argentina",
+   "title": "Une université prend forme à Córdoba",
+   "text": "Le collège jésuite de Córdoba reçoit le statut d'université en 1613, créant l'institution qui devient l'Université nationale de Córdoba. C'est la plus ancienne université d'Argentine et l'une des premières d'Amérique du Sud."
+  },
+  {
+   "country": "Uruguay",
+   "title": "Hernandarias introduit le bétail",
+   "text": "Le gouverneur Hernando Arias de Saavedra lâche des troupeaux de bovins et de chevaux sur la prairie déserte de la Banda Oriental. Sans surveillance, ils se multiplient en hardes sauvages qui rendront la terre digne qu'on se batte pour elle et feront vivre le gaucho."
+  }
+ ]
+}

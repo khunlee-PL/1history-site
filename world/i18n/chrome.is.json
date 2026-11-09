@@ -1,0 +1,40 @@
+{
+ "langName": "Íslenska",
+ "dir": "ltr",
+ "yearFmt": "{y}",
+ "yearBCE": "{y} f.Kr.",
+ "tagline": "Sameiginleg fortíð okkar á einum hnetti.",
+ "kicker": "{country} · á sama tíma, um {yr}",
+ "dek": "Árið sem {country} upplifði þetta — og hvað gerði umheimurinn á sama andartaki.",
+ "lede": "Stöðvaðu hnöttinn á ári {anchor} og horfðu alls staðar í einu. Hvert andartak hér að neðan er raunverulegt spjald úr 1History.",
+ "connect": [
+  "Á sama tíma, annars staðar…",
+  "Á sama andartaki…",
+  "Um allan heim…",
+  "Á sömu öld…",
+  "Og langt í burtu…",
+  "Á öðrum stað á hnettinum…"
+ ],
+ "datesNote": "Dagsetningar eru gefnar eftir bestu þekkingu sagnfræðinga; þar sem dagsetning er áætluð eða umdeild er það tekið fram.",
+ "diffH2": "Sjáðu það á hnettinum",
+ "diff": [
+  [
+   "Þín saga í miðju.",
+   "Eigið andartak {country}, ekki tímalína Evrópu."
+  ],
+  [
+   "Allur hnötturinn, á einu andartaki.",
+   "Skrunaðu að {yr} og sjáðu hvað gerðist alls staðar í einu."
+  ],
+  [
+   "Yfir 200 tungumál, algjörlega án nettengingar.",
+   "Engir reikningar, engin rakning, engir netþjónar."
+  ]
+ ],
+ "ctaH2": "Kannaðu {yr} á snúnings hnetti",
+ "ctaP": "Ókeypis að byrja, án nettengingar að eilífu.",
+ "btnApp": "Sæktu í App Store",
+ "btnPlay": "Fáðu í Google Play",
+ "btnSite": "Heimsæktu 1history.app",
+ "footerBy": "Eftir Paisarn Likhitpreechakul · Bangkok"
+}

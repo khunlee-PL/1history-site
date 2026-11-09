@@ -1,0 +1,39 @@
+{
+ "country": "Paraguay",
+ "anchor": {
+  "title": "Se funda Asunción",
+  "text": "Juan de Salazar y Espinosa levanta un fuerte de madera sobre un barranco a orillas del río Paraguay el día de la Asunción. Aislada del Perú y del mar, Asunción se convierte en la base desde la que los españoles cabalgan a fundar Buenos Aires, Santa Fe, Corrientes y Villa Rica. Los paraguayos aún llaman a su capital la madre de ciudades, una gran ciudad colonial."
+ },
+ "meanwhile": [
+  {
+   "country": "Mozambique",
+   "title": "Portugal remonta el Zambeze",
+   "text": "Comerciantes y funcionarios portugueses se expanden río arriba por el Zambeze durante el siglo XVI, en busca del control del oro, el marfil y el comercio regional. Con el tiempo, el sistema prazo crea haciendas semiautónomas cuyo poder depende de alianzas locales, séquitos armados y trabajo forzado."
+  },
+  {
+   "country": "Venezuela",
+   "title": "Colón llega a tierra firme de Sudamérica",
+   "text": "En su tercer viaje, Cristóbal Colón llega al golfo de Paria y al delta del Orinoco y desembarca, su primer pie en tierra firme de Sudamérica."
+  },
+  {
+   "country": "Mali",
+   "title": "La caravana de sal del Azalai cruza el Sáhara",
+   "text": "La caravana de sal del Azalai parte de Tombuctú cruzando el Sáhara hacia las minas de Taoudenni y regresa. Largas filas de camellos llevan grano y mercancías al norte y vuelven cargados de losas de sal."
+  },
+  {
+   "country": "Colombia",
+   "title": "El Dorado",
+   "text": "Los relatos españoles del ritual muisca en la laguna de Guatavita ayudan a forjar la leyenda europea de El Dorado, que pasa de un cacique dorado a imaginadas ciudades y reinos de oro. Las expediciones recorren el norte de Sudamérica durante generaciones, a menudo a un enorme coste humano y económico."
+  },
+  {
+   "country": "Honduras",
+   "title": "Lempira resiste en el Peñol de Cerquín",
+   "text": "En 1537, el líder lenca Lempira organiza la resistencia desde posiciones fortificadas en el occidente de Honduras, entre ellas el Peñol de Cerquín. Los relatos sobre su muerte difieren: la tradición posterior describe un asesinato a traición durante unas negociaciones, mientras que una petición contemporánea del español Rodrigo Ruiz afirma que él mató a Lempira en combate."
+  },
+  {
+   "country": "Argentina",
+   "title": "Se funda Buenos Aires",
+   "text": "El conquistador español Pedro de Mendoza establece el primer asentamiento de Buenos Aires en el Río de la Plata."
+  }
+ ]
+}

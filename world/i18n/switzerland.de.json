@@ -1,0 +1,39 @@
+{
+ "country": "Switzerland",
+ "anchor": {
+  "title": "Die Alte Eidgenossenschaft",
+  "text": "Luzern schließt sich den drei Tälern an, dann Zürich, Glarus, Zug und Bern. Ein Verteidigungsbund von Bauern wird zu einem Bund von Städten und beginnt, wie ein Staat auszusehen."
+ },
+ "meanwhile": [
+  {
+   "country": "Antigua and Barbuda",
+   "title": "Inselkariben",
+   "text": "In der späten vorkolumbischen Zeit sind kalinagosprachige Gemeinschaften über weite Teile der Kleinen Antillen verbreitet, darunter Antigua. Europäische Berichte betonen später Krieg und Raubzüge, doch Archäologie und Ethnohistorie zeigen auch regionale Reisen, Austausch, Fischfang und Besiedlung."
+  },
+  {
+   "country": "Mauritania",
+   "title": "Salz aus der Sebkha",
+   "text": "Zweimal im Jahr ziehen die Kamelkarawanen, die Azalai, zu den Salzpfannen von Idjil und schneiden Barren aus grauem Felssalz, um sie nach Süden gegen Hirse und Gold einzutauschen. Wo der Sahel kein Salz hat, kann eine Platte fast ihr eigenes Gewicht in Gold aufwiegen."
+  },
+  {
+   "country": "Syria",
+   "title": "Timur plündert Damaskus",
+   "text": "Timur erobert und plündert 1401 Damaskus, nachdem er mamlukische Truppen besiegt hat. Zeitgenössische Berichte schildern ausgedehnte Zerstörung und die erzwungene Umsiedlung geschickter Handwerker nach Samarkand; die Stadt wird später unter mamlukischer Herrschaft wiederaufgebaut."
+  },
+  {
+   "country": "Kenya",
+   "title": "Ibn Battuta in Mombasa",
+   "text": "Ibn Battuta besucht Mombasa 1331 und beschreibt eine wohlhabende muslimische Suaheli-Stadt mit Moscheen, Handel und bewirtschafteten Feldern. Sein Bericht ist eine wichtige schriftliche Quelle für die städtische Kultur der ostafrikanischen Küste vor der portugiesischen Eroberung."
+  },
+  {
+   "country": "Bahrain",
+   "title": "Die Dscharwaniden nehmen die Inseln ein",
+   "text": "Die Dscharwaniden herrschen im 14. Jahrhundert über Teile Ostarabiens und Bahrain. Schiitische Gelehrsamkeit und Gemeinden bleiben auf den Inseln bedeutend, doch die spätere konfessionelle Landschaft Bahrains entwickelt sich über einen weit längeren Zeitraum."
+  },
+  {
+   "country": "Kyrgyzstan",
+   "title": "Der Gumbez des Manas",
+   "text": "Im Talas-Tal trägt ein kuppelbekröntes Ziegelmausoleum eine datierte Inschrift von 1334. Die Legende sagt, es berge Manas, den riesenhaften Helden des kirgisischen Epos, und seine Witwe Kanikej habe es als Frauengrab tarnen lassen, um Grabräuber zu täuschen. Das Epos selbst ist ungeschrieben und wird nur im Gedächtnis seiner Rezitatoren getragen, doch hier berührt es den Boden."
+  }
+ ]
+}

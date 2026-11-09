@@ -1,0 +1,39 @@
+{
+ "country": "Bolivia",
+ "anchor": {
+  "title": "Tiahuanaco",
+  "text": "Tiahuanaco se desarrolla hasta ser un gran centro ceremonial y político junto al lago Titicaca durante el primer milenio d. C. Su arquitectura monumental en piedra y su agricultura de campos elevados influyen en una amplia región, mientras las tradiciones andinas posteriores consideran el lugar un sitio de profunda antigüedad sagrada."
+ },
+ "meanwhile": [
+  {
+   "country": "Guatemala",
+   "title": "Tikal es derrotada",
+   "text": "En 562, Tikal sufre una gran derrota en las guerras en las que participan Calakmul y sus aliados. A la derrota le sigue un largo hiato en los monumentos fechados de Tikal, aunque la ocupación continúa; ese vacío es evidencia de una perturbación política, más que la prueba de que la ciudad misma quedara en silencio."
+  },
+  {
+   "country": "Botswana",
+   "title": "Las rocas pintadas de Tsodilo",
+   "text": "En Tsodilo, cuatro colinas de cuarcita se alzan sobre el Kalahari y conservan miles de pinturas rupestres realizadas a lo largo de muchos siglos. Las imágenes incluyen animales, personas y formas geométricas, y las colinas siguen siendo culturalmente importantes para las comunidades locales san y hambukushu."
+  },
+  {
+   "country": "Cameroon",
+   "title": "Los sao del lago Chad",
+   "text": "En torno al lago Chad, los yacimientos arqueológicos asociados a los sao conservan terracota, trabajos en metal y asentamientos fortificados. Los pueblos posteriores de la región recordaron a los sao en su tradición oral, pero resulta difícil establecer líneas directas de ascendencia."
+  },
+  {
+   "country": "Costa Rica",
+   "title": "Nicoya, el borde de Mesoamérica",
+   "text": "La península de Nicoya pasa a formar parte de una frontera cultural donde las tradiciones de Mesoamérica interactúan con las de la baja Centroamérica. Comunidades de habla chorotega aportan más tarde fuertes influencias mesoamericanas en lengua, agricultura, ritual y cultura material, aunque el momento y la escala de estos movimientos siguen debatiéndose."
+  },
+  {
+   "country": "Equatorial Guinea",
+   "title": "Los bubi pueblan Bioko",
+   "text": "Agricultores bantúes cruzan el estrecho y pueblan la isla, convirtiéndose en los bubi. Conservan el ñame y el aceite de palma, honran un abigarrado mundo de espíritus y —solos entre los pueblos costeros— no construyen piragua de altura, dejando el agua a otros y volviéndose hacia el interior, a las tierras altas boscosas."
+  },
+  {
+   "country": "Guyana",
+   "title": "Los lokono de la costa",
+   "text": "Los lokono, de habla arahuaca, colonizan el pantano costero y las desembocaduras de los ríos, cultivan mandioca amarga y le exprimen el veneno para hacer pan y cerveza casiri. Hábiles constructores de embarcaciones, dan nombre a gran parte de la tierra. Cuando llegan los neerlandeses, los lokono comercian con ellos, los guían y se casan con ellos en lugar de combatir."
+  }
+ ]
+}

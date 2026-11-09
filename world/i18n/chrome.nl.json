@@ -1,0 +1,40 @@
+{
+ "langName": "Nederlands",
+ "dir": "ltr",
+ "yearFmt": "{y}",
+ "yearBCE": "{y} v.Chr.",
+ "tagline": "Ons gedeelde verleden op één wereldbol.",
+ "kicker": "{country} · tezelfdertijd, omstreeks {yr}",
+ "dek": "Het jaar waarin {country} dit meemaakte — en wat de rest van de wereld op datzelfde moment deed.",
+ "lede": "Zet de wereldbol stil op het jaar van {anchor} en kijk overal tegelijk. Elk moment hieronder is een echte kaart uit 1History.",
+ "connect": [
+  "Ondertussen, elders…",
+  "Op hetzelfde moment…",
+  "Overal ter wereld…",
+  "In hetzelfde tijdperk…",
+  "En ver weg…",
+  "Elders op de wereldbol…"
+ ],
+ "datesNote": "Data worden gegeven zoals historici ze het best begrijpen; waar een datum bij benadering of betwist is, wordt dat vermeld.",
+ "diffH2": "Bekijk het op de wereldbol",
+ "diff": [
+  [
+   "Jouw geschiedenis centraal.",
+   "Het eigen moment van {country}, niet de tijdlijn van Europa."
+  ],
+  [
+   "De hele wereldbol, in één ogenblik.",
+   "Scrol naar {yr} en zie wat er overal tegelijk gebeurde."
+  ],
+  [
+   "200+ talen, volledig offline.",
+   "Geen accounts, geen tracking, geen servers."
+  ]
+ ],
+ "ctaH2": "Verken {yr} op een draaiende wereldbol",
+ "ctaP": "Gratis om te beginnen, voor altijd offline.",
+ "btnApp": "Download in de App Store",
+ "btnPlay": "Ontdek het op Google Play",
+ "btnSite": "Bezoek 1history.app",
+ "footerBy": "Door Paisarn Likhitpreechakul · Bangkok"
+}

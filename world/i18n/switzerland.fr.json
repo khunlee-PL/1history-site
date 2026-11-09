@@ -1,0 +1,39 @@
+{
+ "country": "Switzerland",
+ "anchor": {
+  "title": "L'ancienne Confédération suisse",
+  "text": "Lucerne rejoint les trois vallées, puis Zurich, Glaris, Zoug et Berne. Une ligue défensive de paysans devient une confédération de villes, et commence à ressembler à un État."
+ },
+ "meanwhile": [
+  {
+   "country": "Antigua and Barbuda",
+   "title": "Caraïbes insulaires",
+   "text": "À la fin de la période précolombienne, des communautés de langue kalinago sont établies dans une grande partie des Petites Antilles, dont Antigua. Les récits européens ont plus tard mis en avant la guerre et les raids, mais l'archéologie et l'ethnohistoire montrent aussi les déplacements régionaux, les échanges, la pêche et le peuplement."
+  },
+  {
+   "country": "Mauritania",
+   "title": "Le sel de la sebkha",
+   "text": "Deux fois l'an, les caravanes de chameaux, les azalaï, gagnent les salines d'Idjil, taillant des barres de sel gemme gris à échanger vers le sud contre du mil et de l'or. Là où le Sahel manque de sel, une dalle peut peser presque son propre poids en or."
+  },
+  {
+   "country": "Syria",
+   "title": "Tamerlan met Damas à sac",
+   "text": "Tamerlan prend et met à sac Damas en 1401 après avoir défait les forces mameloukes. Des récits contemporains décrivent des destructions considérables et le transfert forcé d'artisans qualifiés vers Samarcande ; la ville se reconstruit plus tard sous la domination mamelouke."
+  },
+  {
+   "country": "Kenya",
+   "title": "Ibn Battuta à Mombasa",
+   "text": "Ibn Battuta visite Mombasa en 1331 et décrit une prospère ville swahilie musulmane dotée de mosquées, de commerce et de cultures. Son récit est une source écrite importante sur la culture urbaine de la côte est-africaine avant la conquête portugaise."
+  },
+  {
+   "country": "Bahrain",
+   "title": "Les Jarwanides prennent les îles",
+   "text": "Les Jarwanides règnent sur une partie de l'est de l'Arabie et de Bahreïn au XIVe siècle. L'érudition et les communautés chiites restent importantes dans les îles, mais le paysage confessionnel ultérieur de Bahreïn se forme sur une période bien plus longue."
+  },
+  {
+   "country": "Kyrgyzstan",
+   "title": "Le Gumbez de Manas",
+   "text": "Dans la vallée de la Talas, un mausolée de brique à coupole porte une inscription datée de 1334. La légende veut qu'il abrite Manas, le héros géant de l'épopée kirghize, et que sa veuve Kanykeï l'ait fait déguiser en tombe de femme pour déjouer les pilleurs. L'épopée elle-même n'est pas écrite, portée seulement par la mémoire de ses récitants, mais ici elle touche le sol."
+  }
+ ]
+}

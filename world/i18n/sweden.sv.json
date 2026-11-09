@@ -1,0 +1,39 @@
+{
+ "country": "Sweden",
+ "anchor": {
+  "title": "Gustav Vasas bibel",
+  "text": "Gustav Vasas bibel ges ut på svenska 1541. Med utgångspunkt i tidigare svenskt arbete med Nya testamentet och reformationens lärdom får den ett stort inflytande på utvecklingen av det standardiserade svenska skriftspråket."
+ },
+ "meanwhile": [
+  {
+   "country": "Moçambique",
+   "title": "Portugal tränger upp längs Zambezi",
+   "text": "Portugisiska handelsmän och ämbetsmän expanderar uppför Zambezi under 1500-talet i jakt på kontroll över guld, elfenben och regional handel. Med tiden skapar prazo-systemet halvt självständiga gods vars makt vilar på lokala allianser, beväpnat följe och tvångsarbete."
+  },
+  {
+   "country": "Venezuela",
+   "title": "Columbus når Sydamerikas fastland",
+   "text": "På sin tredje resa når Christofer Columbus Pariabukten och Orinocos delta och går i land; det är hans första landstigning på Sydamerikas fastland."
+  },
+  {
+   "country": "Mali",
+   "title": "Saltkaravanen azalai korsar Sahara",
+   "text": "Saltkaravanen azalai ger sig av från Timbuktu över Sahara till gruvorna i Taoudenni och tillbaka. Långa rader av kameler bär spannmål och varor norrut och återvänder lastade med saltplattor."
+  },
+  {
+   "country": "Algeriet",
+   "title": "Karl V:s expedition mot Alger misslyckas",
+   "text": "Karl V inleder ett stort fälttåg mot Alger 1541. Svåra stormar krossar fartyg och stör belägringen, vilket tvingar den kejserliga armén att dra sig tillbaka med stora förluster."
+  },
+  {
+   "country": "Argentina",
+   "title": "Cabeza de Vaca ser Iguazúfallen",
+   "text": "På väg mot Asunción 1541 blir Álvar Núñez Cabeza de Vaca den första europén känd från skriftliga källor som möter Iguazúfallen. Fallen ligger i ett område sedan länge bebott och befarat av urfolk."
+  },
+  {
+   "country": "Chile",
+   "title": "Santiago",
+   "text": "Pedro de Valdivia grundar Santiago vid floden Mapocho 1541. Senare samma år anfaller och förstör i stort sett urfolksstyrkor ledda av Michimalonco bosättningen, som kolonisterna bygger upp på nytt som bas för fortsatt spansk expansion."
+  }
+ ]
+}

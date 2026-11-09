@@ -1,0 +1,39 @@
+{
+ "country": "Portugal",
+ "anchor": {
+  "title": "Vasco da Gama chega à Índia",
+  "text": "Vasco da Gama chega a Calecute por mar, ligando a Europa diretamente ao mundo comercial do oceano Índico. A viagem transforma o comércio global e acelera a expansão europeia na Ásia."
+ },
+ "meanwhile": [
+  {
+   "country": "Venezuela",
+   "title": "Columbus reaches the South American mainland",
+   "text": "On his third voyage, Christopher Columbus reaches the Gulf of Paria and the Orinoco delta and steps ashore, his first landing on the South American mainland."
+  },
+  {
+   "country": "Mozambique",
+   "title": "Portugal estabelece o domínio na costa de Moçambique",
+   "text": "Portugal estabelece posições fortificadas na costa de Moçambique a partir do início do século XVI e expande gradualmente a influência ao longo do Zambeze. O sistema de prazos desenvolve-se mais tarde no interior, combinando concessões de terra, comércio, poder armado e trabalho forçado."
+  },
+  {
+   "country": "Niger",
+   "title": "The azalai crosses the Ténéré",
+   "text": "Great camel caravans, the azalai, cross the Ténéré between Agadez and the salt pans of Bilma. They carry salt, dates and millet along one of the Sahara's hardest routes."
+  },
+  {
+   "country": "Syria",
+   "title": "Timur sacks Damascus",
+   "text": "Timur captures and sacks Damascus in 1401 after defeating Mamluk forces. Contemporary accounts describe extensive destruction and the forced transfer of skilled artisans to Samarkand; the city later rebuilds under Mamluk rule."
+  },
+  {
+   "country": "The Dominican Republic",
+   "title": "Santo Domingo",
+   "text": "Santo Domingo is founded in 1498 and becomes the principal Spanish colonial city on Hispaniola. Its colonial center is the site of the first cathedral, hospital, customs house and university established by Europeans in the Americas and becomes a base for further Spanish expansion."
+  },
+  {
+   "country": "Grenada",
+   "title": "Columbus sights the island",
+   "text": "On his third voyage Columbus sails past the mountainous coast and names it Concepcion. Later Spanish sailors, reminded of the hills above their own Granada, give it the name that sticks. No Spaniard settles: the Kalinago hold the shore, and for a century and a half the island stays theirs."
+  }
+ ]
+}

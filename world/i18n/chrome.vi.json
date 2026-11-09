@@ -1,0 +1,40 @@
+{
+ "langName": "Tiếng Việt",
+ "dir": "ltr",
+ "yearFmt": "năm {y}",
+ "yearBCE": "năm {y} TCN",
+ "tagline": "Quá khứ chung của chúng ta trên một quả địa cầu.",
+ "kicker": "{country} · cùng lúc đó, khoảng {yr}",
+ "dek": "Năm mà {country} chứng kiến điều này — và những gì phần còn lại của thế giới đang làm vào cùng thời khắc ấy.",
+ "lede": "Hãy dừng quả địa cầu ở năm diễn ra {anchor}, rồi nhìn khắp mọi nơi cùng một lúc. Mỗi khoảnh khắc bên dưới là một thẻ thật từ 1History.",
+ "connect": [
+  "Cùng lúc đó, ở nơi khác…",
+  "Vào cùng thời điểm…",
+  "Khắp nơi trên thế giới…",
+  "Trong cùng thời đại…",
+  "Và nơi xa xôi…",
+  "Ở một nơi khác trên địa cầu…"
+ ],
+ "datesNote": "Niên đại được ghi theo hiểu biết tốt nhất của các sử gia; nơi nào niên đại còn gần đúng hay gây tranh luận, điều đó được nêu rõ.",
+ "diffH2": "Xem trên địa cầu",
+ "diff": [
+  [
+   "Lịch sử của bạn ở trung tâm.",
+   "Khoảnh khắc của riêng {country}, không phải dòng thời gian của châu Âu."
+  ],
+  [
+   "Cả địa cầu, trong một khoảnh khắc.",
+   "Kéo đến {yr} và xem điều gì đang diễn ra khắp nơi cùng lúc."
+  ],
+  [
+   "Hơn 200 ngôn ngữ, hoàn toàn ngoại tuyến.",
+   "Không tài khoản, không theo dõi, không máy chủ."
+  ]
+ ],
+ "ctaH2": "Khám phá {yr} trên một quả địa cầu xoay tròn",
+ "ctaP": "Miễn phí để bắt đầu, ngoại tuyến mãi mãi.",
+ "btnApp": "Tải trên App Store",
+ "btnPlay": "Tải trên Google Play",
+ "btnSite": "Ghé thăm 1history.app",
+ "footerBy": "Bởi Paisarn Likhitpreechakul · Bangkok"
+}

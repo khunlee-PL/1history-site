@@ -1,0 +1,39 @@
+{
+ "country": "Italy",
+ "anchor": {
+  "title": "Augusto e l'Impero romano",
+  "text": "Ottaviano diventa Augusto, preservando le istituzioni della Repubblica pur concentrando il potere in un unico sovrano. Il suo regno dà inizio alla Pax Romana, due secoli di relativa stabilità che trasformano il mondo mediterraneo."
+ },
+ "meanwhile": [
+  {
+   "country": "Saint Kitts and Nevis",
+   "title": "Igneri potters cross the sea",
+   "text": "Arawak-speaking Igneri work their way up the island arc in dugout canoes and plant villages on the leeward coasts. They fire fine pottery painted white-on-red, grow cassava, and fish the reef. Their sites on Nevis and along the Basseterre valley leave the first gardens and the first pottery on islands that had known only the sea."
+  },
+  {
+   "country": "Saint Vincent and the Grenadines",
+   "title": "Canoes from the Orinoco",
+   "text": "Ceramic-making communities connected to the wider Saladoid cultural tradition settle Saint Vincent during the first millennium BCE/CE transition. They practice horticulture, fishing and inter-island exchange and leave distinctive pottery at coastal archaeological sites."
+  },
+  {
+   "country": "Sri Lanka",
+   "title": "The Pali Canon is written down",
+   "text": "Sri Lankan Buddhist tradition holds that monks commit the Pali Tipitaka to writing at Aluvihare in the first century BCE after centuries of oral transmission. The event is important to Theravada memory, although surviving manuscripts are much later."
+  },
+  {
+   "country": "Liechtenstein",
+   "title": "Rome takes the Rhine road",
+   "text": "The stepsons of Augustus, Drusus and Tiberius, conquer the Alpine tribes and Rome organises the province of Raetia. A paved road runs up the Rhine valley through the future principality, linking Italy to the Danube. For four centuries the legions' road, not any local lord, is the reason this thin strip of land matters to anyone."
+  },
+  {
+   "country": "Morocco",
+   "title": "Juba II",
+   "text": "Rome installs Juba II, a Numidian prince raised in Rome and married to Cleopatra Selene II, as king of Mauretania. His court at Caesarea becomes a center of scholarship, and ancient sources attribute works on geography, natural history and other subjects to him."
+  },
+  {
+   "country": "North Macedonia",
+   "title": "Scupi, colony on the Vardar",
+   "text": "Rome settles army veterans at Scupi, on a hill above the Vardar where Skopje now stands. Colonia Flavia Scupi grows a forum, a theater and baths; its territory reaches to the Kosovo plain. An earthquake levels it in 518, and the survivors move down to the river — the seed of the later city."
+  }
+ ]
+}

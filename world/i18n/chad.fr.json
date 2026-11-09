@@ -1,0 +1,39 @@
+{
+ "country": "Chad",
+ "anchor": {
+  "title": "Barth parmi les royaumes du lac",
+  "text": "Le savant allemand Heinrich Barth parcourt la région pendant des années, séjournant au Bornou et atteignant la cour du Baguirmi, où il est brièvement retenu. Ses carnets minutieux sur les langues, les souverains et les routes restent une source majeure sur ces États du Sahel à la veille de leur conquête."
+ },
+ "meanwhile": [
+  {
+   "country": "Algeria",
+   "title": "La conquête française de l'Algérie",
+   "text": "Pendant la conquête française, les troupes du colonel Aimable Pélissier enferment des membres des Ouled Riah dans des grottes du Dahra et en tuent des centaines par la fumée et le feu. La conquête plus large apporte guerre, déplacements, famine et maladie et cause de lourdes pertes de population."
+  },
+  {
+   "country": "Grenada",
+   "title": "La noix de muscade fait l'île aux épices",
+   "text": "Les muscadiers, apportés des Indes orientales, prennent dans le sol volcanique de la Grenade. En l'espace d'une vie, l'île devient un grand producteur mondial de muscade, dont le fruit figurera plus tard sur son drapeau. La muscade fendue et sa dentelle rouge de macis sèchent encore dans les hangars de Gouyave, raison pour laquelle on appelle la Grenade l'île aux épices."
+  },
+  {
+   "country": "Malawi",
+   "title": "Livingstone atteint le lac Nyassa",
+   "text": "Lors de son expédition sur le Zambèze, le missionnaire et explorateur écossais David Livingstone remonte la rivière Shire et atteint le grand lac qu'il consigne sous le nom de lac Nyassa, faisant connaître la région en Grande-Bretagne."
+  },
+  {
+   "country": "Lesotho",
+   "title": "La Grande-Bretagne prend le Basutoland",
+   "text": "Face à la forte pression de l'État libre d'Orange, Moshoeshoe recherche la protection britannique. La Grande-Bretagne annexe le Basutoland en 1868, mettant fin à l'expansion de l'État libre tout en laissant hors de la nouvelle frontière une grande partie des terres de l'ouest perdues auparavant."
+  },
+  {
+   "country": "Australia",
+   "title": "Les ruées vers l'or australiennes",
+   "text": "Les découvertes d'or dans le Victoria et la Nouvelle-Galles du Sud déclenchent une migration rapide et une croissance économique à partir de 1851. Les ruées attirent des mineurs d'Europe, de Chine et d'ailleurs, transformant la société coloniale tout en engendrant discriminations, conflits et nouveaux mouvements politiques."
+  },
+  {
+   "country": "The Dominican Republic",
+   "title": "Pico Duarte",
+   "text": "Le Pico Duarte, dans la Cordillère centrale, s'élève à environ 3 100 mètres, le plus haut sommet des Caraïbes. Le naturaliste Robert Schomburgk réalise une ascension précoce documentée de la montagne."
+  }
+ ]
+}

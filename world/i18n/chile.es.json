@@ -1,0 +1,39 @@
+{
+ "country": "Chile",
+ "anchor": {
+  "title": "El poblamiento polinesio de Rapa Nui",
+  "text": "Navegantes polinesios pueblan Rapa Nui hacia los siglos XII y XIII, uno de los asentamientos permanentes más remotos del Pacífico. La investigación arqueológica y genética subraya hoy la adaptación y la resiliencia a largo plazo, en lugar del relato más antiguo de un simple colapso ecológico autoinfligido."
+ },
+ "meanwhile": [
+  {
+   "country": "Antigua and Barbuda",
+   "title": "Caribes insulares",
+   "text": "Hacia el final del periodo precolombino, comunidades de habla kalinago están establecidas en buena parte de las Antillas Menores, Antigua incluida. Los relatos europeos destacaron después la guerra y las incursiones, pero la arqueología y la etnohistoria muestran también desplazamientos regionales, intercambios, pesca y asentamiento."
+  },
+  {
+   "country": "Mauritania",
+   "title": "Sal de la sebja",
+   "text": "Dos veces al año las caravanas de camellos, los azalai, cruzan hasta las salinas de Idjil y cortan barras de sal gema gris para cambiarlas hacia el sur por mijo y oro. Donde el Sahel no tiene sal, una losa puede pesar casi lo que su propio peso en oro."
+  },
+  {
+   "country": "Barbados",
+   "title": "Navegantes kalinago frecuentan la isla",
+   "text": "Navegantes kalinago recorren las islas de Barlovento y mantienen contactos con Barbados antes de la colonización europea. La población indígena de la isla ya había disminuido mucho a comienzos del siglo XVII, aunque no se conocen del todo las fechas ni las causas de ese declive."
+  },
+  {
+   "country": "Bolivia",
+   "title": "Los señoríos aimaras",
+   "text": "Tras el declive de Tiahuanaco, señoríos de habla aimara como los qulla y los lupaca surgen por todo el altiplano en torno al lago Titicaca. Estos poderes regionales pastorean llamas y alpacas y cultivan laderas aterrazadas hasta que los incas los absorben."
+  },
+  {
+   "country": "Cameroon",
+   "title": "Kanem-Bornu alcanza la orilla del lago Chad",
+   "text": "El alcance del Imperio de Kanem-Bornu se extiende hacia la orilla meridional del lago Chad, lo que incorpora a los pueblos del extremo norte de Camerún al comercio transahariano y a la difusión del islam."
+  },
+  {
+   "country": "Comoros",
+   "title": "El islam y la leyenda shirazi",
+   "text": "El islam se difunde por las Comoras a lo largo de los siglos mediante los vínculos con las comunidades comerciales musulmanas de África Oriental y Arabia. Los linajes gobernantes posteriores a menudo reivindican una ascendencia 'shirazi' procedente de Persia, una extendida tradición de legitimidad de las élites en el océano Índico que no puede interpretarse como una genealogía literal."
+  }
+ ]
+}

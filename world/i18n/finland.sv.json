@@ -1,0 +1,39 @@
+{
+ "country": "Finland",
+ "anchor": {
+  "title": "Turku Cathedral",
+  "text": "Turku Cathedral is consecrated as the mother church of the Finnish bishopric. Turku grows into the leading town of Finland and its centre of church and learning under Swedish rule."
+ },
+ "meanwhile": [
+  {
+   "title": "Island Caribs",
+   "text": "By the late pre-Columbian period, Kalinago-speaking communities are established across much of the Lesser Antilles, including Antigua. European accounts later emphasized warfare and raiding, but archaeology and ethnohistory also show regional travel, exchange, fishing and settlement.",
+   "country": "Antigua and Barbuda"
+  },
+  {
+   "title": "Salt from the sebkha",
+   "text": "Twice a year the camel caravans, the azalai, cross to the salt pans of Idjil, cutting bars of gray rock salt to trade south for millet and gold. Where the Sahel has no salt, a slab can weigh nearly against its own weight in gold.",
+   "country": "Mauritania"
+  },
+  {
+   "title": "Timur sacks Damascus",
+   "text": "Timur captures and sacks Damascus in 1401 after defeating Mamluk forces. Contemporary accounts describe extensive destruction and the forced transfer of skilled artisans to Samarkand; the city later rebuilds under Mamluk rule.",
+   "country": "Syria"
+  },
+  {
+   "title": "The stone walls of Domboshaba",
+   "text": "Domboshaba's dry-stone walls and terraces belong to the Zimbabwe cultural tradition and to the history of Kalanga-speaking communities in the region. The surviving masonry marks an important political and ceremonial center in northeastern Botswana.",
+   "country": "Botswana"
+  },
+  {
+   "title": "The Mossi kingdoms",
+   "text": "From roughly the late medieval period, several Mossi kingdoms develop on the central plateau, including Ouagadougou, Yatenga and Tenkodogo. They maintain cavalry-based states and distinct political and religious institutions until French conquest in the late nineteenth century.",
+   "country": "Burkina Faso"
+  },
+  {
+   "title": "Slave caravans cross the Sahara",
+   "text": "From Kanem's markets, camel caravans set out across the Sahara through oases like Faya, carrying salt, cloth and enslaved captives north to Tripoli and returning with horses, weapons and books. The desert crossing takes weeks; the raiding for captives to sell feeds the kings who guard the road.",
+   "country": "Chad"
+  }
+ ]
+}

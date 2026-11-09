@@ -1,0 +1,39 @@
+{
+ "country": "Iceland",
+ "anchor": {
+  "title": "Konungsríkið Ísland",
+  "text": "Sambandslögin frá 1918 viðurkenna Ísland sem fullvalda konungsríki í konungssambandi við Danmörku, með sameiginlegan danskan þjóðhöfðingja á meðan það ræður flestum innanlandsmálum. Danmörk heldur áfram að annast utanríkismál samkvæmt samkomulagi þar til sambandið endar árið 1944."
+ },
+ "meanwhile": [
+  {
+   "country": "Malí",
+   "title": "Franska Súdan sendir tirailleur-hermenn í stríðið mikla",
+   "text": "Frakkland ræður og herkveður menn frá Fransk-Súdan í hersveitir sem oftast eru flokkaðar undir tirailleurs sénégalais. Hermenn frá nýlendunni þjóna í Frakklandi, við Miðjarðarhaf og á öðrum vígstöðvum í fyrri heimsstyrjöld."
+  },
+  {
+   "country": "Rúanda",
+   "title": "Ruanda-Urundi",
+   "text": "Belgía stjórnar Ruanda-Urundi samkvæmt umboði Þjóðabandalagsins frá 1922 og stýrir Rúanda gegnum konungdæmið og höfðingjastigveldið. Nýlendukenningar um kynþætti og stjórnsýslustefna herða aðgreiningu hútúa og tútsa og hygla tútsa-yfirstéttinni stóran hluta umboðstímans."
+  },
+  {
+   "country": "Sambía",
+   "title": "Norður-Ródesía",
+   "text": "Norður-Ródesía er stofnuð árið 1911 sem landsvæði undir stjórn Breska Suður-Afríkufélagsins. Félagsstjórnin setur námuvinnslu, skattheimtu og ráðningu vinnuafls í forgang áður en Bretland tekur beina nýlendustjórn árið 1924."
+  },
+  {
+   "country": "Búrkína Fasó",
+   "title": "Efri-Volta er skipt upp",
+   "text": "Frakkland leysir upp nýlenduna Efri-Volta og skiptir landsvæði hennar milli Fílabeinsstrandarinnar, Fransk-Súdans og Níger. Mossí-kjarnalandinu er stjórnað frá ströndinni næstu fimmtán árin."
+  },
+  {
+   "country": "Mósambík",
+   "title": "Þvingaða baðmullarkerfið",
+   "text": "Portúgölsk yfirvöld skylda afríska bændur víða um Norður-Mósambík til að rækta baðmull og selja hana nýlenduveldisfyrirtækjum á föstu verði. Kerfið mótar sveitalíf um áratugi og verður að langvarandi óánægju gegn nýlendustjórninni."
+  },
+  {
+   "country": "Antígva og Barbúda",
+   "title": "Studiation Brown",
+   "text": "Verðbólga á stríðstímum og lág laun stuðla að verkalýðsóróa á Antígva árið 1918. Mótmæli og óeirðir eru bæld niður af nýlenduyfirvöldum. Atvikið verður eitt af nokkrum fordæmum sem skipuleggjendur verkalýðshreyfingar eyjunnar á tuttugustu öld minnast síðar."
+  }
+ ]
+}
